@@ -168,7 +168,10 @@ https://mhdtvweb.com/sliv/stream.php?id=sony-ten-2&e=.m3u8|Referer=https://mhdtv
 #EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png",Sony Sports 3
 http://tv.cloudcdn.me/live.ts?channelId=291&uid=5563&deviceMac=00:1A:79:A7:35:8B
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png/revision/latest/scale-to-width-down/460?cb=20221025091902",Sony Sports 5
-http://tv.cloudcdn.me/live.ts?channelId=105350&uid=5563&deviceMac=00:1A:79:A7:35:8B
+https://mhdtvweb.com/sliv/stream.php?id=sony-ten-5&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
+#EXTINF:-1  ,Sony Live
+https://dai.google.com/ssai/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8
+
 
 https://mhdtvweb.com/sliv/stream.php?id=sony-ten-5&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
 https://mhdtvweb.com/sliv/stream.php?id=sony-ten-3&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
@@ -205,8 +208,11 @@ https://www.mytvsuper.us.kg/anbo.php?id=1405
 https://www.mytvsuper.us.kg/anbo.php?id=2786
 #EXTINF:-1,tvg-id="SKYSPORT" tvg-name="SKYSPORT" tvg-logo="https://epg.v1.mk/logo/SKYSPORT.png",SKY SPORT ARENA
 https://www.mytvsuper.us.kg/anbo.php?id=2739
-#EXTINF:-1 tvg-id=1984 tvg-name="Sports18 1 HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Sports18_1_HD.png",Sports18 1 HD http://14.102.123.50:5001/live/1984.m3u8
+#EXTINF:-1 tvg-id=1984 tvg-name="Sports18 1 HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Sports18_1_HD.png",Sports18 1 HD
 http://103.120.172.74:5500/
+
+http://14.102.123.50:5001/live/1984.m3u8
+
 http://14.102.123.50:5001/live/1985.m3u8
 #EXTINF:-1 tvg-id=2852 tvg-name="Sports18 2" tvg-logo="http://14.102.123.50:5001/jtvimage/Sports18_2.png", Sports18 2
 http://14.102.123.50:5001/live/2852.m3u8
@@ -416,3 +422,6 @@ euro sports 1.pc
 https://www.mytvsuper.us.kg/anbo.php?id=3227
 bein 3 pc
 https://www.mytvsuper.us.kg/anbo.php?id=2405
+
+sony sports 5
+http://tv.cloudcdn.me/live.ts?channelId=105350&uid=5563&deviceMac=00:1A:79:A7:35:8B
