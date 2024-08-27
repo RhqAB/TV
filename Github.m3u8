@@ -216,7 +216,7 @@ http://14.102.123.50:5001/live/2853.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GpVSKBQ/images.png", TV8,5
 https://hw1.jemtv.com/app/tv85/chunks.m3u8
-EXTINF:-1 ,EURO SPORTS
+#EXTINF:-1 ,EURO SPORTS
 http://opplextv.cyou:8080/live/4545/4545/206324.ts
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/LBCNEWSUK.png",Euro Sport 1
 http://ott.watch/stream/DCHYNU242U9/176.m3u8
