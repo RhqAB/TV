@@ -216,15 +216,15 @@ http://14.102.123.50:5001/live/2853.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GpVSKBQ/images.png", TV8,5
 https://hw1.jemtv.com/app/tv85/chunks.m3u8
-#EXTINF:-1 ,EURO SPORTS
+EXTINF:-1 ,EURO SPORTS
 http://opplextv.cyou:8080/live/4545/4545/206324.ts
-http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/LBCNEWSUK.png",Euro Sport 1
 http://ott.watch/stream/DCHYNU242U9/176.m3u8
-https://www.mytvsuper.us.kg/anbo.php?id=3226
+#EXTINF:-1 ,EURO SPORTS 2 HD
+http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 #EXTINF:-1 tvg-logo="https://epg.v1.mk/logo/LBCNEWSUK.png",Euro Sport 2
 http://ott.watch/stream/DCHYNU242U9/192.m3u8
-https://www.mytvsuper.us.kg/anbo.php?id=3227
+
 #EXTINF:-1 " tvg-logo="https://mutv.manutd.com/assets/images/fav_icon.png",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180805/bq/kisspng-real-madrid-c-f-real-madrid-tv-television-channel-llistat-de-canals-andorra-telecom-5b67c483afefc1.7314644815335271717206.jpg",RM TV HD
@@ -232,8 +232,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-ci
 
 #EXTINF:-1 ,Star Jalsha HD
 http://103.151.60.174/manikvai@hoichoi24.com
-#EXTINF:-1 ,Star Jalsha HD
-http://217.20.112.199/starjalshahd/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/F0dmFko.jpg",Zee Bangla HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
 #EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11970-j9luk5ag-v1/imageContent-11970-j9luk5ag-m1.png",ZEE Bangla FHD
@@ -250,8 +248,6 @@ http://humsab.xyz/IN_STGOLD/index.m3u8
 http://humsab.xyz/IN_STARGOLDSELECT/index.m3u8
 #EXTINF:-1 ,Star Bharat
 http://116.202.46.40:9023/STAR_BHARAT/index.m3u8
-#EXTINF:-1 ,STAR GOLD TRILLS
-http://103.84.57.155:8000/play/a0c7/index.m3u8
 #EXTINF:-1 ,Colors HD
 http://116.202.46.40:9023/COLORS_HINDI/index.m3u8
 #EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" ,Colors Infinity SD
@@ -410,3 +406,12 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dwnews.stream/playlist.m3u8
 #EXTINF:-1 ,CGTN News jagobd
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtn.stream/playlist.m3u8
+
+TESToo
+
+euro sports
+https://www.mytvsuper.us.kg/anbo.php?id=3226
+,Star Jalsha HD
+http://217.20.112.199/starjalshahd/index.m3u8
+euro sports 1.pc
+https://www.mytvsuper.us.kg/anbo.php?id=3227
