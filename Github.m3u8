@@ -192,7 +192,7 @@ http://176.119.29.52/live.ts?channelId=105349&uid=15834&deviceMac=00:1A:79:40:26
 https://mhdtvweb.com/sliv/stream.php?id=sony-ten-5&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
 #EXTINF:-1 group-title="Sports" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png",Sony Live
 https://dai.google.com/ssai/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8
-#EXTINF:-1, LIVE
+#EXTINF:-1 group-title="Sports" ,LIVE
 https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8
 
 
@@ -286,44 +286,43 @@ http://176.119.29.61/live.ts?channelId=79&uid=13433&deviceMac=00:1A:79:00:97:A1&
 https://cdn3.pishow.tv/live/281/master.m3u8
 
 
-
-#EXTINF:-1 , STAR PLUS HD
+#EXTINF:-1 group-title="Hindi Entertainment", STAR PLUS HD
 http://217.20.112.199/starplushd/index.m3u8
-#EXTINF:-1 ,STAR GOLD HD
+#EXTINF:-1 group-title="Hindi Entertainment",STAR GOLD HD
 http://humsab.xyz/IN_STGOLD/index.m3u8
-#EXTINF:-1 ,STAR GOLD 2 HD
+##EXTINF:-1 group-title="Hindi Entertainment",STAR GOLD 2 HD
 http://opplextv.cyou:8080/live/773199/626227/106133.ts
-#EXTINF:-1 ,STAR GOLD SELECT HD
+#EXTINF:-1 group-title="Hindi Entertainment",STAR GOLD SELECT HD
 http://humsab.xyz/IN_STARGOLDSELECT/index.m3u8
-#EXTINF:-1 ,Star Bharat
+#EXTINF:-1 group-title="Hindi Entertainment",Star Bharat
 http://116.202.46.40:9023/STAR_BHARAT/index.m3u8
-#EXTINF:-1 ,Colors HD
+#EXTINF:-1 group-title="Hindi Entertainment",Colors HD
 http://116.202.46.40:9023/COLORS_HINDI/index.m3u8
-#EXTINF:-1 tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" ,Colors Infinity SD
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" ,Colors Infinity SD
 http://14.102.123.50:5001/live/1325.m3u8
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png",Sony Entertainment
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png",Sony Entertainment
 https://bdix.proximitybd.xyz/tf2.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainment/playlist.m3u8
-#EXTINF:-1 tvg-id=sl476 tvg-name="SL Sony MAX HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Sony_Max_HD.png",Sony Max
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-id=sl476 tvg-name="SL Sony MAX HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Sony_Max_HD.png",Sony Max
 http://116.202.46.40:789/SONY_MAX_HINDI/index.m3u8
-#EXTINF:-1 tvg-id=sl483 tvg-name="SL Sony MAX 2" tvg-logo="http://14.102.123.50:5001/jtvimage/Sony_MAX2.png",Sony MAX 2
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-id=sl483 tvg-name="SL Sony MAX 2" tvg-logo="http://14.102.123.50:5001/jtvimage/Sony_MAX2.png",Sony MAX 2
 http://humsab.xyz/IN_S_X2/mpegts?token=f7aa562528f2909e7f249d2152b3655f
-#EXTINF:-1 tvg-id=sl154 tvg-name="SL Sony SAB HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Sony_SAB_HD.png",Sony SAB HD
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-id=sl154 tvg-name="SL Sony SAB HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Sony_SAB_HD.png",Sony SAB HD
 https://mhdtvweb.com/sliv/stream.php?id=sony-sab-hd&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ADXlju2.png",Sony WAH
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://i.imgur.com/ADXlju2.png",Sony WAH
 http://tv.cloudcdn.me:80/live.ts?channelId=187&uid=1868&deviceMac=00:1A:79:94:98:FE
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_tv.png,Zee TV
+#EXTINF:-1 group-title="Hindi Entertainment"  tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_tv.png,Zee TV
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
-#EXTINF:-1 ,& TV HD
+#EXTINF:-1 group-title="Hindi Entertainment" ,& TV HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
-#EXTINF:-1 ,& PICTURES HD
+#EXTINF:-1 group-title="Hindi Entertainment" ,& PICTURES HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DD%20National.png",DD National
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DD%20National.png",DD National
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
-#EXTINF:-1 tvg-id=1973 tvg-name="ETV HD" tvg-logo="http://14.102.123.50:5001/jtvimage/ETV_HD.png", ETV HD
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="http://14.102.123.50:5001/jtvimage/ETV_HD.png", ETV HD
 http://14.102.123.50:5001/live/1973.m3u8
-#EXTINF:-1 ,HUM TV
+#EXTINF:-1 group-title="Pakistani Entertainment" ,HUM TV
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
-#EXTINF:-1 ,HAR PAL GRO
+#EXTINF:-1 group-title="Pakistani Entertainment" ,HAR PAL GRO
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="Movie Channel",Jalsha Movies
@@ -442,47 +441,47 @@ NEWS
 
 #EXTINF:-1 group-title="International News" tvg-logo="https://w7.pngwing.com/pngs/393/802/png-transparent-bbc-news-online-logo-of-the-bbc-hbo-logo-television-text-rectangle-thumbnail.png",BBC World News
 http://xtv.ooo:8080/live/malik625538/digitalstore1year/346360.ts
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/al_jazeera.png",AL Jazeera HD
+#EXTINF:-1 group-title="International News" tvg-logo="https://edge01.iptv.digijadoo.net/static/al_jazeera.png",AL Jazeera HD
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png",CNN
+#EXTINF:-1 group-title="International News" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png",CNN
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/08/Fox-News-Channel-Emblem-1024x576.png",Fox News
+#EXTINF:-1 group-title="International News" tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/08/Fox-News-Channel-Emblem-1024x576.png",Fox News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/182_voiceofamerica.jpg",Voice of America
+#EXTINF:-1 group-title="International News" tvg-logo="https://logowik.com/content/uploads/images/182_voiceofamerica.jpg",Voice of America
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/voa.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/dw-deutsche-welle4346.logowik.com.webp",DW News 
+#EXTINF:-1 group-title="International News" tvg-logo="https://logowik.com/content/uploads/images/dw-deutsche-welle4346.logowik.com.webp",DW News 
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg",CNA
+#EXTINF:-1 group-title="International News" tvg-logo="https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1, Global News (Canada)
+#EXTINF:-1 group-title="International News" ,Global News (Canada)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
-#EXTINF:-1 ,CGTN News jagobd
+#EXTINF:-1 group-title="International News" ,CGTN News jagobd
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtn.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-dSqBcEqAp3yjlFXxzzAzT-whLCiaARnEgw&usqp=CAU",Zee 24 Ghonta
+#EXTINF:-1 group-title="International News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-dSqBcEqAp3yjlFXxzzAzT-whLCiaARnEgw&usqp=CAU",Zee 24 Ghonta
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
-#EXTINF:-1 tvg-logo="https://feeds.abplive.com/onecms/images/uploaded-images/2024/01/03/a7a105a5aea78d7f063886a48d22045f1704284190505616_original.jpeg",Abp News live
+#EXTINF:-1 group-title="International News" tvg-logo="https://feeds.abplive.com/onecms/images/uploaded-images/2024/01/03/a7a105a5aea78d7f063886a48d22045f1704284190505616_original.jpeg",Abp News live
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://tv9bangla.com&client=VFE&size=64&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",TV9 Bangla
+#EXTINF:-1 group-title="International News" tvg-logo="https://encrypted-tbn2.gstatic.com/faviconV2?url=https://tv9bangla.com&client=VFE&size=64&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2",TV9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_dkuhURvTgI96Tf-9hCKJKmE7T6YAmewdg&usqp=CAU",Republic Bangla
+#EXTINF:-1 group-title="International News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_dkuhURvTgI96Tf-9hCKJKmE7T6YAmewdg&usqp=CAU",Republic Bangla
 https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8?ads.partner=republicweb
-#EXTINF:-1 tvg-logo="http://14.102.123.50:5001/jtvimage/Aaj_Tak.png", Aaj Tak
+#EXTINF:-1 group-title="International News" tvg-logo="http://14.102.123.50:5001/jtvimage/Aaj_Tak.png", Aaj Tak
 https://feeds.intoday.in/aajtak/api/master.m3u8
-#EXTINF:-1 tvg-logo="http://14.102.123.50:5001/jtvimage/NDTV_India.png", NDTV India
+#EXTINF:-1 group-title="International News" tvg-logo="http://14.102.123.50:5001/jtvimage/NDTV_India.png", NDTV India
 http://14.102.123.50:5001/live/258.m3u8
-#EXTINF:-1 tvg-logo="https://brandeps.com/logo-download/N/NDTV-24X7-logo-vector-01.svg",NDTV 24/7
+#EXTINF:-1 group-title="International News" tvg-logo="https://brandeps.com/logo-download/N/NDTV-24X7-logo-vector-01.svg",NDTV 24/7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl7ydXmES0sHJ-ItmBfC242ssmIbjO1iDlMQwPmHppmpy0STsX0G-gUvU&s=10",Ary News
+#EXTINF:-1 group-title="International News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl7ydXmES0sHJ-ItmBfC242ssmIbjO1iDlMQwPmHppmpy0STsX0G-gUvU&s=10",Ary News
 http://xtv.ooo:8080/live/global/global/221344.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr1nHz4eZ4WozzuRuR5eiFZ5y_JuUUji7SUzUeyew4_3rmN8bt0RHRhks&s=10",Geo News
+#EXTINF:-1 group-title="International News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr1nHz4eZ4WozzuRuR5eiFZ5y_JuUUji7SUzUeyew4_3rmN8bt0RHRhks&s=10",Geo News
 http://xtv.ooo:8080/live/global/global/221343.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Dunya_News.jpg",Dunya News
+#EXTINF:-1 group-title="International News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Dunya_News.jpg",Dunya News
 http://xtv.ooo:8080/live/global/global/221346.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/BOL_Network.png",Bol Network
+#EXTINF:-1 group-title="International News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/BOL_Network.png",Bol Network
 http://xtv.ooo:8080/live/global/global/26046.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/PTV_News_Logo.png",Ptv News
+#EXTINF:-1 group-title="International News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/PTV_News_Logo.png",Ptv News
 http://xtv.ooo:8080/live/global/global/25988.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvRY7EUn-xSZCuHAW51l_KfdvNCU6taeStWQl24nqM72E6Cq1vcNuUvzha&s=10",Ptv World
+#EXTINF:-1 group-title="International News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvRY7EUn-xSZCuHAW51l_KfdvNCU6taeStWQl24nqM72E6Cq1vcNuUvzha&s=10",Ptv World
 http://xtv.ooo:8080/live/global/global/167657.m3u8
 
 
