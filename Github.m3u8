@@ -94,6 +94,9 @@ https://utube.buddyxiptv.com/@ekhontv.m3u8
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/playlist.m3u8
 
 
+KIDS
+
+
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",DURONTO TV
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=duronto_tv
@@ -148,6 +151,8 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deentv.stream/playlist.m3u8
 
 
+
+SPORTS
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png",T Sports
@@ -258,6 +263,8 @@ http://14.102.123.50:5001/live/1985.m3u8
 http://14.102.123.50:5001/live/2852.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id=2853 tvg-name="Sports18 3" tvg-logo="http://14.102.123.50:5001/jtvimage/Sports18_3.png", Sports18 3
 http://14.102.123.50:5001/live/2853.m3u8
+#EXTINF:-1 group-title="Sports" ,DD SPORTS HD
+http://172.105.123.238:18002/play/a03d
 
 #EXTINF:-1 group-title="Sports" , Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
@@ -314,6 +321,8 @@ https://mhdtvweb.com/sliv/stream.php?id=sony-sab-hd&e=.m3u8|Referer=https://mhdt
 http://tv.cloudcdn.me:80/live.ts?channelId=187&uid=1868&deviceMac=00:1A:79:94:98:FE
 #EXTINF:-1 group-title="Hindi Entertainment"  tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_tv.png,Zee TV
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
+#EXTINF:-1 group-title="Hindi Entertainment"  tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11969-j9luigc0-v2/imageContent-11969-j9luigc0-m2.png" group-title="ZEE5",Zee Anmol
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol1.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment" ,& TV HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment" ,& PICTURES HD
