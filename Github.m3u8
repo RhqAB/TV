@@ -31,7 +31,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/nQLFk5P/images-11.jpg",Maasranga
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.imgur.com/d1zRBNr.png",Channel 9
-https://edge01.iptv.digijadoo.net/live/channel_9/playlist.m3u8?md5=p6TvuH_JkhlH4Y4jSnENeQ&expires=1725000479&user=ef71b837ceef4cd18a6cf7069722d83d
+http://opplex.live:8080/live/Farhan12/8866002/245902.ts
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png",Gtv
 https://bds.bdsajibx.workers.dev/digi/master.m3u8?id=59025&e=.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/20b9a6ee-8716-49e7-a683-c33ae3d8a4cb_180x180_517faf69-4b0c-4350-a1e2-0f35fb72f53b.png",Asian TV
@@ -361,6 +361,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png",Zee Cafe
 http://14.102.123.50:5001/live/1319.m3u8
+#EXTINF:-1 group-title="Movie Channel",Star Utsab Movies
+http://opplex.live:8080/live/Farhan12/8866002/112971.ts
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://i.ibb.co/1GdmG6F/20240816-213222.png",Bflix
 http://idvd.multitvsolution.com/idvo/bflixmovies_540p.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXv4xURd0N6Rfwu0GGcXn6DPoVDOnxR-I2jiyiyEIejAItC4F5Uj3mAT9p&s=10",Goldmines Bollywood
@@ -534,6 +536,7 @@ https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=gazi_tv_hd
 
 Channel 9
 http://176.119.29.52/live.ts?channelId=88&uid=8164&deviceMac=00:1A:79:17:D4:A1
+https://edge01.iptv.digijadoo.net/live/channel_9/playlist.m3u8?md5=p6TvuH_JkhlH4Y4jSnENeQ&expires=1725000479&user=ef71b837ceef4cd18a6cf7069722d83d
 
 Somoy
 https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/video.m3u8
