@@ -2,6 +2,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
 #EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 
+
 #EXTINF:-1 group-title="Bangladeshi"  tvg-logo="https://i.postimg.cc/mg15t8NJ/images-1-4.png",BTV National
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Btv-g.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://images.toffeelive.com/images/program/1/logo/240x240/mobile_logo_310000001673183767.png", Btv World
@@ -189,13 +190,13 @@ https://mhdtv.co.in/daddy/stream.m3u8?id=450|Referer=https://mhdtv.co.in//&key=B
 #EXTINF:-1 group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",Sony Sports 1
 http://tv.cloudcdn.me/live.ts?channelId=289&uid=5563&deviceMac=00:1A:79:A7:35:8B
 #EXTINF:-1 group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",Sony Sports 2
-https://mhdtvweb.com/sliv/stream.php?id=sony-ten-2&e=.m3u8|Referer=https://mhdtvweb.com//&key=BDStreamHub
+http://ekdilhai.pro/IN_SNT2/index.m3u8?token=ed35bc130772d0d29435cee71272324c
 #EXTINF:-1 group-title="Sports" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png",Sony Sports 3
 http://tv.cloudcdn.me/live.ts?channelId=291&uid=5563&deviceMac=00:1A:79:A7:35:8B
 #EXTINF:-1 group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",Sony Sports 4
 http://176.119.29.52/live.ts?channelId=105349&uid=15834&deviceMac=00:1A:79:40:26:09
 #EXTINF:-1 group-title="Sports" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png/revision/latest/scale-to-width-down/460?cb=20221025091902",Sony Sports 5
-https://mhdtvweb.com/sliv/stream.php?id=sony-ten-5&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
+https://humsab.xyz/S_Ten5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png",Sony Live
 https://dai.google.com/ssai/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8
 #EXTINF:-1 group-title="Sports" ,LIVE
@@ -589,9 +590,12 @@ https://mhdtvweb.com/sliv/stream.php?id=sony-ten-3&e=.m3u8|Referer=https://mhdtv
 https://mhdtvweb.com/sliv/stream.php?id=sony-ten-2&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
 https://mhdtvweb.com/sliv/stream.php?id=sony-ten-1&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
 
+sony 2
+https://mhdtvweb.com/sliv/stream.php?id=sony-ten-2&e=.m3u8|Referer=https://mhdtvweb.com//&key=BDStreamHub
 
 sony sports 5
 http://tv.cloudcdn.me/live.ts?channelId=105350&uid=5563&deviceMac=00:1A:79:A7:35:8B
+https://mhdtvweb.com/sliv/stream.php?id=sony-ten-5&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
 
 
 Sky Sports Cricket
