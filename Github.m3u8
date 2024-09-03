@@ -34,7 +34,7 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.imgur.com/d1zRBNr.png",Channel 9
 http://opplex.live:8080/live/Farhan12/8866002/245902.ts
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png",Gtv
-https://bds.bdsajibx.workers.dev/digi/master.m3u8?id=59025&e=.m3u8
+https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=KCJ1E-b_80cUCpsgqH50dg&expires=1725376626&user=c15be118d93a464dabf77260596012cf
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/20b9a6ee-8716-49e7-a683-c33ae3d8a4cb_180x180_517faf69-4b0c-4350-a1e2-0f35fb72f53b.png",Asian TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png",Satv
@@ -154,7 +154,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png",T Sports
-https://fmrx.short.gy/bdixiptvhub/t_sports.m3u8
+https://mhdtv.co.in/daddy/stream.m3u8?id=270|Referer=https://mhdtv.co.in//&key=BDStreamHub
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/KXSPddd/20240827-010107.png",T Sports LIVE 2
 https://bdix.proximitybd.xyz/buka.php?id=live-02
 #EXTINF:-1 group-title="Sports" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png",T Sports Backup
@@ -210,7 +210,7 @@ http://xtv.ooo:8080/live/98267/02727/238479.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png",Ten Sports
 http://opplextv.cyou:8080/live/773199/626227/167569.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",A Sports
-https://humsab.xyz/APakSpo/index.m3u8?token=bfaeae8c8599b3970bb1d7b0bc335988
+https://nowmesports.com/crichd/stream.php?id=asportshd&e=.m3u8|Referer=https://nowmesports.com//&key=BDStreamHub
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.comedy.co.uk/images/channels/tnt_sports_1.jpg",TNT Sports 1
@@ -519,6 +519,10 @@ TESToo
 T Sports
 http://103.151.60.174/manikvai@hoichoi24.com-t-sports
 https://cdn.hotflix-bd.online/hotflixbd/T-Sports/index.m3u8
+https://fmrx.short.gy/bdixiptvhub/t_sports.m3u8
+
+A sports
+https://humsab.xyz/APakSpo/index.m3u8?token=bfaeae8c8599b3970bb1d7b0bc335988
 
 STAR SPORTS SELECT 1 HD
 http://opplextv.cyou:8080/live/4545/4545/167578.ts
@@ -526,6 +530,9 @@ Ekushey
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 Gazi Tv
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=gazi_tv_hd
+http://tv.cloudcdn.me/live.ts?channelId=98&uid=8164&deviceMac=00:1A:79:17:D4:A1
+https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=KCJ1E-b_80cUCpsgqH50dg&expires=1725376626&user=c15be118d93a464dabf77260596012cf
+https://bds.bdsajibx.workers.dev/digi/master.m3u8?id=59025&e=.m3u8
 
 Channel 9
 http://176.119.29.52/live.ts?channelId=88&uid=8164&deviceMac=00:1A:79:17:D4:A1
