@@ -304,11 +304,11 @@ https://cdn3.pishow.tv/live/281/master.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment", STAR PLUS HD
 http://217.20.112.199/starplushd/index.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment",STAR GOLD HD
-http://humsab.xyz/IN_STGOLD/index.m3u8
+http://starshare.live:8080/live/9826816920/8625825719/194.m3u8
 ##EXTINF:-1 group-title="Hindi Entertainment",STAR GOLD 2 HD
 http://opplextv.cyou:8080/live/773199/626227/106133.ts
 #EXTINF:-1 group-title="Hindi Entertainment",STAR GOLD SELECT HD
-http://humsab.xyz/IN_STARGOLDSELECT/index.m3u8
+http://starshare.live:8080/live/9826816920/8625825719/210.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment",Star Bharat
 http://opplex.live:8080/live/Farhan12/8866002/221255.ts
 
@@ -318,13 +318,14 @@ http://opplex.live:8080/live/Farhan12/8866002/221254.ts
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" ,Colors Infinity SD
 http://14.102.123.50:5001/live/1325.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png",Sony Entertainment
-https://bdix.proximitybd.xyz/tf2.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainment/playlist.m3u8
+http://starshare.live:8080/live/9826816920/8625825719/144.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-id=sl476 tvg-name="SL Sony MAX HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Sony_Max_HD.png",Sony Max
-http://116.202.46.40:789/SONY_MAX_HINDI/index.m3u8
+http://starshare.live:8080/live/9826816920/8625825719/151.m3u8
+
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-id=sl483 tvg-name="SL Sony MAX 2" tvg-logo="http://14.102.123.50:5001/jtvimage/Sony_MAX2.png",Sony MAX 2
 http://humsab.xyz/IN_S_X2/mpegts?token=f7aa562528f2909e7f249d2152b3655f
-#EXTINF:-1 group-title="Hindi Entertainment" tvg-id=sl154 tvg-name="SL Sony SAB HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Sony_SAB_HD.png",Sony SAB HD
-https://mhdtvweb.com/sliv/stream.php?id=sony-sab-hd&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-id=sl154 tvg-name="SL Sony SAB HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Sony_SAB_HD.png",Sony SAB HDHD
+http://starshare.live:8080/live/9826816920/8625825719/145.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://i.imgur.com/ADXlju2.png",Sony WAH
 http://tv.cloudcdn.me:80/live.ts?channelId=187&uid=1868&deviceMac=00:1A:79:94:98:FE
 #EXTINF:-1 group-title="Hindi Entertainment"  tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_tv.png,Zee TV
@@ -671,6 +672,19 @@ aaj tak
 http://14.102.123.50:5001/live/173.m3u8
 DW
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dwnews.stream/playlist.m3u8
+
+
+HINDI Entertainment Test
+sony max
+http://116.202.46.40:789/SONY_MAX_HINDI/index.m3u8
+star gold
+http://humsab.xyz/IN_STGOLD/index.m3u8
+star gold select
+http://humsab.xyz/IN_STARGOLDSELECT/index.m3u8
+sony entertainment 
+https://bdix.proximitybd.xyz/tf2.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainment/playlist.m3u8
+Sony sab
+https://mhdtvweb.com/sliv/stream.php?id=sony-sab-hd&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
 
 
 b4u music
