@@ -323,7 +323,7 @@ http://starshare.live:8080/live/9826816920/8625825719/144.m3u8
 http://starshare.live:8080/live/9826816920/8625825719/151.m3u8
 
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-id=sl483 tvg-name="SL Sony MAX 2" tvg-logo="http://14.102.123.50:5001/jtvimage/Sony_MAX2.png",Sony MAX 2
-http://humsab.xyz/IN_S_X2/mpegts?token=f7aa562528f2909e7f249d2152b3655f
+http://starshare.live:8080/live/9826816920/8625825719/973.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-id=sl154 tvg-name="SL Sony SAB HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Sony_SAB_HD.png",Sony SAB HDHD
 http://starshare.live:8080/live/9826816920/8625825719/145.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://i.imgur.com/ADXlju2.png",Sony WAH
@@ -497,6 +497,10 @@ https://feeds.intoday.in/aajtak/api/master.m3u8
 http://14.102.123.50:5001/live/258.m3u8
 #EXTINF:-1 group-title="International News" tvg-logo="https://brandeps.com/logo-download/N/NDTV-24X7-logo-vector-01.svg",NDTV 24/7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+#EXTINF:-1  group-title="International News",Zee News
+http://starshare.live:8080/live/9826816920/8625825719/7259.ts
+#EXTINF:-1  group-title="International News",Times Now India
+http://starshare.live:8080/live/9826816920/8625825719/155585.ts
 #EXTINF:-1  group-title="International News",DD NEWS
 http://172.105.123.238:18002/play/a002
 #EXTINF:-1 group-title="International News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl7ydXmES0sHJ-ItmBfC242ssmIbjO1iDlMQwPmHppmpy0STsX0G-gUvU&s=10",Ary News
@@ -515,6 +519,10 @@ http://xtv.ooo:8080/live/global/global/167657.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 group-title="International News",Thank You
 http://vod3.cloudlivesawa.shop/streams_cach/158531.m3u8
+
+
+
+
 
 
 
@@ -685,6 +693,10 @@ sony entertainment
 https://bdix.proximitybd.xyz/tf2.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainment/playlist.m3u8
 Sony sab
 https://mhdtvweb.com/sliv/stream.php?id=sony-sab-hd&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
+Sony Max 2
+http://humsab.xyz/IN_S_X2/mpegts?token=f7aa562528f2909e7f249d2152b3655f
+
+
 
 
 b4u music
