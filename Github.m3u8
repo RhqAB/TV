@@ -147,7 +147,7 @@ https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/islamtv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://i.ibb.co/2F9HQq9/20240803-172433.png",Iqra Bangla
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/playlist.m3u8
-#EXTINF:-1 group-title="slamic" tvg-logo="https://i.ibb.co/89CVshH/20240827-091949.png",Deen TV UK
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://i.ibb.co/89CVshH/20240827-091949.png",Deen TV UK
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deentv.stream/playlist.m3u8
 
 
@@ -294,6 +294,8 @@ http://103.84.57.155:8000/play/a0c9/index.m3u8
 http://103.84.57.155:8000/play/a09p/index.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment",Star Bharat
 http://vo01.mohdtv.com:8880/voby5038/67747551/55258
+#EXTINF:-1 group-title="Hindi Entertainment",Zee TV
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment",Colors HD
 http://opplex.live:8080/live/773199/626227/221254.ts
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" ,Colors Infinity SD
@@ -333,7 +335,7 @@ http://tv.cloudcdn.me/live.ts?channelId=117&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://i.postimg.cc/J4jcz3x4/image.jpg",Zee Bangla Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png", Colors Bangla Cinema
-http://14.102.123.50:5001/live/1657.m3u8
+http://217.20.112.199/colorsbangla/index.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_cinema.png",Zee Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png",Zee Action
@@ -709,7 +711,8 @@ http://opplextv.cyou:8080/live/773199/626227/106133.ts
 st gold select 
 http://starshare.live:8080/live/9826816920/8625825719/210.m3u8
 
-
+color bangla cinema
+http://14.102.123.50:5001/live/1657.m3u8
 HBO
 http://tv.cloudcdn.me:80/live.ts?channelId=49858&uid=13556&deviceMac=00:1A:79:AB:DF:A6
 comedy central
