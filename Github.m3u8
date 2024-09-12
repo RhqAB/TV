@@ -179,15 +179,18 @@ http://xtv.ooo:8080/live/malik625538/digitalstore1year/167587.m3u8
 https://ddy1.mizhls.ru:443/ddy1/premium368/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",A Sports
 https://nowmesports.com/crichd/stream.php?id=asportshd&e=.m3u8|Referer=https://nowmesports.com//&key=BDStreamHub
+#EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.comedy.co.uk/images/channels/tnt_sports_1.jpg",TNT Sports 1
+https://thenayeemparvez.xyz/cric/master.php?id=bbtsp1&e=.m3u8|Referer=https://thenayeemparvez.xyz/
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpp69gsQwJYuDspe-650YnMewqMxf1vff7OtChwYqXPg&s",Astro Cricket
 http://z88.ubtvfans.com/live/rx3/1173/b9032b89cc136d03888b97ebd36f03aa/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="SKYSPORT" tvg-name="SKYSPORT" tvg-logo="https://epg.v1.mk/logo/SKYSPORT.png",Sky Sports Cricket
 https://ddy1.mizhls.ru:443/ddy1/premium65/tracks-v1a1/mono.m3u8?%7Creferer=https://weblivehdplay.ru/&user-agent=ms.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/300/-/2024-06-26/2406261918023.jpg",Jio Cricket
 http://opplextv.cyou:8080/live/773199/626227/206297.ts
+#EXTINF:-1 group-title="Sports", RTA Sports
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png",PTV SPORTS HD
 https://live4.shoq.com.pk/live/eds/PTV_Sports/DASH/PTV_Sports.mpd?%7CdrmScheme=clearkey&drmLicense=https://denver1769.in/TP/key.php
-
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",Sony Sports 1
 http://tv.cloudcdn.me/live.ts?channelId=289&uid=5563&deviceMac=00:1A:79:A7:35:8B
@@ -201,9 +204,6 @@ http://176.119.29.52/live.ts?channelId=105349&uid=15834&deviceMac=00:1A:79:40:26
 http://tv.cloudcdn.me/live.ts?channelId=105350&uid=5563&deviceMac=00:1A:79:A7:35:8B
 #EXTINF:-1 group-title="Sports" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png",Sony Live
 https://dai.google.com/ssai/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8
-#EXTINF:-1 group-title="Sports" ,LIVE
-https://pubads.g.doubleclick.net/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8
-
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg",Super Football
 http://xtv.ooo:8080/live/98267/02727/238480.m3u8
@@ -213,21 +213,10 @@ http://xtv.ooo:8080/live/98267/02727/238479.m3u8
 http://opplextv.cyou:8080/live/773199/626227/167569.ts
 #EXTINF:-1 group-title="Sports", PPTV HD
 https://edge2a.v2h-cdn.com/pptv/pptv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports", Arena Sports
-https://webtvstream.bhtelecom.ba/hls6/arena1.mpd?|drmScheme=clearkey&drmLicense=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-
-
-#EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.comedy.co.uk/images/channels/tnt_sports_1.jpg",TNT Sports 1
-https://thenayeemparvez.xyz/cric/master.php?id=bbtsp1&e=.m3u8|Referer=https://thenayeemparvez.xyz/
-#EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.comedy.co.uk/images/channels/tnt_sports_2.jpg",TNT Sports 2
-https://www.mytvsuper.us.kg/anbo.php?id=166
-#EXTINF:-1 group-title="Sports" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F2%2F42%2Ftnt-sports-3-1.png",TNT Sports 3
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd?%7CdrmScheme=clearkey&drmLicense=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
-#EXTINF:-1 group-title="Sports" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F2%2F42%2Ftnt-sports-3-1.png",TNT Sports 4
-https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd?|drmScheme=clearkey&drmLicense=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
-#EXTINF:-1 group-title="Sports", La Liga
-https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index.m3u8
-
+#EXTINF:-1 group-title="Sports" tvg-logo="https://mutv.manutd.com/assets/images/fav_icon.png",MU TV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://banner2.cleanpng.com/20180805/bq/kisspng-real-madrid-c-f-real-madrid-tv-television-channel-llistat-de-canals-andorra-telecom-5b67c483afefc1.7314644815335271717206.jpg",RM TV HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://e7.pngegg.com/pngimages/19/599/png-clipart-bein-sports-text-bein-sports-united-states-la-liga-bein-sports-1-sports-miscellaneous-purple.png",Bein Sport 1
@@ -240,8 +229,6 @@ http://xtv.ooo:8080/live/malik625538/digitalstore1year/381334.m3u8
 http://xtv.ooo:8080/live/malik625538/digitalstore1year/381336.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://e7.pngegg.com/pngimages/19/599/png-clipart-bein-sports-text-bein-sports-united-states-la-liga-bein-sports-1-sports-miscellaneous-purple.png",Bein Sport 5
 http://xtv.ooo:8080/live/malik625538/digitalstore1year/381338.m3u8
-
-
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/GpVSKBQ/images.png", TV8,5
 https://hw1.jemtv.com/app/tv85/chunks.m3u8
@@ -256,12 +243,8 @@ http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
 #EXTINF:-1 group-title="Sports" ,DD SPORTS HD
 http://172.105.123.238:18002/play/a03d
 
-#EXTINF:-1 group-title="Sports" ,SSC 3
-https://ssc3-ak.akamaized.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd?|drmScheme=clearkey&drmLicense=7de5dd08ad8041d586c2f16ccc9490a1:5e1503f3398b34f5099933fedab847ef
-#EXTINF:-1 group-title="Sports" tvg-logo="https://mutv.manutd.com/assets/images/fav_icon.png",MU TV
-https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://banner2.cleanpng.com/20180805/bq/kisspng-real-madrid-c-f-real-madrid-tv-television-channel-llistat-de-canals-andorra-telecom-5b67c483afefc1.7314644815335271717206.jpg",RM TV HD
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
+
+
 #EXTINF:-1 group-title="Sports" tvg-id=1984 tvg-name="Sports18 1 HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Sports18_1_HD.png",Sports18 1
 http://103.120.172.74:5500/
 
@@ -273,7 +256,6 @@ http://14.102.123.50:5001/live/2852.m3u8
 http://14.102.123.50:5001/live/2853.m3u8
 #EXTINF:-1 group-title="Sports" , Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
 
 
 
@@ -307,13 +289,11 @@ http://103.84.57.155:8000/play/a09m/index.m3u8
 ##EXTINF:-1 group-title="Hindi Entertainment",STAR GOLD 2 HD
 http://103.84.57.155:8000/play/a0c9/index.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment",STAR GOLD SELECT HD
-http://starshare.live:8080/live/9826816920/8625825719/210.m3u8
+http://103.84.57.155:8000/play/a09p/index.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment",Star Bharat
-http://opplex.live:8080/live/773199/626227/221255.ts
-
+http://vo01.mohdtv.com:8880/voby5038/67747551/55258
 #EXTINF:-1 group-title="Hindi Entertainment",Colors HD
 http://opplex.live:8080/live/773199/626227/221254.ts
-
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" ,Colors Infinity SD
 http://14.102.123.50:5001/live/1325.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png",Sony Entertainment
@@ -322,8 +302,8 @@ http://starshare.live:8080/live/9826816920/8625825719/144.m3u8
 http://vo01.mohdtv.com:8880/voby5038/67747551/55268
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-id=sl483 tvg-name="SL Sony MAX 2" tvg-logo="http://14.102.123.50:5001/jtvimage/Sony_MAX2.png",Sony MAX 2
 http://vo01.mohdtv.com:8880/voby5038/67747551/55264
-#EXTINF:-1 group-title="Hindi Entertainment" tvg-id=sl154 tvg-name="SL Sony SAB HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Sony_SAB_HD.png",Sony SAB HDHD
-http://starshare.live:8080/live/9826816920/8625825719/145.m3u8
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-id=sl154 tvg-name="SL Sony SAB HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Sony_SAB_HD.png",Sony SAB 
+http://103.84.57.155:8000/play/a0a8/index.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://i.imgur.com/ADXlju2.png",Sony WAH
 http://tv.cloudcdn.me:80/live.ts?channelId=187&uid=1868&deviceMac=00:1A:79:94:98:FE
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_tv.png,Zee TV
@@ -370,8 +350,10 @@ https://evbr.short.gy/BDStreamHub/Goldmines_Bollywood.ts
 http://14.102.123.50:5001/live/482.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://i.ibb.co/0MWtt7r/20240827-090822.png", & FLIX HD
 http://tv.cloudcdn.me/live.ts?channelId=49859&uid=13603&deviceMac=00:1A:79:64:B4:A6
+#EXTINF:-1 group-title="Movie Channel",Sony PIX
+http://vo01.mohdtv.com:8880/voby5038/67747551/55291
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://w7.pngwing.com/pngs/142/505/png-transparent-hbo-home-box-officce-television-brands-and-logos-icon.png",HBO
-http://tv.cloudcdn.me:80/live.ts?channelId=49858&uid=13556&deviceMac=00:1A:79:AB:DF:A6
+http://103.110.110.11:8081/live/hbo/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png",Star Movies HD
 http://xtv.ooo:8080/live/global/global/66213.m3u8
 #EXTINF:-1 group-title="Movie Channel",MNX
@@ -414,7 +396,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/index.m3u8
 https://drmlive.in/yupptv/balle-balle.m3u8
 #EXTINF:-1 group-title="Music" , V2Beat
 https://de1se01.v2beat.live/playlist.m3u8
-
+#EXTINF:-1 group-title="Music" , Colosal TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/colosal.stream/playlist.m3u8
 
 
 
@@ -635,16 +618,6 @@ Khusboo Bangla
 http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 http://idvd.multitvsolution.com/idvo/khushboo_540p/index.m3u8
 
-zee_tv jadoo
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=zee_tv
-STAR BHARAY
-http://116.202.46.40:9023/STAR_BHARAT/index.m3u8
-COLORS
-http://116.202.46.40:9023/COLORS_HINDI/index.m3u8
-Star Gold
-http://starshare.live:8080/live/9826816920/8625825719/194.m3u8
-st gold 2
-http://opplextv.cyou:8080/live/773199/626227/106133.ts
 La liga
 https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index_6.m3u8
 
@@ -682,10 +655,6 @@ tnt 3
 https://www.mytvsuper.us.kg/anbo.php?id=167
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd?|drmScheme=clearkey&drmLicense=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 
-Bein 134
-http://vod3.cloudlivesawa.shop/streams_cach/158531.m3u8
-https://www.mytvsuper.us.kg/anbo.php?id=3041
-https://www.mytvsuper.us.kg/anbo.php?id=1405
 
 http://z88.ubtvfans.com/live/rx1/2403/1e7a7f7d3ba7acf36796928ec9deb9ea/index.m3u8
 http://z88.ubtvfans.com/live/rx1/2405/b2e567a130b342be942234f5e48c28dc/index.m3u8
@@ -703,6 +672,9 @@ https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
 
 HINDI Entertainment Test
+
+star bharat
+http://opplex.live:8080/live/773199/626227/221255.ts
 sony max
 http://116.202.46.40:789/SONY_MAX_HINDI/index.m3u8
 star gold
@@ -713,12 +685,28 @@ sony entertainment
 https://bdix.proximitybd.xyz/tf2.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainment/playlist.m3u8
 Sony sab
 https://mhdtvweb.com/sliv/stream.php?id=sony-sab-hd&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
+http://starshare.live:8080/live/9826816920/8625825719/145.m3u8
 Sony Max 1 and 2
 http://humsab.xyz/IN_S_X2/mpegts?token=f7aa562528f2909e7f249d2152b3655f
 http://starshare.live:8080/live/9826816920/8625825719/151.m3u8
 http://starshare.live:8080/live/9826816920/8625825719/973.m3u8
 
+zee_tv jadoo
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=zee_tv
+STAR BHARAY
+http://116.202.46.40:9023/STAR_BHARAT/index.m3u8
+COLORS
+http://116.202.46.40:9023/COLORS_HINDI/index.m3u8
+Star Gold
+http://starshare.live:8080/live/9826816920/8625825719/194.m3u8
+st gold 2
+http://opplextv.cyou:8080/live/773199/626227/106133.ts
+st gold select 
+http://starshare.live:8080/live/9826816920/8625825719/210.m3u8
 
+
+HBO
+http://tv.cloudcdn.me:80/live.ts?channelId=49858&uid=13556&deviceMac=00:1A:79:AB:DF:A6
 
 b4u music
 https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png", B4U MUSIC
