@@ -352,7 +352,7 @@ http://idvd.multitvsolution.com/idvo/bflixmovies_540p.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXv4xURd0N6Rfwu0GGcXn6DPoVDOnxR-I2jiyiyEIejAItC4F5Uj3mAT9p&s=10",Goldmines Bollywood
 https://evbr.short.gy/BDStreamHub/Goldmines_Bollywood.ts
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png",Colors Cineplex HD
-http://14.102.123.50:5001/live/482.m3u8
+https://fifabangladesh.live/VHOD/go.php?id=Colors_Cineplex_SD_voot_MOB
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://i.ibb.co/0MWtt7r/20240827-090822.png", & FLIX HD
 http://tv.cloudcdn.me/live.ts?channelId=49859&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF:-1 group-title="Movie Channel",Sony PIX
@@ -410,8 +410,8 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLYgRc1lrUmKeVJj7_85fqp-81xHzGuKGsGQ&usqp=CAU",Discovery
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.ibb.co/m61hzPR/20240803-101724.png",Discovery Bangla
-https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/vBmxPx3J/20240905-130943.png",Investigation Discovery
+https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Investigation_Discovery.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Discovery-asia.png",Discovery Asia
 https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy_AMqR4xkCe6AxrRVfb2K38qiMcoRh7FUVEByNfE-e44Tf3-5H7NVieXj&s=10",Discovery Science
@@ -432,6 +432,8 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 https://nowsports.in/sliv/stream.php?id=852&e=.m3u8|Referer=https://nowsports.in/insurance/&key=@FREDFLIXCEO
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_204.png", Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/vBmxPx3J/20240905-130943.png",HGTV
+https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/HGTV.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png",TLC HD
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png",History TV 18
@@ -683,7 +685,8 @@ http://45.127.56.3:6699/live/Corpus-POL1/SRV4/3/STAR-JALSHA/live.mpd
 
 HINDI Entertainment Test
 color infinity
-
+color cineplex
+http://14.102.123.50:5001/live/482.m3u8
 star bharat
 http://opplex.live:8080/live/773199/626227/221255.ts
 sony max 1
