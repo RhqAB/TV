@@ -76,13 +76,13 @@ http://176.119.29.52/live.ts?channelId=83&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF:-1 group-title="Bangladeshi News" tvg-logo="https://i.postimg.cc/qvpqXpGd/svg.png",Somoy TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangladeshi News" tvg-logo="https://i.ibb.co/cQk0MMk/independenttv.png",Independent
-https://utube.buddyxiptv.com/@IndependentTelevision.m3u8
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangladeshi News" tvg-logo="https://i.ibb.co/vdKhyBM/images-25.jpg",Channel 24
-https://utube.buddyxiptv.com/@channel24digital.m3u8
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream_480p/playlist.m3u8
 #EXTINF:-1 group-title="Bangladeshi News" tvg-logo="https://i.ibb.co/HBF4nQv/ekattortv.png",Ekattor Tv
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=ekattor_tv
 #EXTINF:-1 group-title="Bangladeshi News" tvg-logo="https://i.ibb.co/hR57wkL/Jamuna-Tv1664825738.jpg",Jamuna Tv
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=jamuna_tv
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangladeshi News" tvg-logo="https://i.ibb.co/M6DLqSg/News-241664826177.jpg",News 24
 https://ythls-v3.onrender.com/channel/UCb2O5Uo4a26CdTE7_2QA-jA.m3u8
 #EXTINF:-1 group-title="Bangladeshi News" tvg-logo="https://i.ibb.co/9qqVcXr/dbcnews.png",DBC News
@@ -139,6 +139,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://i.ibb.co/rtkWYHV/20240827-092043.png",AL SUNNAH
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8
+#EXTINF:-1 group-title="Islamic" ,ATN Islamic TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://i.postimg.cc/jdK93HTJ/images-5-10.jpg",Peace Tv Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://i.imgur.com/xuNhiek.png",Islam Bangla
@@ -579,9 +581,12 @@ Bangladeshi NEWS
 Somoy
 https://customer-t0nw9oic5pvyrmd4.cloudflarestream.com/0e4195487bdb9b9dd9a2182651430e50/manifest/video.m3u8
 Jamuna
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=jamuna_tv
 http://176.119.29.52/live.ts?channelId=100&uid=13603&deviceMac=00:1A:79:64:B4:A6
 ekattor
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/playlist.m3u8
+independent
+https://utube.buddyxiptv.com/@IndependentTelevision.m3u8
 Channel 24
 https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=m_M7IcAOGXDP8pFIEZ3fNA&expires=1725000460&user=ef71b837ceef4cd18a6cf7069722d83d
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream_480p/playlist.m3u8
