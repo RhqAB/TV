@@ -258,7 +258,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
 
-#EXTINF:-1 group-title="Kolkata Entertainment" tvg-logo="https://i.ibb.co/KxmfL2x/20240819-112812.jpg", STAR Jalsha HD
+#EXTINF:-1 group-title="Kolkata Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png", STAR Jalsha HD
 http://tv.cloudcdn.me/live.ts?channelId=116&uid=7245&deviceMac=00:1A:79:B0:A9:0C
 #EXTINF:-1 group-title="Kolkata Entertainment" tvg-logo="https://i.imgur.com/F0dmFko.jpg",Zee Bangla HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
@@ -267,7 +267,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m
 #EXTINF:-1 group-title="Kolkata Entertainment" tvg-logo="https://i.ibb.co/wcHcrGC/20240803-101812.png", ENTEER TEN BANGLA
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 group-title="Kolkata Entertainment" tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png",SONY AATH HD
-http://tv.cloudcdn.me/live.ts?channelId=44150&uid=8164&deviceMac=00:1A:79:17:D4:A1
+https://nowsports.in/sliv/stream.php?id=195&e=.m3u8|Referer=https://nowsports.in/insurance/&key=@FREDFLIXCEO
 #EXTINF:-1 group-title="Kolkata Entertainment" ,Colors Bangla
 http://217.20.112.199/colorsbangla/index.m3u8
 #EXTINF:-1 group-title="Kolkata Entertainment" tvg-logo="https://i.ibb.co/2thQM7K/20240803-164328.png", SUN BANGLA
@@ -281,7 +281,7 @@ https://cdn3.pishow.tv/live/281/master.m3u8
 
 
 
-#EXTINF:-1 group-title="Hindi Entertainment", STAR PLUS HD
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://www.pngitem.com/pimgs/m/3-32979_star-plus-star-plus-logo-new-hd-png.png",Star Plus
 http://217.20.112.199/starplushd/index.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment",STAR GOLD HD
 http://103.84.57.155:8000/play/a09m/index.m3u8
@@ -293,9 +293,9 @@ http://103.84.57.155:8000/play/a09p/index.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=195&uid=6469&deviceMac=00:1A:79:B7:2F:EA
 #EXTINF:-1 group-title="Hindi Entertainment",Zee TV
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
-#EXTINF:-1 group-title="Hindi Entertainment",Colors HD
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
 http://opplex.live:8080/live/773199/626227/221254.ts
-#EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20infinity.jpeg" ,Colors Infinity SD
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" ,Colors Infinity SD
 https://fifabangladesh.live/VHOD/go.php?id=Colors_Infinity_SD_voot_MOB
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png",Sony Entertainment
 https://nowsports.in/sliv/stream.php?id=1100&e=.m3u8|Referer=https://nowsports.in/insurance/&key=@FREDFLIXCEO
@@ -672,8 +672,9 @@ http://z88.ubtvfans.com/live/rx3/1405/09bbf56229092481fbb90f8b97d5348a/index.m3u
 food food
 
 Kolkata Entertainment
-aaj tak
 
+SONY AATH
+http://tv.cloudcdn.me/live.ts?channelId=44150&uid=8164&deviceMac=00:1A:79:17:D4:A1
 star jalsha
 http://103.151.60.174/manikvai@hoichoi24.com
 https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
