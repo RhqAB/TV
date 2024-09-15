@@ -474,7 +474,7 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="International News" tvg-logo="https://logowik.com/content/uploads/images/182_voiceofamerica.jpg",Voice of America
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/voa.stream/playlist.m3u8
-#EXTINF:-1 group-title="International News" tvg-logo="https://logowik.com/content/uploads",RT News
+#EXTINF:-1 group-title="International News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png",RT News
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 group-title="International News" tvg-logo="https://logowik.com/content/uploads/images/dw-deutsche-welle4346.logowik.com.webp",DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
@@ -482,9 +482,9 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 group-title="International News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png",France 24
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8
-#EXTINF:-1 group-title="International News" ,Global News (Canada)
+#EXTINF:-1 group-title="International News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Global_News.svg/800px-Global_News.svg.png",Global News (Canada)
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
-#EXTINF:-1 group-title="International News" ,CGTN News jagobd
+#EXTINF:-1 group-title="International News" tvg-logo="https://ui.cgtn.com/static/ng/resource/images/logo_title.png",CGTN News
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtn.stream/playlist.m3u8
 #EXTINF:-1 group-title="International News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-dSqBcEqAp3yjlFXxzzAzT-whLCiaARnEgw&usqp=CAU",Zee 24 Ghonta
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
@@ -494,15 +494,15 @@ https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="International News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_dkuhURvTgI96Tf-9hCKJKmE7T6YAmewdg&usqp=CAU",Republic Bangla
 https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8?ads.partner=republicweb
-#EXTINF:-1 group-title="International News" tvg-logo="http://14.102.123.50:5001/jtvimage/Aaj_Tak.png", Aaj Tak
+#EXTINF:-1 group-title="International News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png", Aaj Tak
 https://feeds.intoday.in/aajtak/api/master.m3u8
-#EXTINF:-1 group-title="International News" tvg-logo="http://14.102.123.50:5001/jtvimage/NDTV_India.png", NDTV India
+#EXTINF:-1 group-title="International News" tvg-logo="https://logowik.com/content/uploads/images/ndtv9182.logowik.com.webp", NDTV India
 http://14.102.123.50:5001/live/258.m3u8
 #EXTINF:-1 group-title="International News" tvg-logo="https://brandeps.com/logo-download/N/NDTV-24X7-logo-vector-01.svg",NDTV 24/7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
-#EXTINF:-1 group-title="International News",Zee News
+#EXTINF:-1 group-title="International News" tvg-logo="https://poshatwork.com/wp-content/uploads/2021/01/zee-news.jpg",Zee News
 http://172.105.123.238:18002/play/a01i
-#EXTINF:-1 group-title="International News",Times Now India
+#EXTINF:-1 group-title="International News" tvg-logo="https://exchange4media.gumlet.io/news-photo/112698-1525096849_1ktVjI_Times_Now.png",Times Now India
 http://starshare.live:8080/live/9826816920/8625825719/155585.ts
 #EXTINF:-1 group-title="International News",DD NEWS
 http://172.105.123.238:18002/play/a002
