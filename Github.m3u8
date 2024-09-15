@@ -79,7 +79,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 group-title="Bangladeshi News" tvg-logo="https://i.ibb.co/cQk0MMk/independenttv.png",Independent
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangladeshi News" tvg-logo="https://i.ibb.co/vdKhyBM/images-25.jpg",Channel 24
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channel24-sg-e8e.stream_480p/playlist.m3u8
+https://ythls-v3.onrender.com/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
 #EXTINF:-1 group-title="Bangladeshi News" tvg-logo="https://i.ibb.co/HBF4nQv/ekattortv.png",Ekattor Tv
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=ekattor_tv
 #EXTINF:-1 group-title="Bangladeshi News" tvg-logo="https://i.ibb.co/hR57wkL/Jamuna-Tv1664825738.jpg",Jamuna Tv
@@ -87,7 +87,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 group-title="Bangladeshi News" tvg-logo="https://i.ibb.co/M6DLqSg/News-241664826177.jpg",News 24
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangladeshi News" tvg-logo="https://i.ibb.co/9qqVcXr/dbcnews.png",DBC News
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
+https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=dbc_news
 #EXTINF:-1 group-title="Bangladeshi News" tvg-logo="https://i.ibb.co/CbtWjcm/ekhontv.png",Ekhon Tv
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangladeshi News" tvg-logo="https://i.postimg.cc/MHXbGyvd/unnamed-1.png",Jago News 24
@@ -285,13 +285,13 @@ https://cdn3.pishow.tv/live/281/master.m3u8
 
 
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://www.pngitem.com/pimgs/m/3-32979_star-plus-star-plus-logo-new-hd-png.png",Star Plus
-http://217.20.112.199/starplushd/index.m3u8
-#EXTINF:-1 group-title="Hindi Entertainment",STAR GOLD HD
-http://103.84.57.155:8000/play/a09m/index.m3u8
-##EXTINF:-1 group-title="Hindi Entertainment",STAR GOLD 2 HD
-http://103.84.57.155:8000/play/a0c9/index.m3u8
-#EXTINF:-1 group-title="Hindi Entertainment",STAR GOLD SELECT HD
-http://103.84.57.155:8000/play/a09p/index.m3u8
+http://vo01.mohdtv.com:8880/voby5038/67747551/55274
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Star_Gold_2020.svg",Star Gold HD
+http://xtv.ooo:8080/live/malik625538/digitalstore1year/66177.m3u8
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Star_Gold_2.svg",Star Gold 2 HD
+http://xtv.ooo:8080/live/malik625538/digitalstore1year/106133.ts
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Star_Gold_Select_HD.svg/revision/latest?cb=20211216003639",Star Gold Select HD
+http://xtv.ooo:8080/live/malik625538/digitalstore1year/221257.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment",Star Bharat
 http://tv.cloudcdn.me/live.ts?channelId=195&uid=6469&deviceMac=00:1A:79:B7:2F:EA
 #EXTINF:-1 group-title="Hindi Entertainment",Zee TV
@@ -598,6 +598,7 @@ http://176.119.29.52/live.ts?channelId=107&uid=13603&deviceMac=00:1A:79:64:B4:A6
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1725721694/ei/_hfcZuaIAZve9fwP-Nmw4A4/ip/103.177.54.33/id/tIob6iIT8yI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/Mv1m9qJZhR4z3PmYuHsci6Iy7BDQW7ObQIVea1UyqVqaz_23oLxlVmxG1SJ0QbWi0lFHSzFA9VDr/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgE54hKj5b_c4idw-EtVCRr67lo8jDhdSV5N0eNmIEeZcCIBGZN9EvlVyDOIITGRlRX81Q66OtJpCIcyhXi7KoOfHp/file/index.m3u8
 dbc
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
 https://edge01.iptv.digijadoo.net/live/dbc_news/playlist.m3u8?md5=GiaUff20NcUf_XKZ_ZX3fA&expires=1724916262&user=ef71b837ceef4cd18a6cf7069722d83d
 https://utube.buddyxiptv.com/@dbcnewstv.m3u8
 EKHON
@@ -732,6 +733,7 @@ COLORS
 http://116.202.46.40:9023/COLORS_HINDI/index.m3u8
 Star Gold
 http://starshare.live:8080/live/9826816920/8625825719/194.m3u8
+http://vo01.mohdtv.com:8880/voby5038/67747551/55257
 st gold 2
 http://opplextv.cyou:8080/live/773199/626227/106133.ts
 st gold select 
