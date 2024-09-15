@@ -292,6 +292,8 @@ http://xtv.ooo:8080/live/malik625538/digitalstore1year/66177.m3u8
 http://xtv.ooo:8080/live/malik625538/digitalstore1year/106133.ts
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Star_Gold_Select_HD.svg/revision/latest?cb=20211216003639",Star Gold Select HD
 http://xtv.ooo:8080/live/malik625538/digitalstore1year/221257.m3u8
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/hi/b/bb/Star_Gold_Thrills.png",Star Gold Thrills
+http://172.105.123.238:18002/play/a01h
 #EXTINF:-1 group-title="Hindi Entertainment",Star Bharat
 http://tv.cloudcdn.me/live.ts?channelId=195&uid=6469&deviceMac=00:1A:79:B7:2F:EA
 #EXTINF:-1 group-title="Hindi Entertainment",Zee TV
@@ -334,9 +336,9 @@ http://tv.cloudcdn.me/live.ts?channelId=117&uid=8164&deviceMac=00:1A:79:17:D4:A1
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png", Colors Bangla Cinema
 http://217.20.112.199/colorsbangla/index.m3u8
-#EXTINF:-1 group-title="Movie Channel" tvg-id=sl476 tvg-name="SL Sony MAX HD" tvg-logo="http://14.102.123.50:5001/jtvimage/Sony_Max_HD.png",Sony Max
+#EXTINF:-1 group-title="Movie Channel" tvg-id=sl476 tvg-name="SL Sony MAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png",Sony Max
 https://nowsports.in/sliv/stream.php?id=878545&e=.m3u8|Referer=https://nowsports.in/insurance/&key=@FREDFLIXCEO
-#EXTINF:-1 group-title="Movie Channel" tvg-id=sl483 tvg-name="SL Sony MAX 2" tvg-logo="http://14.102.123.50:5001/jtvimage/Sony_MAX2.png",Sony MAX 2
+#EXTINF:-1 group-title="Movie Channel" tvg-id=sl483 tvg-name="SL Sony MAX 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTldQuadjn_gMY5t5ZwVXXvYCuvEC1Q4nESQw&s",Sony MAX 2
 https://nowsports.in/sliv/stream.php?id=123&e=.m3u8|Referer=https://nowsports.in/insurance/&key=@FREDFLIXCEO
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_cinema.png",Zee Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
@@ -346,8 +348,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png",Zee Cafe
 http://tv.cloudcdn.me/live.ts?channelId=212&uid=6469&deviceMac=00:1A:79:B7:2F:EA
-#EXTINF:-1 group-title="Movie Channel",Star Utsab Movies
-http://opplex.live:8080/live/773199/626227/112971.ts
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/SUMovies.jpg/revision/latest?cb=20240313172157",Star Utsab Movies
+http://172.105.123.238:18002/play/a01n
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://i.ibb.co/1GdmG6F/20240816-213222.png",Bflix
 http://idvd.multitvsolution.com/idvo/bflixmovies_540p.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXv4xURd0N6Rfwu0GGcXn6DPoVDOnxR-I2jiyiyEIejAItC4F5Uj3mAT9p&s=10",Goldmines Bollywood
@@ -362,9 +364,11 @@ https://nowsports.in/sliv/stream.php?id=785&e=.m3u8|Referer=https://nowsports.in
 http://103.110.110.11:8081/live/hbo/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png",Star Movies HD
 http://xtv.ooo:8080/live/global/global/66213.m3u8
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLMK1d1JDLYj3hvY19FT85FC7-lh8WPGfd0s9zumw3I3t4xN622KQUSVIyJ1LyaZ19vVk&usqp=CAU",Movies Now
+http://xtv.ooo:8080/live/malik625538/digitalstore1year/66271.ts
 #EXTINF:-1 group-title="Movie Channel",MNX
 http://103.84.57.155:8000/play/a030/index.m3u8
-#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/romedy%20now.jpeg",Comedy Central HD
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://images.wikia.com/logopedia/images/d/dc/Comedy_Central_2011_stacked.png",Comedy Central HD
 https://fifabangladesh.live/VHOD/go.php?id=Comedy_Central_SD_voot_MOB   
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg",Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
@@ -739,7 +743,8 @@ st gold 2
 http://opplextv.cyou:8080/live/773199/626227/106133.ts
 st gold select 
 http://starshare.live:8080/live/9826816920/8625825719/210.m3u8
-
+star Utsab
+http://opplex.live:8080/live/773199/626227/112971.ts
 color bangla cinema
 
 HBO
