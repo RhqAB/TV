@@ -16,7 +16,7 @@ https://channel-i-tv.rockstreamer.com/chlive/121212/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/C15wr1RW/Ekushey-Television-Logo-svg.png",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/R27NGmQ/Ntv1664826430.jpg",Ntv
-https://utube.buddyxiptv.com/@ntvdigitallive.m3u8
+https://utube.buddyxiptv.com/@ntvdigitallive.m3u8    
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=ntv
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png",Rtv
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=rtv
@@ -100,7 +100,8 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",DURONTO TV
-https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=duronto_tv
+http://103.89.248.10:8082/DURONTO-TV/tracks-v1a1/mono.m3u8?token=675a13c3fd9e50f7b17a681e3a659eec0af4db73-ccc3068d02a73841d7e87dd9716df8dd-1726420174-1726409374
+
 #EXTINF:-1 group-title="Kids" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png",Kids Creation
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/yBYRgLt/20240813-063955.png", Rongeen TV
