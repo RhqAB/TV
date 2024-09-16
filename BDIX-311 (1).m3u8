@@ -1,6 +1,0 @@
-#EXTM3U
-
-#EXT-X-KEY:METHOD=clearkey,URI="https://medialive.akash-go.com/out/v1/23be063ca7254875a3ed0d546d2aec6a/key", KEYFORMAT="dash-ifce", KEYFORMATVERSION=1
-
-#EXT-X-STREAM-INF:PROGRAM-ID=0, BANDWIDTH=1000000
-https://medialive.akash-go.com/out/v1/23be063ca7254875a3ed0d546d2aec6a/index.m3u8
