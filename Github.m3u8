@@ -459,7 +459,7 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
 http://103.84.57.155:8000/play/a0ce/index.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png",History TV 18
 http://14.102.123.50:5001/live/146.m3u8
-http://14.102.123.50:5001/live/1471.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=70099&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2022/02/travelxp.logo_.jpg",TravelXP
 https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://tl.vhv.rs/dpng/s/52-522162_travel-channel-logo-png-transparent-png.png", Travel Channel
@@ -509,6 +509,7 @@ https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141
 https://feeds.intoday.in/aajtak/api/master.m3u8
 #EXTINF:-1 group-title="International News" tvg-logo="https://logowik.com/content/uploads/images/ndtv9182.logowik.com.webp", NDTV India
 http://14.102.123.50:5001/live/258.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=178&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 group-title="International News" tvg-logo="https://brandeps.com/logo-download/N/NDTV-24X7-logo-vector-01.svg",NDTV 24/7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1 group-title="International News" tvg-logo="https://poshatwork.com/wp-content/uploads/2021/01/zee-news.jpg",Zee News
