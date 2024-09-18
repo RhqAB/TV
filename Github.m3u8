@@ -561,12 +561,16 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 group-title="International News",Thank You
 http://vod3.cloudlivesawa.shop/streams_cach/158531.m3u8
 
+#EXTINF:-1 group-title="FM Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg",Bangladesh Betar
+https://zeno.fm/player.php/player.php?stream=https://stream.zeno.fm/v7tnp975wqzuv
 #EXTINF:-1 group-title="FM Radio" tvg-logo="https://radiofoorti.fm/images/whitelogo.png",Radio Foorti 88.0
 http://node-24.zeno.fm/0zha3rfq02quv
 #EXTINF:-1 group-title="FM Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/RadioTodayFM89.6.png",Radio Today 89.6
 http://stream.zenolive.com/s0858pxyk8quv
 #EXTINF:-1 group-title="FM Radio" tvg-logo="https://play-lh.googleusercontent.com/6VVysnffLbyVQzuuKcGlBoiq7jeAazeekaY92hIJOX87B69k6bxHooiWgHHP2UvBZHw",Dhaka FM 90.4
 http://118.179.219.244:8000/
+#EXTINF:-1 group-title="FM Radio" tvg-logo="https://ronnichowdhury.com/wp-content/uploads/2016/12/7-RadioDhoni.jpg",Radio Dhoni 91.2
+https://stream-171.zeno.fm/2yihdjutno9tv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyeWloZGp1dG5vOXR2IiwiaG9zdCI6InN0cmVhbS0xNzEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImlMX0dnSGhJUmNTS1p4ZVNpUEliWlEiLCJpYXQiOjE3MjY2NDU0MDUsImV4cCI6MTcyNjY0NTQ2NX0.7udhdNdVsF8f6NhwVZzBwYyBtkOVrvuJkR1HQ3ngjfE
 #EXTINF:-1 group-title="FM Radio" tvg-logo="https://peoplesradio.fm/wp-content/uploads/2015/12/pr_logo.png",Peoples Radio 91.6
 http://s3.myradiostream.com:14498/;stream.mp3
 #EXTINF:-1 group-title="FM Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/bc/%E0%A6%B0%E0%A7%87%E0%A6%A1%E0%A6%BF%E0%A6%93_%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%A7%E0%A7%80%E0%A6%A8.png",Radio Shadhin 92.4
@@ -575,6 +579,7 @@ https://stream.zenolive.com/umq9q5uuva5tv
 http://node-19.zeno.fm/yaqpcmhxe48uv?rj-ttl=5&rj-tok=AAABfgXkCqUAo83RYDSRIcag4Q
 #EXTINF:-1 group-title="FM Radio" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/9vhbuhzmucws.jpg",Radio Dinraat 93.6
 http://103.118.79.134:8000
+https://stream-172.zeno.fm/enwcsg26wmftv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJlbndjc2cyNndtZnR2IiwiaG9zdCI6InN0cmVhbS0xNzIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ikd6SVF0ems4UmgtdzJ4MkMxMG1SeHciLCJpYXQiOjE3MjY2NDUzMzgsImV4cCI6MTcyNjY0NTM5OH0.m7pDgW5cZE8lb1P76RsG2ZJ9J4K0KeAu3Lz90IqL3gg
 #EXTINF:-1 group-title="FM Radio" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/9ed84155030723.Y3JvcCw3NTIsNTg4LDEwMCwxMzc.jpg",Jago FM 94.4
 http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
 #EXTINF:-1 group-title="FM Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkHaCwYVv0_znaIL8-h7p-dd1JEd1lqiJ0ZQ&s",Radio Capital 94.8
@@ -583,6 +588,8 @@ http://103.118.79.134:8000
 http://192.144.82.200:9302/;stream/1
 #EXTINF:-1 group-title="FM Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtkMLex_2_VfVFnr4xuaxDEhw4vwZY8TPizQ&s",Radio Padma 99.2
 http://cassini.shoutca.st:9109/radiopadma.mp3
+#EXTINF:-1 group-title="FM Radio" tvg-logo="https://media.licdn.com/dms/image/C510BAQFg5ki4t_4LHg/company-logo_200_200/0/1630595646263?e=2147483647&v=beta&t=uFtad4qTVI78Gtin7RvaY9BptIGaFPTqFl7ksRM3Zwk",BU Radio
+https://stream-176.zeno.fm/x3wb4hevj5atv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4M3diNGhldmo1YXR2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjhNNldSM19IVDVHQkdiT0N4WnlITkEiLCJpYXQiOjE3MjY2NDU2NjMsImV4cCI6MTcyNjY0NTcyM30.gPXkMieQAgfNoINGpyPFyZDFZFGN3L3T49BbtKhr0Hs
 #EXTINF:-1 group-title="FM Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfR3ZBviA9qW2MDR_qoc3AESyPPaMRxsT8nQ&s",Radio Goongoon
 https://audio.streamcast.xyz/radio/8000/radio.mp3
 
