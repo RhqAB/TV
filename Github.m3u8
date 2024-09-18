@@ -274,12 +274,14 @@ https://hw1.jemtv.com/app/tv85/chunks.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id=1984 tvg-name="Sports18 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Sports18_logo.svg/1200px-Sports18_logo.svg.png",Sports18 1
 http://103.120.172.74:5500/
 http://176.119.29.52/live.ts?channelId=102479&uid=8164&deviceMac=00:1A:79:17:D4:A1
+http://tv.cloudcdn.me/live.ts?channelId=102479&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 group-title="Sports" tvg-id=2852 tvg-name="Sports18 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Sports18_logo.svg/1200px-Sports18_logo.svg.png", Sports18 2
 http://14.102.123.50:5001/live/2852.m3u8
 http://176.119.29.52/live.ts?channelId=132373&uid=8164&deviceMac=00:1A:79:17:D4:A1
+http://tv.cloudcdn.me/live.ts?channelId=132373&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 group-title="Sports" tvg-id=2853 tvg-name="Sports18 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Sports18_logo.svg/1200px-Sports18_logo.svg.png", Sports18 3
 http://176.119.29.52/live.ts?channelId=132374&uid=8164&deviceMac=00:1A:79:17:D4:A1
-
+http://tv.cloudcdn.me/live.ts?channelId=132374&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/96/23/9f/96239fee6cf89bbbd3f587c9aa6f8095.png",EURO SPORTS
 http://opplextv.cyou:8080/live/773199/626227/206324.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/96/23/9f/96239fee6cf89bbbd3f587c9aa6f8095.png",Euro Sport 1
