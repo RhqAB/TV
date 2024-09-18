@@ -360,12 +360,13 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpicturesh
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="http://14.102.123.50:5001/jtvimage/ETV_HD.png", ETV HD
 http://14.102.123.50:5001/live/1973.m3u8
-#EXTINF:-1 group-title="Pakistani Entertainment" ,HUM TV
+#EXTINF:-1 group-title="Pakistani Entertainment" tvg-logo="https://www.pngfind.com/pngs/m/639-6391692_hum-network-limited-logo-live-hum-tv-logo.png",HUM TV
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
-#EXTINF:-1 group-title="Pakistani Entertainment" ,HAR PAL GEO
+#EXTINF:-1 group-title="Pakistani Entertainment" tvg-logo="https://cdnph.upi.com/svc/sv/i/3931402088130/2014/1/14020895735523/Pakistan-suspends-Geo-News-broadcasting-license.jpg",HAR PAL GEO
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Pakistani Entertainment" ,ARY Digital
+#EXTINF:-1 group-title="Pakistani Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Ary_Digital_Logo.png",ARY Digital
 http://125.209.88.166:45793/BRN/AryDigital.stream/playlist.m3u8
+
 
 
 
