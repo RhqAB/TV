@@ -200,14 +200,27 @@ http://xtv.ooo:8080/global/global/167577
 http://xtv.ooo:8080/live/98267/02727/109993.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7226/597226-h",Star Sports Select 2
 http://ekdilhai.pro/AF_S2/mpegts?token=ba3442574070a9e78afaf3218e0b9871
+
+#EXTINF:-1 group-title="Sports" tvg-id=1984 tvg-name="Sports18 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Sports18_logo.svg/1200px-Sports18_logo.svg.png",Sports18 1
+http://176.119.29.52/live.ts?channelId=102479&uid=8164&deviceMac=00:1A:79:17:D4:A1
+http://tv.cloudcdn.me/live.ts?channelId=102479&uid=16068&deviceMac=00:1A:79:ED:10:29
+#EXTINF:-1 group-title="Sports" tvg-id=2852 tvg-name="Sports18 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Sports18_logo.svg/1200px-Sports18_logo.svg.png", Sports18 2
+http://14.102.123.50:5001/live/2852.m3u8
+http://176.119.29.52/live.ts?channelId=132373&uid=8164&deviceMac=00:1A:79:17:D4:A1
+http://tv.cloudcdn.me/live.ts?channelId=132373&uid=16068&deviceMac=00:1A:79:ED:10:29
+#EXTINF:-1 group-title="Sports" tvg-id=2853 tvg-name="Sports18 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Sports18_logo.svg/1200px-Sports18_logo.svg.png", Sports18 3
+http://176.119.29.52/live.ts?channelId=132374&uid=8164&deviceMac=00:1A:79:17:D4:A1
+http://tv.cloudcdn.me/live.ts?channelId=132374&uid=16068&deviceMac=00:1A:79:ED:10:29
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png",Ten Cricket
 http://xtv.ooo:8080/live/malik625538/digitalstore1year/167587.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrOO-pFRfbJXcWgOXEF47LdoWgrtNB2YZMqw&s",Super Cricket
-https://ddy1.mizhls.ru:443/ddy1/premium368/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1 group-title="Sports" tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png",PTV SPORTS HD
+http://175.107.244.52:4457/play/a08g/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",A Sports
 https://nowmesports.com/crichd/stream.php?id=asportshd&e=.m3u8|Referer=https://nowmesports.com//&key=BDStreamHub
 
-
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrOO-pFRfbJXcWgOXEF47LdoWgrtNB2YZMqw&s",Super Cricket
+https://ddy1.mizhls.ru:443/ddy1/premium368/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpp69gsQwJYuDspe-650YnMewqMxf1vff7OtChwYqXPg&s",Astro Cricket
 https://test-tan-iota-90.vercel.app/live/bdix/app/ASPCRI.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSIZsL47EO3BM0j30Cf5WJf3UBQyHEItHnlg&s",Sky Sports Cricket
@@ -216,8 +229,7 @@ http://z88.ubtvfans.com/live/rx3/2786/2f513c311498fa93c5c5715d23d07827/index.m3u
 http://opplextv.cyou:8080/live/global/global/206297.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/RTA_Afghanistan_Logo_%282021%E2%80%93%29_blue.svg/1200px-RTA_Afghanistan_Logo_%282021%E2%80%93%29_blue.svg.png",RTA Sports
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png",PTV SPORTS HD
-http://175.107.244.52:4457/play/a08g/index.m3u8
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",Sony Sports 1
 https://nowsports.in/sliv/stream.php?id=7541236&e=m3u8|Referer=https://nowsports.in/insurance/&key=@FREDFLIXCEO
@@ -266,32 +278,23 @@ http://tv.cloudcdn.me/live.ts?channelId=269&uid=3960&deviceMac=00:1A:79:09:AC:16
 #EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.comedy.co.uk/images/channels/tnt_sports_1.jpg",TNT Sports 4
 http://tv.cloudcdn.me/live.ts?channelId=270&uid=3960&deviceMac=00:1A:79:09:AC:16
 #EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.comedy.co.uk/images/channels/tnt_sports_1.jpg",TNT Sports 5
-http://tv.cloudcdn.me/live.ts?channelId=268&uid=3960&deviceMac=00:1A:79:09:AC:16
+http://tv.cloudcdn.me/live.ts?channelId=78867&uid=3960&deviceMac=00:1A:79:09:AC:16
 
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/1200px-DAZN_1_Logo.svg.png",DAZN 1
 http://tv.cloudcdn.me/live.ts?channelId=125592&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png",DAZN 2
 http://tv.cloudcdn.me/live.ts?channelId=130190&uid=16068&deviceMac=00:1A:79:ED:10:29
-#EXTINF:-1 group-title="Sports" tvg-logo="https://play-lh.googleusercontent.com/J1BGERSuZJk6fDjoNd95gTY4zwkTzJKIp5NWn1e5M7GaFZF8z2GwzTyThhpW-ePkQwE", Gixer World
-https://db7g5t2s3y0c9.cloudfront.net/out/v1/1c7f5a41c9934f24916b7ce5d1ea381e/index.m3u8
+EXTINF:-1 group-title="Sports" tvg-logo="https://play-lh.googleusercontent.com/J1BGERSuZJk6fDjoNd95gTY4zwkTzJKIp5NWn1e5M7GaFZF8z2GwzTyThhpW-ePkQwE", Gixer World
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://mutv.manutd.com/assets/images/fav_icon.png",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://banner2.cleanpng.com/20180805/bq/kisspng-real-madrid-c-f-real-madrid-tv-television-channel-llistat-de-canals-andorra-telecom-5b67c483afefc1.7314644815335271717206.jpg",RM TV HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/GpVSKBQ/images.png", TV8,5
 https://hw1.jemtv.com/app/tv85/chunks.m3u8
-#EXTINF:-1 group-title="Sports" tvg-id=1984 tvg-name="Sports18 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Sports18_logo.svg/1200px-Sports18_logo.svg.png",Sports18 1
-http://103.120.172.74:5500/
-http://176.119.29.52/live.ts?channelId=102479&uid=8164&deviceMac=00:1A:79:17:D4:A1
-http://tv.cloudcdn.me/live.ts?channelId=102479&uid=16068&deviceMac=00:1A:79:ED:10:29
-#EXTINF:-1 group-title="Sports" tvg-id=2852 tvg-name="Sports18 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Sports18_logo.svg/1200px-Sports18_logo.svg.png", Sports18 2
-http://14.102.123.50:5001/live/2852.m3u8
-http://176.119.29.52/live.ts?channelId=132373&uid=8164&deviceMac=00:1A:79:17:D4:A1
-http://tv.cloudcdn.me/live.ts?channelId=132373&uid=16068&deviceMac=00:1A:79:ED:10:29
-#EXTINF:-1 group-title="Sports" tvg-id=2853 tvg-name="Sports18 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Sports18_logo.svg/1200px-Sports18_logo.svg.png", Sports18 3
-http://176.119.29.52/live.ts?channelId=132374&uid=8164&deviceMac=00:1A:79:17:D4:A1
-http://tv.cloudcdn.me/live.ts?channelId=132374&uid=16068&deviceMac=00:1A:79:ED:10:29
+
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/96/23/9f/96239fee6cf89bbbd3f587c9aa6f8095.png",EURO SPORTS
 http://opplextv.cyou:8080/live/global/global/206324.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.pinimg.com/originals/96/23/9f/96239fee6cf89bbbd3f587c9aa6f8095.png",Euro Sport 1
