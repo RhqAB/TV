@@ -206,8 +206,8 @@ http://xtv.ooo:8080/live/malik625538/digitalstore1year/167587.m3u8
 https://ddy1.mizhls.ru:443/ddy1/premium368/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",A Sports
 https://nowmesports.com/crichd/stream.php?id=asportshd&e=.m3u8|Referer=https://nowmesports.com//&key=BDStreamHub
-#EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.comedy.co.uk/images/channels/tnt_sports_1.jpg",TNT Sports 1
-https://thenayeemparvez.xyz/cric/master.php?id=bbtsp1&e=.m3u8|Referer=https://thenayeemparvez.xyz/
+
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpp69gsQwJYuDspe-650YnMewqMxf1vff7OtChwYqXPg&s",Astro Cricket
 https://test-tan-iota-90.vercel.app/live/bdix/app/ASPCRI.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSIZsL47EO3BM0j30Cf5WJf3UBQyHEItHnlg&s",Sky Sports Cricket
@@ -236,8 +236,6 @@ https://fifabd.xyz/STAR7u/RANAPK/star.php?id=48154
 https://cdn.hotflix-bd.online/Ten5/video.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=105350&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 group-title="Sports" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png",Sony Live
-https://pubads.g.doubleclick.net/ssai/event/ARSsLLOjSl2bsGjkQB2UAw/master.m3u8
-https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8?|Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1726759957:KeyName=prod_live_events:Signature=0GZ11afcb1kY39PAs6nyRyQDJV9hyFaG5H2CbQqbXMOxDC2qtuxP-oq3zelD7gAk6DJBUxnQFdlxFOv3mMfACA
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg",Super Football
 http://xtv.ooo:8080/live/98267/02727/238480.m3u8
@@ -258,6 +256,18 @@ http://xtv.ooo:8080/live/malik625538/digitalstore1year/381334.m3u8
 http://xtv.ooo:8080/live/malik625538/digitalstore1year/381336.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://e7.pngegg.com/pngimages/19/599/png-clipart-bein-sports-text-bein-sports-united-states-la-liga-bein-sports-1-sports-miscellaneous-purple.png",Bein Sport 5
 http://xtv.ooo:8080/live/malik625538/digitalstore1year/381338.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.comedy.co.uk/images/channels/tnt_sports_1.jpg",TNT Sports 1
+http://tv.cloudcdn.me/live.ts?channelId=267&uid=3960&deviceMac=00:1A:79:09:AC:16
+#EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.comedy.co.uk/images/channels/tnt_sports_1.jpg",TNT Sports 2
+http://tv.cloudcdn.me/live.ts?channelId=268&uid=3960&deviceMac=00:1A:79:09:AC:16
+#EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.comedy.co.uk/images/channels/tnt_sports_1.jpg",TNT Sports 3
+http://tv.cloudcdn.me/live.ts?channelId=269&uid=3960&deviceMac=00:1A:79:09:AC:16
+#EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.comedy.co.uk/images/channels/tnt_sports_1.jpg",TNT Sports 4
+http://tv.cloudcdn.me/live.ts?channelId=270&uid=3960&deviceMac=00:1A:79:09:AC:16
+#EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.comedy.co.uk/images/channels/tnt_sports_1.jpg",TNT Sports 5
+http://tv.cloudcdn.me/live.ts?channelId=268&uid=3960&deviceMac=00:1A:79:09:AC:16
+
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/1200px-DAZN_1_Logo.svg.png",DAZN 1
 http://tv.cloudcdn.me/live.ts?channelId=125592&uid=16068&deviceMac=00:1A:79:ED:10:29
