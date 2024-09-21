@@ -218,8 +218,9 @@ http://xtv.ooo:8080/live/malik625538/digitalstore1year/167587.m3u8
 http://175.107.244.52:4457/play/a08g/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",A Sports
 https://nowmesports.com/crichd/stream.php?id=asportshd&e=.m3u8|Referer=https://nowmesports.com//&key=BDStreamHub
-#EXTINF:-1 group-title="Sports" tvg-logo="https://iconape.com/wp-content/files/da/323865/png/3238.png",Geo Super
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST6vwZtGtSHigp1m6uiIdXhdP75nryFFVeIrH4npDyvp57XCKbupBqtCTb&s=10",Geo Super
 http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrOO-pFRfbJXcWgOXEF47LdoWgrtNB2YZMqw&s",Super Cricket
 https://ddy1.mizhls.ru:443/ddy1/premium368/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpp69gsQwJYuDspe-650YnMewqMxf1vff7OtChwYqXPg&s",Astro Cricket
@@ -287,7 +288,7 @@ http://tv.cloudcdn.me/live.ts?channelId=78867&uid=3960&deviceMac=00:1A:79:09:AC:
 http://tv.cloudcdn.me/live.ts?channelId=125592&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png",DAZN 2
 http://tv.cloudcdn.me/live.ts?channelId=130190&uid=16068&deviceMac=00:1A:79:ED:10:29
-EXTINF:-1 group-title="Sports" tvg-logo="https://play-lh.googleusercontent.com/J1BGERSuZJk6fDjoNd95gTY4zwkTzJKIp5NWn1e5M7GaFZF8z2GwzTyThhpW", Fox Soccer Plus
+EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png", Fox Soccer Plus
 http://vo01.mohdtv.com:8880/live/voby5038/67747551/29695.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://mutv.manutd.com/assets/images/fav_icon.png",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
