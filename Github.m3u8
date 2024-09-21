@@ -416,6 +416,8 @@ http://idvd.multitvsolution.com/idvo/bflixmovies_540p.m3u8
 https://evbr.short.gy/BDStreamHub/Goldmines_Bollywood.ts
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png",Colors Cineplex HD
 https://fifabangladesh.live/VHOD/go.php?id=Colors_Cineplex_SD_voot_MOB
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://static.wirtualnemedia.pl/media/top/BollywoodHD_logo2018_655.png",Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://i.ibb.co/0MWtt7r/20240827-090822.png", & FLIX HD
 http://tv.cloudcdn.me/live.ts?channelId=49859&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF:-1 group-title="Movie Channel",Sony PIX
@@ -581,6 +583,10 @@ http://xtv.ooo:8080/live/global/global/25988.m3u8
 http://xtv.ooo:8080/live/global/global/167657.m3u8
 #EXTINF:-1 group-title="International News" tvg-logo="https://i.ibb.co/Tv1pgrG/download-4.png", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1 group-title="International News" tvg-logo="https://w7.pngwing.com/pngs/750/187/png-transparent-logo-arirangtv-television-in-south-korea-korean-culture-television-text-logo.png",arirang
+https://edge01.iptv.digijadoo.net/live/arirang/playlist.m3u8?md5=Yf_zC006TW9n_U0RsADa_Q&expires=1727135347&user=811838a63b224e85b02b925b31d0fece
+#EXTINF:-1 group-title="International News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Lotus_Macau_without_caption_in_english.png/revision/latest?cb=20221203122518",Lotus Macau
+https://edge01.iptv.digijadoo.net/live/macau_lotus/playlist.m3u8?md5=4sYe2Xfy_DIulQ3eFDTmSA&expires=1727135731&user=811838a63b224e85b02b925b31d0fece
 #EXTINF:-1 group-title="International News",Thank You
 http://vod3.cloudlivesawa.shop/streams_cach/158531.m3u8
 
