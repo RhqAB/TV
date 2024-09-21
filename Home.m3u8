@@ -10,19 +10,19 @@ http://172.105.123.238:18002/play/a038
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=sangsad_tv
 
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/cbKPtLB/atnbangla.png",Atn Bangla
-http://103.89.248.14:8082/ATN-BANGLA/tracks-v1a1/mono.m3u8?token=804c9cbc1a549ddce88a8c051a69d48196fc5445-18bd529ad7efafd1f01a62f0a6e54e8c-1726423184-1726412384
+http://103.89.248.14:8082/ATN-BANGLA/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png",Channel I
-http://103.89.248.10:8082/CHANNAL-I/tracks-v1a1/mono.m3u8?token=0138fa784ebfe967e47951b3afdff4d60c4761ee-bef5348632bd422656a64e691720fbf3-1726423579-1726412779
+http://103.89.248.10:8082/CHANNAL-I/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/C15wr1RW/Ekushey-Television-Logo-svg.png",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/R27NGmQ/Ntv1664826430.jpg",Ntv
-http://103.89.248.14:8082/NTV/index.m3u8?token=dd82bfed33c79a99554c698b2f2388235fd2f7de-81d21efef943159612c2245117751604-1726423223-1726412423
+http://103.89.248.14:8082/NTV/index.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png",Rtv
-http://103.89.248.10:8082/RTV/tracks-v1a1/mono.m3u8?token=a85e0466f5d0c494e80b7c1ba79e009244363fc6-a411a23192de92258f42cb824b52f321-1726423614-1726412814
+http://103.89.248.10:8082/RTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png",Boishakhi Tv
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8
@@ -30,11 +30,11 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png",Banglavision
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/QtFbyM4P/images-5-19.jpg",Desh Tvv
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/QtFbyM4P/images-5-19.jpg",Desh Tv
 http://tv.cloudcdn.me/live.ts?channelId=93&uid=13603&deviceMac=00:1A:79:64:B4:A6
 
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png",My Tv
-http://103.89.248.26:8082/MY-TV/tracks-a1/index.fmp4.m3u8?token=6396285bd5c6e097d828bc301fdcbdcde6e106b6-4100102921b331404111dea320ff1fbd-1726423661-1726412861
+http://103.89.248.26:8082/MY-TV/tracks-a1/index.fmp4.m3u8
 
 
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png",Mohona Tv
@@ -110,8 +110,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 http://103.89.248.14:8082/INDEPENDENT-NEWS/tracks-v1a1/mono.m3u8?token=6279b48506e336078316105f6aec0df309235036-6538857846d6dcdc2bf342afc11206f3-1726423141-1726412341
 
 #EXTINF:-1 group-title="Bangladeshi News" tvg-logo="https://i.ibb.co/vdKhyBM/images-25.jpg",Channel 24
-http://103.89.248.10:8082/Chanal24/tracks-v1a1/mono.m3u8?token=012bbdf9dd8e72a5b97bda6f942ca93017acb5b8-e8e09794e1652f8b2d34cccd888097c0-1726423234-1726412434
-http://103.89.248.26:8082/Chanal24/tracks-a1/index.fmp4.m3u8
+http://103.89.248.26:8082/Chanal24/tracks-a1/index.fmp4.m3u8?token=ef9d54c92436bd5e80a87f5f75e2c31db9485b12-3fa8dc6e96e7140013f50ca7c0ce2ce0-1726931787-1726920987
 
 #EXTINF:-1 group-title="Bangladeshi News" tvg-logo="https://i.ibb.co/HBF4nQv/ekattortv.png",Ekattor Tv
 http://103.89.248.26:8082/71-TV/tracks-v1/index.fmp4.m3u8?token=f8969d00f3d3c19f5017498c78f984614ac04430-39243ad19715654413dc477b79223392-1726931676-1726920876
