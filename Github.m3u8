@@ -406,7 +406,7 @@ http://tv.cloudcdn.me/live.ts?channelId=117&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://i.postimg.cc/J4jcz3x4/image.jpg",Zee Bangla Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png", Colors Bangla Cinema
-http://217.20.112.199/colorsbangla/index.m3u8
+https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_Cinema_voot_MOB
 
 #EXTINF:-1 group-title="Movie Channel" tvg-id=sl476 tvg-name="SL Sony MAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png",Sony Max
 https://nowsports.in/sliv/stream.php?id=878545&e=.m3u8|Referer=https://nowsports.in/insurance/&key=@FREDFLIXCEO
@@ -479,6 +479,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/Zoom_TV.png/revision/latest?cb=20111013233308",ZOOM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/J478HSS4/Background-Eraser-20240628-125959243.png", Hindi Hits
+http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 group-title="Music" ,SANGEET BHOJPURI
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=247600.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/WtkmCXz/20240803-163225.png",BALLE BALLE
@@ -595,6 +597,10 @@ http://xtv.ooo:8080/live/global/global/25988.m3u8
 http://xtv.ooo:8080/live/global/global/167657.m3u8
 #EXTINF:-1 group-title="International News" tvg-logo="https://i.ibb.co/Tv1pgrG/download-4.png", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+
+
+#EXTINF:-1 group-title="International News" tvg-logo="https://i.postimg.cc/dQys3kHB/Background-Eraser-20240628-151629577.png", NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 group-title="International News" tvg-logo="https://w7.pngwing.com/pngs/750/187/png-transparent-logo-arirangtv-television-in-south-korea-korean-culture-television-text-logo.png",arirang
 https://edge01.iptv.digijadoo.net/live/arirang/playlist.m3u8?md5=Yf_zC006TW9n_U0RsADa_Q&expires=1727135347&user=811838a63b224e85b02b925b31d0fece
 #EXTINF:-1 group-title="International News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Lotus_Macau_without_caption_in_english.png/revision/latest?cb=20221203122518",Lotus Macau
