@@ -1,12 +1,9 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://fhux.short.gy/epg.xml.gz,https://avkb.short.gy/epg.xml.gz,https://avkb.short.gy/jioepg.xml.gz,https://i.mjh.nz/SamsungTVPlus/all.xml.gz"
-epg master.xml.gz
-#EXTM3U x-tvg-url="https://github.com/MPAndrew/EpgGratis/raw/master/guide.xml.gz"
-#EXTM3U x-tvg-url="https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz"
-#EXTM3U x-tvg-url="https://www.tdtchannels.com/epg/TV.xml"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
-#EXTM3U x-tvg-url="https://github.com/MPAndrew/EpgGratis/blob/master/guide.xml.gz?raw=true"
-#EXTM3U x-tvg-url="https://gist.githubusercontent.com/thais0909/2ebcad6ce9e6847df7754b343e13fb75/raw/9374d685fe74ebfc6ea6cefd659cc102f7a94784/guia.txt"
+epg master.xml.gz,https://github.com/MPAndrew/EpgGratis/raw/master/guide.xml.gz,https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz,https://www.tdtchannels.com/epg/TV.xml,https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml
+
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml
+#EXTM3U x-tvg-url="https://github.com/MPAndrew/EpgGratis/blob/master/guide.xml.gz?raw=true
+#EXTM3U x-tvg-url="https://gist.githubusercontent.com/thais0909/2ebcad6ce9e6847df7754b343e13fb75/raw/9374d685fe74ebfc6ea6cefd659cc102f7a94784/guia.txt
 
 #EXTM3U x-tvg-url="https://gist.githubusercontent.com/micdouglas/486f35eefa2274fa8ec0ce2e3362ec8d/raw/4094cdba37830eacab50c531399aaec0f19ba29b/EPG%2520Tv%2520a%2520Cabo.xml"
 #EXTM3U x-tvg-url="https://gist.githubusercontent.com/miece/e30ca1108c0dc027dab307cbcfeb9035/raw/2b1fcffac9549c9c01b87fdfdb386b3fada5a31d/epg.xml"
