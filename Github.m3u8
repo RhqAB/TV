@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://fhux.short.gy/epg.xml.gz,https://avkb.short.gy/epg.xml.gz,https://avkb.short.gy/jioepg.xml.gz,https://i.mjh.nz/SamsungTVPlus/all.xml.gz"
+#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://avkb.short.gy/jioepg.xml.gz,https://i.mjh.nz/SamsungTVPlus/all.xml.gz"
 
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/mg15t8NJ/images-1-4.png",BTV National
 http://tv.cloudcdn.me/live.ts?channelId=44154&uid=16068&deviceMac=00:1A:79:ED:10:29
@@ -136,6 +136,7 @@ http://tv.cloudcdn.me/live.ts?channelId=91169&uid=16068&deviceMac=00:1A:79:ED:10
 https://fifabangladesh.live/VHOD/go.php?id=Nick_Junior_voot_MOB
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/8rzSwnH/20240803-101416.png"",Sonic
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/tiptop-op.m3u8?id=1134
+http://tv.cloudcdn.me/live.ts?channelId=40476&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/ys79Yrg/20240803-101434.png", SONY YAY
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_yay/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/br8260j/20240803-103819.png", DISCOVERY KIDS
@@ -424,8 +425,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol1.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/channellogo/andpictures-hd.png",& Pictures HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
-#EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DD%20National.png",DD National
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Shemaroo_2018.svg/revision/latest?cb=20200503071600",Shemaroo Bollywood
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/501fb6a6-e007-47a3-bf3e-c855b98c01e3/0.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="http://14.102.123.50:5001/jtvimage/ETV_HD.png", ETV HD
 http://14.102.123.50:5001/live/1973.m3u8
 #EXTINF:-1 group-title="Pakistani Entertainment" tvg-logo="https://www.pngfind.com/pngs/m/639-6391692_hum-network-limited-logo-live-hum-tv-logo.png",HUM TV
@@ -461,14 +462,17 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1
 http://tv.cloudcdn.me/live.ts?channelId=212&uid=6469&deviceMac=00:1A:79:B7:2F:EA
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/SUMovies.jpg/revision/latest?cb=20240313172157",Star Utsab Movies
 http://172.105.123.238:18002/play/a01n
-#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://i.ibb.co/1GdmG6F/20240816-213222.png",Bflix
-http://idvd.multitvsolution.com/idvo/bflixmovies_540p.m3u8
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png",B4U Movies 
+https://cdn2.pishow.tv/live/156/master.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXv4xURd0N6Rfwu0GGcXn6DPoVDOnxR-I2jiyiyEIejAItC4F5Uj3mAT9p&s=10",Goldmines Bollywood
 https://evbr.short.gy/BDStreamHub/Goldmines_Bollywood.ts
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png",Colors Cineplex HD
 https://fifabangladesh.live/VHOD/go.php?id=Colors_Cineplex_SD_voot_MOB
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://static.wirtualnemedia.pl/media/top/BollywoodHD_logo2018_655.png",Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://a.jsrdn.com/hls/23145/bollywood-prime/logo_20231219_184906_65.png",Bollywood Prime
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/59148f63-7388-4ecd-a088-11050ca3d856/3.m3u8
+https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/../../../manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/3850b620-3d48-4f69-a540-27e9f3262077/3.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://i.ibb.co/0MWtt7r/20240827-090822.png", & FLIX HD
 http://tv.cloudcdn.me/live.ts?channelId=49859&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF:-1 group-title="Movie Channel",Sony PIX
