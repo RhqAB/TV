@@ -232,9 +232,9 @@ http://xtv.ooo:8080/live/malik625538/digitalstore1year/167587.m3u8
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/9886.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png",PTV SPORTS HD
 http://175.107.244.52:4457/play/a08g/index.m3u8
+http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",A Sports
-https://nowmesports.com/crichd/stream.php?id=asportshd&e=.m3u8|Referer=https://nowmesports.com//&key=BDStreamHub
-http://multinet-tv.serveftp.com:45793/BRN/ArySports.stream/media_w1869662368_31721.m3u8
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST6vwZtGtSHigp1m6uiIdXhdP75nryFFVeIrH4npDyvp57XCKbupBqtCTb&s=10",Geo Super
 http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
 http://crystalott.net:80/live/BE2ZKMLVXR/I6WSJJXXZ1/7890.ts
@@ -414,11 +414,15 @@ https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.co
 https://nowsports.in/sliv/stream.php?id=1201&e=.m3u8|Referer=https://nowsports.in/insurance/&key=@FREDFLIXCEO
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://i.ibb.co/2y9cpyV/20240803-110506.png", SONY PAL
 https://nowsports.in/sliv/stream.php?id=1894&e=.m3u8|Referer=https://nowsports.in/insurance/&key=@FREDFLIXCEO
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Sony_Kal_Logo.jpg/revision/latest/scale-to-width-down/1200?cb=20240615084342",Sony Kal
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 http://xsmarters.top:8080/live/Saifullah222/Saifullah222/104192.ts
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://i.imgur.com/ADXlju2.png",Sony WAH
 http://172.105.123.238:18002/play/a01q
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_tv.png,Zee TV
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://w1.pngwing.com/pngs/490/415/png-transparent-creative-logo-lyngsat-big-magic-creative-living-beyond-fear-smiley-zee-magic-human-thaicom.png, Big Magic
+https://la.drmlive.au/tp/zee.php?id=bigmagic
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11969-j9luigc0-v2/imageContent-11969-j9luigc0-m2.png",Zee Anmol
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol1.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/And_TV_logo.png",& TV HD
@@ -445,6 +449,8 @@ http://tv.cloudcdn.me/live.ts?channelId=117&uid=8164&deviceMac=00:1A:79:17:D4:A1
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png", Colors Bangla Cinema
 https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_Cinema_voot_MOB
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSODXopSh2u8VcsSla7jVngvcZ0V5XA-sZsXA&usqp=CAU",Sananda TV
+http://54.38.79.60:2020/sananda/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Movie Channel" tvg-id=sl476 tvg-name="SL Sony MAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png",Sony Max
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/set_max_hd/playlist.m3u8
@@ -521,7 +527,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/d9970bfb-9d9f-4cf6-a4e8-9b1eb579ce00/1.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnjJkl5QkXYJNJaEY3ngCamGUkSREB2kvIDQ&s",ZING
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/Zoom_TV.png/revision/latest?cb=20111013233308",ZOOM
+#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png",ZOOM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/J478HSS4/Background-Eraser-20240628-125959243.png", Hindi Hits
 http://146.59.253.52:8080/hindihitshd/index.m3u8
@@ -627,6 +633,7 @@ http://tv.cloudcdn.me/live.ts?channelId=178&uid=16068&deviceMac=00:1A:79:ED:10:2
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1 group-title="International News" tvg-logo="https://poshatwork.com/wp-content/uploads/2021/01/zee-news.jpg",Zee News
 http://172.105.123.238:18002/play/a01i
+https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 #EXTINF:-1 group-title="International News" tvg-logo="https://exchange4media.gumlet.io/news-photo/112698-1525096849_1ktVjI_Times_Now.png",Times Now India
 http://tv.cloudcdn.me/live.ts?channelId=204&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 group-title="International News",DD NEWS
@@ -804,6 +811,8 @@ https://mhdtv.co.in/daddy/stream.m3u8?id=270|Referer=https://mhdtv.co.in//&key=B
 http://176.119.29.52/live.ts?channelId=48010&uid=13433&deviceMac=00:1A:79:00:97:A1
 
 A sports
+https://nowmesports.com/crichd/stream.php?id=asportshd&e=.m3u8|Referer=https://nowmesports.com//&key=BDStreamHub
+http://multinet-tv.serveftp.com:45793/BRN/ArySports.stream/media_w1869662368_31721.m3u8
 https://humsab.xyz/APakSpo/index.m3u8?token=bfaeae8c8599b3970bb1d7b0bc335988
 Astro
 http://195.26.87.217/live/00:1A:79:17:C0:71/4048/33317.m3u8
