@@ -463,9 +463,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
 https://la.drmlive.au/tp/zee.php?id=bigmagic
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11969-j9luigc0-v2/imageContent-11969-j9luigc0-m2.png",Zee Anmol
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol1.m3u8
-#EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/And_TV_logo.png",& TV HD
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/And_TV_logo.png",&tv HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
-#EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/channellogo/andpictures-hd.png",& Pictures HD
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/channellogo/andpictures-hd.png", &pictures HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Shemaroo_2018.svg/revision/latest?cb=20200503071600",Shemaroo Bollywood
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/501fb6a6-e007-47a3-bf3e-c855b98c01e3/0.m3u8
@@ -518,7 +518,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://a.jsrdn.com/hls/23145/bollywood-prime/logo_20231219_184906_65.png",Bollywood Prime
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/59148f63-7388-4ecd-a088-11050ca3d856/3.m3u8
 https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/../../../manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/3850b620-3d48-4f69-a540-27e9f3262077/3.m3u8
-#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://i.ibb.co/0MWtt7r/20240827-090822.png", & FLIX HD
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://i.ibb.co/0MWtt7r/20240827-090822.png", &flix HD
 http://tv.cloudcdn.me/live.ts?channelId=49859&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF:-1 group-title="Movie Channel",Sony PIX
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_pix_hd/playlist.m3u8
