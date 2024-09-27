@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://avkb.short.gy/jioepg.xml.gz,https://i.mjh.nz/SamsungTVPlus/all.xml.gz"
+#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://i.mjh.nz/SamsungTVPlus/all.xml.gz"
 
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/mg15t8NJ/images-1-4.png",BTV National
 http://tv.cloudcdn.me/live.ts?channelId=44154&uid=16068&deviceMac=00:1A:79:ED:10:29
@@ -130,6 +130,7 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/wc95cbY/20240803-103733.png", POGO
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
+http://xtv.ooo:8080/live/98267/02727/150483.ts
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/1vMwvc6/20240803-103957.png", WOW KIDS
 http://tv.cloudcdn.me/live.ts?channelId=91169&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png",Nick Junior
@@ -139,12 +140,13 @@ https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/tiptop-op.m3u8?id=113
 http://tv.cloudcdn.me/live.ts?channelId=40476&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/ys79Yrg/20240803-101434.png", SONY YAY
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_yay/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/br8260j/20240803-103819.png", DISCOVERY KIDS
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/br8260j/20240803-103819.png", Discovery Kids
 https://freeott.site/discovery/Discovery_Kids.m3u8
 https://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/8PfZWZW/image-Content-1356-j5tdnwmw-m1.png", DISNY CHANNEL
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/8PfZWZW/image-Content-1356-j5tdnwmw-m1.png", Disney Channel
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=10&bind=0&uin=159413&playseek=0
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/L58W5JY/20240812-183727.png", DISNY JR
+http://119.156.26.155:8000/play/a05u/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/L58W5JY/20240812-183727.png", Disney JR.
 http://tv.cloudcdn.me/live.ts?channelId=250&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF:-1 group-title="Kids" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/b440d39b-935e-4b40-9b6d-edc3d94f11b9/Primary+Logo.png",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
@@ -545,7 +547,7 @@ http://tv.cloudcdn.me/live.ts?channelId=130370&uid=16068&deviceMac=00:1A:79:ED:1
 
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLYgRc1lrUmKeVJj7_85fqp-81xHzGuKGsGQ&usqp=CAU",Discovery
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/vBmxPx3J/20240905-130943.png",Investigation Discovery
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png",Investigation Discovery
 https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Investigation_Discovery.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Discovery-asia.png",Discovery Asia
 https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
@@ -553,13 +555,13 @@ https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 https://dplus.gammacdn.workers.dev/videos/96.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png",Discovery Turbo
 https://dplus.gammacdn.workers.dev/videos/98.m3u8
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.imgur.com/g7I8nnR.png",National Geographic
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2560px-Natgeologo.svg.png",National Geographic
 http://opplextv.cyou:8080/live/global/global/109977.ts
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.imgur.com/g7I8nnR.png",National Geographic Bangla
 http://opplex.tv:8080/live/919990697539/9535126056/245967.ts
 #EXTINF:-1, group-title="Infotainment" tvg-logo="https://w7.pngwing.com/pngs/925/173/png-transparent-nat-geo-wild-television-channel-national-geographic-television-show-live-stream-television-text-logo.png",NAT GEO WILD
 http://opplextv.cyou:8080/live/global/global/206286.ts
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6_wcNQwFs2xvFpmoKckq4U0HIeXGPC2jm-YGha5GTVw&s",Animal Planet
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",Animal Planet
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.imgur.com/5lZ8dnC.png",Wild Earth
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
@@ -567,25 +569,25 @@ https://wildearth-roku.amagi.tv/masterR720P.m3u8
 https://nowsports.in/sliv/stream.php?id=852&e=.m3u8|Referer=https://nowsports.in/insurance/&key=@FREDFLIXCEO
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_204.png", Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/vBmxPx3J/20240905-130943.png",HGTV
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/BQC2LTTG/Background-Eraser-20240628-144507906.png",HGTV
 https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/HGTV.m3u8
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png",TLC HD
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.ibb.co/R3jczyR/20240827-090734.png", DMAX
+https://od.lk/s/ODRfNzIxOTE5Njhf/DMAX.m3u8
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png",TLC HD
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://images.toffeelive.com/images/program/18833/logo/240x240/mobile_logo_204706001683804802.png",Star Life HD
 http://103.84.57.155:8000/play/a0ce/index.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png",History TV 18
 http://14.102.123.50:5001/live/146.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=70099&uid=16068&deviceMac=00:1A:79:ED:10:29
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://www.mediainfoline.com/wp-content/uploads/2022/02/travelxp.logo_.jpg",TravelXP
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.postimg.cc/BnfXNdM9/Travelxp-01.png",TravelXP
 https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://tl.vhv.rs/dpng/s/52-522162_travel-channel-logo-png-transparent-png.png", Travel Channel
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.png", Travel Channel
 https://od.lk/s/ODRfNzIxOTE5NjRf/TRVL_Channel.m3u8
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://w7.pngwing.com/pngs/541/615/png-transparent-food-food-indian-cuisine-television-channel-india-television-food-text.png",Food Food
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png",Food Food
 http://tv.cloudcdn.me/live.ts?channelId=169&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.ibb.co/44bFXMZ/download-4.png", Asian Food Network
 https://od.lk/s/ODRfNzIxOTE5NThf/Food_Network.m3u8
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://i.ibb.co/R3jczyR/20240827-090734.png", DMAX
-https://od.lk/s/ODRfNzIxOTE5Njhf/DMAX.m3u8
 #EXTINF:-1, group-title="Infotainment", CGTN Documentary
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtndoc.stream/playlist.m3u8
 
