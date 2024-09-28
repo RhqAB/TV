@@ -1,29 +1,4 @@
-#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://fhux.short.gy/epg.xml.gz,https://avkb.short.gy/epg.xml.gz,https://avkb.short.gy/jioepg.xml.gz,https://i.mjh.nz/SamsungTVPlus/all.xml.gz,https://github.com/MPAndrew/EpgGratis/raw/master/guide.xml.gz,https://github.com/LITUATUI/M3UPT/raw/main/epg/epg-vodafone.xml.gz,https://www.tdtchannels.com/epg/TV.xml,https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml
-
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml
-#EXTM3U x-tvg-url="https://github.com/MPAndrew/EpgGratis/blob/master/guide.xml.gz?raw=true
-#EXTM3U x-tvg-url="https://gist.githubusercontent.com/thais0909/2ebcad6ce9e6847df7754b343e13fb75/raw/9374d685fe74ebfc6ea6cefd659cc102f7a94784/guia.txt
-
-#EXTM3U x-tvg-url="https://gist.githubusercontent.com/micdouglas/486f35eefa2274fa8ec0ce2e3362ec8d/raw/4094cdba37830eacab50c531399aaec0f19ba29b/EPG%2520Tv%2520a%2520Cabo.xml"
-#EXTM3U x-tvg-url="https://gist.githubusercontent.com/miece/e30ca1108c0dc027dab307cbcfeb9035/raw/2b1fcffac9549c9c01b87fdfdb386b3fada5a31d/epg.xml"
-#EXTM3U x-tvg-url="http://estiptv.site/epg/FR_guide.xml"
-#EXTM3U x-tvg-url="http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Brazil/vivo.com.br.channels.xml"
-#EXTM3U x-tvg-url="http://webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Brazil/hagah.com.br.channels.xml
-#EXTM3U x-tvg-url="http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/#EXTINF:-1 group-title="Argentina",entina/directv.com.ar.channels.xml"
-#EXTM3U x-tvg-url="http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Saudi%20Arabia/osn.com.channels.xml"
-#EXTM3U x-tvg-url="http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Italy/foodnetwork.it.channels.xml"
-#EXTM3U x-tvg-url="http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Italy/mediasetpremium.it.channels.xml"
-#EXTM3U x-tvg-url="http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Italy/mediaset.it.channels.xml"
-#EXTM3U x-tvg-url="https://gist.githubusercontent.com/micdouglas/486f35eefa2274fa8ec0ce2e3362ec8d/raw/4094cdba37830eacab50c531399aaec0f19ba29b/EPG%2520Tv%2520a%2520Cabo.xml"
-#EXTM3U x-tvg-url="http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Brazil/clarotv.com.br.channels.xml"
-
-#EXTM3U x-tvg-url="https://gist.githubusercontent.com/mra00000/03b408a8f4146d2274bcc080b841a51a/raw/8ebe29c7b70093f273b7e6368779d5089171dccb/epg.xml"
-#EXTM3U x-tvg-url="http://epg.tododream.com/latinmunich_xmltv-movistar-spain_5.gz"
-#EXTM3U x-tvg-url="https://canaisglobo.globo.com/programacao/gz"
-#EXTM3U x-tvg-url="http://especial1.g1.globo.com/globo-news/index.php"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-meo.xml"
-
- 
+#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz,https://fhux.short.gy/epg.xml.gz,https://avkb.short.gy/epg.xml.gz,https://avkb.short.gy/jioepg.xml.gz,https://i.mjh.nz/SamsungTVPlus/all.xml.gz,https://github.com/MPAndrew/EpgGratis/raw/master/guide.xml.gz,https://www.tdtchannels.com/epg/TV.xml,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml,https://github.com/MPAndrew/EpgGratis/blob/master/guide.xml.gz?raw=true,https://gist.githubusercontent.com/thais0909/2ebcad6ce9e6847df7754b343e13fb75/raw/9374d685fe74ebfc6ea6cefd659cc102f7a94784/guia.txt,https://gist.githubusercontent.com/micdouglas/486f35eefa2274fa8ec0ce2e3362ec8d/raw/4094cdba37830eacab50c531399aaec0f19ba29b/EPG%2520Tv%2520a%2520Cabo.xml,https://gist.githubusercontent.com/miece/e30ca1108c0dc027dab307cbcfeb9035/raw/2b1fcffac9549c9c01b87fdfdb386b3fada5a31d/epg.xml,http://estiptv.site/epg/FR_guide.xml,http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Brazil/vivo.com.br.channels.xml,http://webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Brazil/hagah.com.br.channels.xml,http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/#EXTINF:-1 group-title="Argentina",entina/directv.com.ar.channels.xml,http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Saudi%20Arabia/osn.com.channels.xml,http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Italy/foodnetwork.it.channels.xml,http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Italy/mediasetpremium.it.channels.xml,http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Italy/mediaset.it.channels.xml,https://gist.githubusercontent.com/micdouglas/486f35eefa2274fa8ec0ce2e3362ec8d/raw/4094cdba37830eacab50c531399aaec0f19ba29b/EPG%2520Tv%2520a%2520Cabo.xml,http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Brazil/clarotv.com.br.channels.xml,https://gist.githubusercontent.com/mra00000/03b408a8f4146d2274bcc080b841a51a/raw/8ebe29c7b70093f273b7e6368779d5089171dccb/epg.xml,http://epg.tododream.com/latinmunich_xmltv-movistar-spain_5.gz,https://canaisglobo.globo.com/programacao/gz,http://especial1.g1.globo.com/globo-news/index.php,https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-meo.xml
 
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://seeklogo.com/images/B/btv-bangladesh-television-logo-FFB6C4E6F0-seeklogo.com.png",BTV National
 http://tv.cloudcdn.me/live.ts?channelId=44154&uid=16068&deviceMac=00:1A:79:ED:10:29
@@ -321,16 +296,16 @@ http://xsmarters.top:8080/live/Saifullah222/Saifullah222/167580.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/2560px-Sky_Sport_Football_-_Logo_2020.svg.png", Sky Sports Football (4K)
 http://opplex.tv:8080/live/15155419/16175512/346241.ts
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/175821.ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg",Super Football
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg",SuperSport Football
 http://xtv.ooo:8080/live/98267/02727/238480.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg",Super La Liga
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg",SuperSport La Liga
 http://xtv.ooo:8080/live/98267/02727/238479.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg",Super Premier League
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg",SuperSport Premier League
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/518.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png",Ten Sports
 http://opplextv.cyou:8080/live/global/global/167569.ts
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://e7.pngegg.com/pngimages/19/599/png-clipart-bein-sports-text-bein-sports-united-states-la-liga-bein-sports-1-sports-miscellaneous-purple.png",Bein Sports 01
+#EXTINF:-1 group-title="Sports" tvg-logo="https://e7.pngegg.com/pngimages/19/599/png-clipart-bein-sports-text-bein-sports-united-states-la-liga-bein-sports-1-sports-miscellaneous-purple.png",Bein Sports 1
 http://xtv.ooo:8080/live/malik625538/digitalstore1year/381330.m3u8
 http://crystalott.net/live/BE2ZKMLVXR/I6WSJJXXZ1/618281.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://e7.pngegg.com/pngimages/19/599/png-clipart-bein-sports-text-bein-sports-united-states-la-liga-bein-sports-1-sports-miscellaneous-purple.png",Bein Sports 2
@@ -347,7 +322,7 @@ http://xtv.ooo:8080/live/malik625538/digitalstore1year/381338.m3u8
 http://crystalott.net/live/BE2ZKMLVXR/I6WSJJXXZ1/618277.ts
 
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.comedy.co.uk/images/channels/tnt_sports_1.jpg",TNT Sports 1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://cdn.comedy.co.uk/images/channels/tnt_sports_1.jpg",TNT Sport 1
 http://tv.cloudcdn.me/live.ts?channelId=91159&uid=16068&deviceMac=00:1A:79:ED:10:29
 http://tv.cloudcdn.me/live.ts?channelId=267&uid=3960&deviceMac=00:1A:79:09:AC:16
 http://crystalott.net/live/BE2ZKMLVXR/I6WSJJXXZ1/11606.ts
