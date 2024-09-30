@@ -505,6 +505,8 @@ http://xtv.ooo:8080/live/malik625538/digitalstore1year/66271.ts
 http://62.182.80.86/GeIUwrVHZFCkD9y/zEjKmG3anu/3040
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://images.wikia.com/logopedia/images/d/dc/Comedy_Central_2011_stacked.png",Comedy Central HD
 https://fifabangladesh.live/VHOD/go.php?id=Comedy_Central_SD_voot_MOB
+#EXTINF:-1 group-title="Movie Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Lotus_Macau_without_caption_in_english.png/revision/latest?cb=20221203122518",Lotus Macau
+http://tv.cloudcdn.me:80/live.ts?channelId=129287&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/English%20Movies.jpeg",Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
@@ -668,14 +670,14 @@ http://xtv.ooo:8080/live/global/global/26046.m3u8
 http://xtv.ooo:8080/live/global/global/25988.m3u8
 #EXTINF:-1 group-title="International News" tvg-logo="https://i.ibb.co/Tv1pgrG/download-4.png", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-
-
 #EXTINF:-1 group-title="International News" tvg-logo="https://i.postimg.cc/dQys3kHB/Background-Eraser-20240628-151629577.png", NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 group-title="International News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Lotus_Macau_without_caption_in_english.png/revision/latest?cb=20221203122518",Lotus Macau
-http://tv.cloudcdn.me:80/live.ts?channelId=129287&uid=16068&deviceMac=00:1A:79:ED:10:29
+
 #EXTINF:-1 group-title="International News",Thank You
 http://vod3.cloudlivesawa.shop/streams_cach/158531.m3u8
+
+
+
 
 #EXTINF:-1 group-title="FM Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg",Bangladesh Betar Traffic 88.8
 http://as12.digitalsynapsebd.com:8263/;stream.mp3
