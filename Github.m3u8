@@ -606,8 +606,10 @@ https://od.lk/s/ODRfNzIxOTE5Njhf/DMAX.m3u8
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle" tvg-logo="https://images.toffeelive.com/images/program/18833/logo/240x240/mobile_logo_204706001683804802.png",Star Life HD
 http://103.84.57.155:8000/play/a0ce/index.m3u8
-#EXTINF:-1 group-title="Infotainment & Lifestyle" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11544-j9ju5kvc-v2/imageContent-11544-j9ju5kvc-m3.png",Zee Zest
+#EXTINF:-1 group-title="Infotainment & Lifestyle" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11544-j9ju5kvc-v2/imageContent-11544-j9ju5kvc-m3.png",Zee Zest HD
 http://tv.cloudcdn.me/live.ts?channelId=29704&uid=16068&deviceMac=00:1A:79:ED:10:29
+#EXTINF:-1 group-title="Infotainment & Lifestyle" tvg-logo="https://www.nicepng.com/png/detail/252-2520637_epic-tv-channel.png",EPIC
+https://epiconvh.s.llnwi.net/epic/master.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle" tvg-logo="https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png",History TV18 HD
 http://14.102.123.50:5001/live/146.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=70099&uid=16068&deviceMac=00:1A:79:ED:10:29
