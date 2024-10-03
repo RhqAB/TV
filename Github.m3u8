@@ -405,6 +405,7 @@ https://cdn3.pishow.tv/live/281/master.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://www.pngitem.com/pimgs/m/3-32979_star-plus-star-plus-logo-new-hd-png.png",Star Plus
 http://vo01.mohdtv.com:8880/voby5038/67747551/55274
 http://217.20.112.199/starplushd/index.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=200&uid=13433&deviceMac=00:1A:79:00:97:A1
 http://tv.cloudcdn.me:80/live.ts?channelId=200&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Star_Gold_2020.svg",Star Gold HD
 http://xtv.ooo:8080/live/malik625538/digitalstore1year/66177.m3u8
@@ -421,6 +422,8 @@ http://tv.cloudcdn.me/live.ts?channelId=195&uid=6469&deviceMac=00:1A:79:B7:2F:EA
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
 http://opplex.live:8080/live/global/global/221254.ts
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_Rishtey_logo.png/1200px-Colors_Rishtey_logo.png", Colors Rishtey
+http://tv.cloudcdn.me/live.ts?channelId=158&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" ,Colors Infinity SD
 https://fifabangladesh.live/VHOD/go.php?id=Colors_Infinity_SD_voot_MOB
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png",Sony Entertainment Television
@@ -448,6 +451,10 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol1.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/channellogo/andpictures-hd.png", &pictures HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Dangalv2.png/revision/latest/scale-to-width-down/200?cb=20210514114903",Dangal
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Dangal_2.png/revision/latest?cb=20220406123459", Dangal 2
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Shemaroo_2018.svg/revision/latest?cb=20200503071600",Shemaroo Bollywood
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/501fb6a6-e007-47a3-bf3e-c855b98c01e3/0.m3u8
 #EXTINF:-1 group-title="Pakistani Entertainment" tvg-logo="https://www.pngfind.com/pngs/m/639-6391692_hum-network-limited-logo-live-hum-tv-logo.png",HUM TV
@@ -552,6 +559,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.postimg.cc/J478HSS4/Background-Eraser-20240628-125959243.png", Hindi Hits
 http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1 group-title="Music" https://i.ibb.co/SQL9Zs5/20240803-105418.png", Show Box
+https://epiconvh.s.llnwi.net/showbox/master.m3u8
 #EXTINF:-1 group-title="Music" ,SANGEET BHOJPURI
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=247600.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.ibb.co/WtkmCXz/20240803-163225.png",BALLE BALLE
