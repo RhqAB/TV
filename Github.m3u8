@@ -62,6 +62,7 @@ https://ythls.armelin.one/channel/UC200cnk8CCEkNAIubWtDsLw.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Global_Television_Bangladesh_Logo_2.png",Global Tv
 http://starshare.live:8080/live/664140/664140/4231.ts
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-g.stream/playlist.m3u8
+http://m1-max.dns-speedy.com:80/35F56F/50945D/1440984
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxT37QeLoNwrMrzrL8NUx_sA4tyZw0hnHoqF5RhwENo_TOP2Z29HYAMAk&s=10",Channel S
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/kMkJDdz/moviebanglatv-logo.png",Movie Bangla
@@ -199,14 +200,15 @@ https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.tsports.com/assets/images/Logo%20tsports.svg",T Sports
 http://xtv.ooo:8080/live/malik625538/digitalstore1year/245901.ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/KXSPddd/20240827-010107.png",T Sports LIVE 2
-https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/tsports/op.m3u8?id=live-02
-http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451545.ts
-http://103.190.85.38/hls/tsports.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://edge01.iptv.digijadoo.net/static/t_sports.png",T Sports Backup
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/tsports/op.m3u8?id=live-01
 http://tv.cloudcdn.me/live.ts?channelId=98&uid=8164&deviceMac=00:1A:79:17:D4:A1
 http://tv.cloudcdn.me/live.ts?channelId=48010&uid=16068&deviceMac=00:1A:79:ED:10:29
+http://103.190.85.38/hls/tsports.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/KXSPddd/20240827-010107.png",T Sports LIVE 2
+https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/tsports/op.m3u8?id=live-02
+http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451545.ts
+http://m1-max.dns-speedy.com:80/35F56F/50945D/756462
 #EXTINF:-1 group-title="Sports" tvg-logo="https://www.tsports.com/assets/images/Logo%20tsports.svg",T Sports Jadoo
 https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=n9fmzuoEXhBeHY-9dlxaIg&expires=1727131169&user=811838a63b224e85b02b925b31d0fece
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=t_sports
