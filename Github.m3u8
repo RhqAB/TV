@@ -145,11 +145,14 @@ http://119.156.26.155:8000/play/a05u/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/L58W5JY/20240812-183727.png", Disney Junior HD
 http://tv.cloudcdn.me/live.ts?channelId=250&uid=13603&deviceMac=00:1A:79:64:B4:A6
 http://xtv.ooo:8080/live/malik625538/digitalstore1year/153175.ts
+http://103.124.251.164:28015/play/a02m/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/b440d39b-935e-4b40-9b6d-edc3d94f11b9/Primary+Logo.png",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/YTfbaxj.png",Hungama
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Hungama_TV.png",Hungama
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/tiptop-op.m3u8?id=1094
 http://xtv.ooo:8080/live/874246786/743567899/150480.ts
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/YTfbaxj.png",Super Hungama
+http://103.124.251.164:28015/play/a02n/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://w7.pngwing.com/pngs/896/956/png-transparent-spacetoon-television-channel-television-show-streaming-media-animation.png", Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.ibb.co/F3XcWbG/20240803-103747.png", Gubbare
