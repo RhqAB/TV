@@ -238,6 +238,20 @@ http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451471.ts
 http://ekdilhai.pro/AF_S2/mpegts?token=ba3442574070a9e78afaf3218e0b9871
 http://crystalott.net:80/live/BE2ZKMLVXR/I6WSJJXXZ1/2751.ts
 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png",PTV SPORTS HD
+http://175.107.244.52:4457/play/a08g/index.m3u8
+http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+http://opplex.tv:8080/live/global/global/167567.ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",A Sports
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png",Ten Cricket
+http://xtv.ooo:8080/live/malik625538/digitalstore1year/167587.m3u8
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/9886.ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST6vwZtGtSHigp1m6uiIdXhdP75nryFFVeIrH4npDyvp57XCKbupBqtCTb&s=10",Geo Super
+http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
+http://crystalott.net:80/live/BE2ZKMLVXR/I6WSJJXXZ1/7890.ts
+
+
 #EXTINF:-1 group-title="Sports" tvg-id=1984 tvg-name="Sports18 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Sports18_logo.svg/1200px-Sports18_logo.svg.png",Sports18 1
 http://176.119.29.52/live.ts?channelId=102479&uid=8164&deviceMac=00:1A:79:17:D4:A1
 http://tv.cloudcdn.me/live.ts?channelId=102479&uid=16068&deviceMac=00:1A:79:ED:10:29
@@ -249,17 +263,6 @@ http://tv.cloudcdn.me/live.ts?channelId=132373&uid=16068&deviceMac=00:1A:79:ED:1
 http://176.119.29.52/live.ts?channelId=132374&uid=8164&deviceMac=00:1A:79:17:D4:A1
 http://tv.cloudcdn.me/live.ts?channelId=132374&uid=16068&deviceMac=00:1A:79:ED:10:29
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png",Ten Cricket
-http://xtv.ooo:8080/live/malik625538/digitalstore1year/167587.m3u8
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/9886.ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png",PTV SPORTS HD
-http://175.107.244.52:4457/play/a08g/index.m3u8
-http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",A Sports
-http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST6vwZtGtSHigp1m6uiIdXhdP75nryFFVeIrH4npDyvp57XCKbupBqtCTb&s=10",Geo Super
-http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
-http://crystalott.net:80/live/BE2ZKMLVXR/I6WSJJXXZ1/7890.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrOO-pFRfbJXcWgOXEF47LdoWgrtNB2YZMqw&s",SuperSport Cricket
 https://ddy1.mizhls.ru:443/ddy1/premium368/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
