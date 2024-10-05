@@ -474,7 +474,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpicturesh
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Dangal_2.png/revision/latest?cb=20220406123459", Dangal 2
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
-EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="http://14.102.123.50:5001/jtvimage/ETV_HD.png", ETV HD
+#EXTINF:-1 group-title="Hindi Entertainment" tvg-logo="http://14.102.123.50:5001/jtvimage/ETV_HD.png", ETV HD
 https://dw56h1aaay8sg.cloudfront.net/v1/manifest/3239369ce9144762f6df79ad0250b16a882d6a39/ETV_HD_H264/9dda1648-174a-4d9c-80e0-872dd123427a/3.m3u8
 #EXTINF:-1 group-title="Pakistani Entertainment" tvg-logo="https://www.pngfind.com/pngs/m/639-6391692_hum-network-limited-logo-live-hum-tv-logo.png",HUM TV
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
