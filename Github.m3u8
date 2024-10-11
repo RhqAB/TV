@@ -240,12 +240,6 @@ http://metatvpro.xyz:25461/live/J2781/5030/157.ts
 http://xtv.ooo:8080/live/global/global/167583.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdy4C4g5PPu91tbSZN9lgejySS9S5GhO04BThHfQpH&s",Willow Cricket HD Backup
 http://tv.cloudcdn.me:80/live.ts?channelId=302&uid=8069&deviceMac=00:1A:79:4C:90:E3
-#EXTINF:-1 group-title="Sports" tvg-logo="https://mena-img-cdn-lb.aws.playco.com/prd-peg-data/default/images/logos/subscriptions/starzplaysports.svg", STARZPLAY Criclife 1
-https://ddy5.mizhls.ru:443/ddy5/premium283/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-http://crystalott.net/live/BE2ZKMLVXR/I6WSJJXXZ1/439745.ts
-#EXTINF:-1 group-title="Sports" tvg-logo="https://mena-img-cdn-lb.aws.playco.com/prd-peg-data/default/images/logos/subscriptions/starzplaysports.svg", STARZPLAY Criclife 2
-http://crystalott.net/live/BE2ZKMLVXR/I6WSJJXXZ1/439749.ts
-http://xtv.ooo:8080/live/malik625538/digitalstore1year/371470.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://w7.pngwing.com/pngs/214/781/png-transparent-star-sports-sony-ten-star-india-television-channel-others-miscellaneous-television-text.png",Star Sports 1 HD
 http://xtv.ooo:8080/global/global/167575
 #EXTINF:-1 group-title="Sports" tvg-logo="https://w7.pngwing.com/pngs/214/781/png-transparent-star-sports-sony-ten-star-india-television-channel-others-miscellaneous-television-text.png",Star Sports 1 Hindi
@@ -261,6 +255,12 @@ http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451471.ts
 #EXTINF:-1 group-title="Sports" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/7226/597226-h",Star Sports Select 2
 http://ekdilhai.pro/AF_S2/mpegts?token=ba3442574070a9e78afaf3218e0b9871
 http://crystalott.net:80/live/BE2ZKMLVXR/I6WSJJXXZ1/2751.ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://mena-img-cdn-lb.aws.playco.com/prd-peg-data/default/images/logos/subscriptions/starzplaysports.svg", STARZPLAY Criclife 1
+https://ddy5.mizhls.ru:443/ddy5/premium283/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+http://crystalott.net/live/BE2ZKMLVXR/I6WSJJXXZ1/439745.ts
+#EXTINF:-1 group-title="Sports" tvg-logo="https://mena-img-cdn-lb.aws.playco.com/prd-peg-data/default/images/logos/subscriptions/starzplaysports.svg", STARZPLAY Criclife 2
+http://crystalott.net/live/BE2ZKMLVXR/I6WSJJXXZ1/439749.ts
+http://xtv.ooo:8080/live/malik625538/digitalstore1year/371470.ts
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png",PTV SPORTS HD
 http://175.107.244.52:4457/play/a08g/index.m3u8
@@ -268,6 +268,7 @@ http://opplex.tv:8080/live/global/global/167567.ts
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",A Sports
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+http://multinet-tv.serveftp.com:45793/BRN/ArySports.stream/media_w1869662368_31721.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png",Ten Cricket
 http://xtv.ooo:8080/live/malik625538/digitalstore1year/167587.m3u8
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/9886.ts
