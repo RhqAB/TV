@@ -96,9 +96,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=74625&uid=16068&deviceMac=00:1A:79:ED
 http://208.86.19.13:81/514.stream/index.m3u8
 http://crystalott.net:80/live/BE2ZKMLVXR/I6WSJJXXZ1/4687.ts
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.imgur.com/ecXmhgz.jpg",The Channel Tv
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/thechanneltv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/09/%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%AD%E0%A7%8B%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BE_%E0%A6%85%E0%A6%A7%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0_%E0%A6%B8%E0%A6%82%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A3_%E0%A6%85%E0%A6%A7%E0%A6%BF%E0%A6%A6%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%B0.jpg",Vokta TV
-https://tv.voktatv.com:8080/hls/stream.m3u8
+https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/thechanneltv.stream/playlist.m3u8|Referer=https://cdn.jagobd.com.bd
+
 
 
 #EXTINF:-1 group-title="Bangladeshi News" tvg-logo="https://i.postimg.cc/R05tLFg1/Background-Eraser-20240628-101059334.png",Atn News
@@ -643,8 +642,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-xi
 https://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://w7.pngwing.com/pngs/750/187/png-transparent-logo-arirangtv-television-in-south-korea-korean-culture-television-text-logo.png",arirang
 http://crystalott.net:80/live/BE2ZKMLVXR/I6WSJJXXZ1/9925.ts
-#EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvol06XiHIk7VBg9_V6dsolB5_FCekmY7gYg&s", Colosal TV
-https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/colosal.stream/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt8DtZ9t_uCaL9I46s3EAsgVkYElJ_WS_Sdg&usqp=CAU", Concert TV
 http://tv.cloudcdn.me/live.ts?channelId=130370&uid=16068&deviceMac=00:1A:79:ED:10:29
 res=1728710954&KeyName=kai03&Signature=A0Dz16zQseX6DjRX-QSKtNtplGI=
@@ -652,6 +649,7 @@ res=1728710954&KeyName=kai03&Signature=A0Dz16zQseX6DjRX-QSKtNtplGI=
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240d3d466225000827412b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bb439-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ba3de05-22ef-4ab2-8d11-c4a6c21d39ba
 #EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Qello_Concerts_Logo.png",iConcerts
 http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/1478557.ts
+
 
 #EXTINF:-1 group-title="Infotainment & Lifestyle" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLYgRc1lrUmKeVJj7_85fqp-81xHzGuKGsGQ&usqp=CAU",Discovery
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
@@ -892,6 +890,8 @@ group-title="Bangladeshi" tvg-logo="https://i.postimg.cc/L8jkh48K/images-5-21.jp
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8
 rajdhani
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rajdhanitv.stream/playlist.m3u8
+EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/09/%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%AD%E0%A7%8B%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BE_%E0%A6%85%E0%A6%A7%E0%A6%BF%E0%A6%95%E0%A6%BE%E0%A6%B0_%E0%A6%B8%E0%A6%82%E0%A6%B0%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A3_%E0%A6%85%E0%A6%A7%E0%A6%BF%E0%A6%A6%E0%A6%AA%E0%A7%8D%E0%A6%A4%E0%A6%B0.jpg",Vokta TV
+https://tv.voktatv.com:8080/hls/stream.m3u8
 
 
 Bangladeshi NEWS
