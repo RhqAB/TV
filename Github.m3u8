@@ -596,8 +596,9 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://a.jsrdn.com/hls/23145/bollywood-prime/logo_20231219_184906_65.png",Bollywood Prime
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/59148f63-7388-4ecd-a088-11050ca3d856/3.m3u8
 https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/../../../manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/3850b620-3d48-4f69-a540-27e9f3262077/3.m3u8
-#EXTINF:-1 group-title=""Movie Channel 🎬📽️🎞️" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Shemaroo_2018.svg/revision/latest?cb=20200503071600",Shemaroo Bollywood
+#EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Shemaroo_2018.svg/revision/latest?cb=20200503071600",Shemaroo Bollywood
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/501fb6a6-e007-47a3-bf3e-c855b98c01e3/0.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/f25347ef-2091-42ee-9fc8-17b2f6a8f42f/3.m3u8
 #EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png",Zee Cafe HD
 http://tv.cloudcdn.me/live.ts?channelId=212&uid=6469&deviceMac=00:1A:79:B7:2F:EA
 http://tv.cloudcdn.me/live.ts?channelId=212&uid=6469&deviceMac=00:1A:79:ED:10:29
@@ -662,6 +663,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/index.m3u8
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://i.ibb.co/SQL9Zs5/20240803-105418.png", Show Box
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
+#EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://pbs.twimg.com/profile_images/1027810641241763840/oA04Vdv2_400x400.jpg", Shemaroo Filmigaane
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/f50fd4bc-8a3f-4afc-bee9-7972d6a82a94/3.m3u8
 #EXTINF:-1 group-title="Music 🎵🎼🎶" ,SANGEET BHOJPURI
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=247600.m3u8
 #EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://i.ibb.co/WtkmCXz/20240803-163225.png",BALLE BALLE
