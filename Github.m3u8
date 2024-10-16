@@ -69,8 +69,6 @@ http://starshare.live:8080/live/127718262420/127744325447/3802.ts
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png",Bangla Tv
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451538.ts
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrT4JbEHX_nZAVdQMT7DvrU8fDGlnHAN8GgQ&s",Bangla Europe Tv
-https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://i.postimg.cc/pT3MHHgC/Background-Eraser-20240628-152508647.png",Anando Tv
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=zns9eha2&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
@@ -82,7 +80,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=90300&uid=8069&deviceMac=00:1A:79:4C:
 http://tv.cloudcdn.me/live.ts?channelId=90300&uid=8069&deviceMac=00:1A:79:ED:10:29
 http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/1440981.ts
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Global_Television_Bangladesh_Logo_2.png",Global Tv
-http://starshare.live:8080/live/664140/664140/4231.ts
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-g.stream/playlist.m3u8
 http://m1-max.dns-speedy.com:80/35F56F/50945D/1440984
 http://starshare.live:8080/live/Leroy123/Leroy123/4231.ts
@@ -252,10 +249,11 @@ https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/tsports/op.m3u8?id=li
 http://m1-max.dns-speedy.com:80/35F56F/50945D/756462
 https://mhdtv.co.in/daddy/stream.m3u8?id=270|Referer=https://mhdtv.co.in/
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451545.ts
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://www.tsports.com/assets/images/Logo%20tsports.svg",T Sports  Jadoo
+http://m1-max.dns-speedy.com:80/mariusbuzila2/A1CC5C/756462
+EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://www.tsports.com/assets/images/Logo%20tsports.svg",T Sports  Jadoo
 https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=In4h4TcVCM8gfXW3l9N_Ig&expires=1728433826&user=7e48d7e5f01d439f8a06d1e1dd00dded
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=t_sports
-
+http://m1-max.dns-speedy.com:80/mariusbuzila2/A1CC5C/756462
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://i.ibb.co.com/122RBvy/image-25.webp",Toffee Sports Womens T20 World Cup Match 1 
 https://fifabd.xyz/JOIN@TGxRANAPK33/play.m3u8?id=match-1
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://i.ibb.co.com/122RBvy/image-25.webp",Toffee Sports Womens T20 World Cup Match 2
@@ -923,7 +921,9 @@ https://edge01.iptv.digijadoo.net/live/nexus_tv/playlist.m3u8?md5=59Okh763Qn4fdD
 https://bdixtv.nayeemparvez.tech/api/jadoo.m3u8?id=nexus_tv
 https://cdn.ncare.live/live-orgin/nexustv.stream/playlist.m3u8
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8
-
+bangla europe
+EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrT4JbEHX_nZAVdQMT7DvrU8fDGlnHAN8GgQ&s",Bangla Europe Tv
+https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
 bijoy
 http://xtv.ooo:8080/live/malik625538/digitalstore1year/245946.m3u8
 http://176.119.29.52/live.ts?channelId=85&uid=13603&deviceMac=00:1A:79:64:B4:A6
