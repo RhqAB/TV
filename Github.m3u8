@@ -333,6 +333,7 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHC9dFRvA8VJIDySgWMLIsxJk4J5FkoJbZ-oKjm7_Pr3uP-4eX5pJyUmk&s=10stan_Logo_%282021%E2%80%93%29_blue.svg.png",ATN Afghanistan
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 
+
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png", Sony Sports Ten 1 HD
 https://nowsports.in/sliv/stream.php?id=7541236&e=m3u8|Referer=https://nowsports.in/insurance/&key=@FREDFLIXCEO
 http://176.119.29.52/live.ts?channelId=289&uid=15834&deviceMac=00:1A:79:40:26:09
@@ -422,9 +423,10 @@ http://mag.windiptv.xyz:8080/muhlisbelck/azerty/324121
 http://tv.cloudcdn.me/live.ts?channelId=130190&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s",DAZN La Liga
 http://vipgsiv.top:8080/VIP0143170808970153/8f412c052939/243
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Match%21_Futbol_1_Stacked.svg/revision/latest?cb=20221006124442", Match Futbol 1
-http://194.143.148.28:8080/MatchFutbol1/index.m3u8
-http://62.182.80.86/GeIUwrVHZFCkD9y/DNmfCYzLQV/8140
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg", Sport TV1
+https://8r1fp7ro6am.a.trbcdn.net/SportTV1/tracks-v4a1/mono.m3u8
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Sporttv-2.svg/revision/latest?cb=20231020154516", Sport TV2
+https://8r1fp7ro6am.a.trbcdn.net/SportTV2/index.m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png", Fox Soccer Plus
 http://vo01.mohdtv.com:8880/live/voby5038/67747551/29695.ts
 http://crystalott.net:80/live/BE2ZKMLVXR/I6WSJJXXZ1/137668.ts
