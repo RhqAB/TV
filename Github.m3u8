@@ -584,13 +584,13 @@ http://tv.cloudcdn.me:80/live.ts?channelId=128485&uid=16068&deviceMac=00:1A:79:E
 http://172.105.123.238:18002/play/a01h
 #EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/SUMovies.jpg/revision/latest?cb=20240313172157",Star Utsav
 http://172.105.123.238:18002/play/a01n
-#EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://edge01.iptv.digijadoo.net/static/zee_cinema.png",Zee Cinema
+#EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://i.postimg.cc/W4BrhNHK/Background-Eraser-20240628-124616530.png",Zee Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd1/default/zeecinemahd1.m3u8
+#EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://i.postimg.cc/6QWJcgtm/images-removebg-preview.png",Zee Bollywood
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
 #EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png",Zee Action
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=207&uid=16068&deviceMac=00:1A:79:ED:10:29
-#EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" ,Zee Bollywood
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebollywood1/default/zeebollywood1.m3u8
 #EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png",B4U Movies 
 https://cdn2.pishow.tv/live/156/master.m3u8
 #EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXv4xURd0N6Rfwu0GGcXn6DPoVDOnxR-I2jiyiyEIejAItC4F5Uj3mAT9p&s=10",Goldmines Bollywood
@@ -676,7 +676,7 @@ https://cdn2.pishow.tv/live/141/master.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Mastiii-TV_logo.jpg",Mastiii
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/d9970bfb-9d9f-4cf6-a4e8-9b1eb579ce00/1.m3u8
-#EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnjJkl5QkXYJNJaEY3ngCamGUkSREB2kvIDQ&s",ZING
+#EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Zing_300x300.png/revision/latest?cb=20240313185236",ZING
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing1/default/zing1.m3u8
 #EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png",ZOOM
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/index.m3u8
