@@ -497,8 +497,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
 http://opplex.live:8080/live/global/global/221254.ts
 #EXTINF:-1 group-title="Hindi Entertainment 🇮🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_Rishtey_logo.png/1200px-Colors_Rishtey_logo.png", Colors Rishtey
 http://tv.cloudcdn.me/live.ts?channelId=158&uid=13603&deviceMac=00:1A:79:64:B4:A6
-#EXTINF:-1 group-title="Hindi Entertainment 🇮🇳" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" ,Colors Infinity SD
-https://fifabangladesh.live/VHOD/go.php?id=Colors_Infinity_SD_voot_MOB
 #EXTINF:-1 group-title="Hindi Entertainment 🇮🇳" tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png",Sony TV HD
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainment/playlist.m3u8
 https://nowsports.in/sliv/stream.php?id=1100&e=.m3u8|Referer=https://nowsports.in/insurance/&key=@FREDFLIXCEO
@@ -610,6 +608,9 @@ http://tv.cloudcdn.me/live.ts?channelId=212&uid=6469&deviceMac=00:1A:79:B7:2F:EA
 http://tv.cloudcdn.me/live.ts?channelId=212&uid=6469&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://i.ibb.co/0MWtt7r/20240827-090822.png", &flix HD
 http://tv.cloudcdn.me/live.ts?channelId=49859&uid=13603&deviceMac=00:1A:79:ED:10:29
+#EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/colors_infinity_hd_india.webp",Colors Infinity SD
+http://tv.cloudcdn.me/live.ts?channelId=157&uid=5353&deviceMac=00:1A:79:17:D4:65
+https://fifabangladesh.live/VHOD/go.php?id=Colors_Infinity_SD_voot_MOB
 #EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png",Star Movies HD
 http://xtv.ooo:8080/live/global/global/66213.m3u8
 #EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1640857479-98084000.png", Star Movies Select HD
@@ -630,7 +631,7 @@ http://212.102.34.8:9080/SonyPixHD/video.m3u8
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/800px-Sony_Movies_Logo.svg.png", Sony Movies
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
-#EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://images.wikia.com/logopedia/images/d/dc/Comedy_Central_2011_stacked.png",Comedy Central HD
+#EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Comedy_Central_HD.png",Comedy Central HD
 https://fifabangladesh.live/VHOD/go.php?id=Comedy_Central_SD_voot_MOB
 #EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://images.samsung.com/is/image/samsung/assets/nz/tvs/smart-tv/samsung-tv-plus/all-channels/action_holloywood_circle_1000x1000.png?$296_164_PNG$",Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
