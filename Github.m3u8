@@ -227,6 +227,9 @@ http://suprino.xyz/live/PMF3J9X/BV7HG8H/76197.ts
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://i.imgur.com/xuNhiek.png",Islam Bangla
 https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
+#EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7MCCXF0-x0LWGClQxFjsMAJ_YHTDy1bWtxg&s",Salaam Channel
+http://on.deflix.xyz:8880/live/kamrul19/kamrul1715/19070.ts
+https://ap02.iqplay.tv:8082/iqb8002/sa1aamch568/playlist.m3u8
 #EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT690tyOldZn0IPNVp20ls2zi2dK0_LY_sK2VNBPJuQqJlONXdJvXWlZbMiNGLt6gs1i_4&usqp=CAU",Islam TV
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/islamtv.stream/playlist.m3u8|Referer=https://cdn.jagobd.com.bd
 #EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://i.ibb.co/2F9HQq9/20240803-172433.png",Iqra Bangla
@@ -234,17 +237,14 @@ https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://i.ibb.co/89CVshH/20240827-091949.png",Deen TV UK
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deentv.stream/playlist.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
+#EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://www.tvoneuk.tv/wp-content/uploads/2021/06/TVONE-LOGO-Colour.png",TV ONE
+http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/108779.ts
 #EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://madanichannelbangla.tv/img/img/logo/b-logo.png",Madani Channel Bangla
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 #EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple30/v4/f3/b0/be/f3b0be12-eacf-89d1-e559-95041f0e8fde/source/512x512bb.jpg",Eman Channel
 https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
 #EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://i.imgur.com/Cvnps2J.jpg", Takbeer TV
 https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
-#EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7MCCXF0-x0LWGClQxFjsMAJ_YHTDy1bWtxg&s",Salaam Channel
-http://on.deflix.xyz:8880/live/kamrul19/kamrul1715/19070.ts
-https://ap02.iqplay.tv:8082/iqb8002/sa1aamch568/playlist.m3u8
-#EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://www.tvoneuk.tv/wp-content/uploads/2021/06/TVONE-LOGO-Colour.png",TV ONE
-http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/108779.ts
 #EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/ARY_Qtv_logo.png",ARY Qtv
 http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/99659.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=388&uid=16068&deviceMac=00:1A:79:ED:10:29
@@ -552,16 +552,18 @@ https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 https://dw56h1aaay8sg.cloudfront.net/v1/manifest/3239369ce9144762f6df79ad0250b16a882d6a39/ETV_HD_H264/9dda1648-174a-4d9c-80e0-872dd123427a/3.m3u8
 
 
-#EXTINF:-1 group-title="Pakistani Entertainment 🇵🇰" tvg-logo="https://i.postimg.cc/W1JkLzwx/pngfind-com-tv-logo-png-6391692.png",HUM TV
+#EXTINF:-1 group-title="Entertainment Worldwide" tvg-logo="https://w7.pngwing.com/pngs/75/199/png-transparent-pakistan-hum-tv-television-channel-drama-hum-television-text-logo-thumbnail.png",HUM TV
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
-#EXTINF:-1 group-title="Pakistani Entertainment 🇵🇰" tvg-logo="https://harpalgeo.tv/assets/front/images/geo_logo.png",HAR PAL GEO
+#EXTINF:-1 group-title="Entertainment Worldwide" tvg-logo="https://harpalgeo.tv/assets/front/images/geo_logo.png",HAR PAL GEO
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Pakistani Entertainment 🇵🇰" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Ary_Digital_Logo.png",ARY Digital
+#EXTINF:-1 group-title="Entertainment Worldwide" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Ary_Digital_Logo.png",ARY Digital
 http://125.209.88.166:45793/BRN/AryDigital.stream/playlist.m3u8
-#EXTINF:-1 group-title="Pakistani Entertainment 🇵🇰" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHQOBHh8Vz7bNJNU3FjoNZdyBjR0Nenl3ZIGxJ2keS1v30pGl6SPjci4J8&s=10",BOL Entertainment
+#EXTINF:-1 group-title="Entertainment Worldwide" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHQOBHh8Vz7bNJNU3FjoNZdyBjR0Nenl3ZIGxJ2keS1v30pGl6SPjci4J8&s=10",BOL Entertainment
 http://filex.tv:8080/live/Multicity/1234/110043.ts
-
-
+#EXTINF:-1 group-title="Entertainment Worldwide" tvg-logo="https://w7.pngwing.com/pngs/750/187/png-transparent-logo-arirangtv-television-in-south-korea-korean-culture-television-text-logo.png",arirang
+http://crystalott.net:80/live/BE2ZKMLVXR/I6WSJJXXZ1/9925.ts
+#EXTINF:-1 group-title="Entertainment Worldwide" tvg-logo="https://i.ibb.co/tQC0d8X/kbsw.jpg",KBS WORLD
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
 #EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/e826ae113186785.Y3JvcCwxNDU5LDExNDEsMCwxNjI.png",Bongo Movies
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-movies
@@ -665,8 +667,7 @@ https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playli
 #EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Lotus_Macau_without_caption_in_english.png/revision/latest?cb=20221203122518",Lotus Macau
 http://tv.cloudcdn.me:80/live.ts?channelId=129287&uid=16068&deviceMac=00:1A:79:ED:10:29
 https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
-#EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://i.ibb.co/tQC0d8X/kbsw.jpg",KBS WORLD
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+
 
 
 
@@ -722,8 +723,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-xi
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhyc1F4zXRGNUDTq64-rgB9yUzj55SxFme-g&s", V2Beat
 https://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://w7.pngwing.com/pngs/750/187/png-transparent-logo-arirangtv-television-in-south-korea-korean-culture-television-text-logo.png",arirang
-http://crystalott.net:80/live/BE2ZKMLVXR/I6WSJJXXZ1/9925.ts
 #EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt8DtZ9t_uCaL9I46s3EAsgVkYElJ_WS_Sdg&usqp=CAU", Concert TV
 http://tv.cloudcdn.me/live.ts?channelId=130370&uid=16068&deviceMac=00:1A:79:ED:10:29
 res=1728710954&KeyName=kai03&Signature=A0Dz16zQseX6DjRX-QSKtNtplGI=
