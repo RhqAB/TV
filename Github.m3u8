@@ -533,7 +533,7 @@ https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 https://dw56h1aaay8sg.cloudfront.net/v1/manifest/3239369ce9144762f6df79ad0250b16a882d6a39/ETV_HD_H264/9dda1648-174a-4d9c-80e0-872dd123427a/3.m3u8
 
 
-#EXTINF:-1 group-title="Pakistani Entertainment 🇵🇰" tvg-logo="https://www.pngfind.com/pngs/m/639-6391692_hum-network-limited-logo-live-hum-tv-logo.png",HUM TV
+#EXTINF:-1 group-title="Pakistani Entertainment 🇵🇰" tvg-logo="https://i.postimg.cc/W1JkLzwx/pngfind-com-tv-logo-png-6391692.png",HUM TV
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
 #EXTINF:-1 group-title="Pakistani Entertainment 🇵🇰" tvg-logo="https://harpalgeo.tv/assets/front/images/geo_logo.png",HAR PAL GEO
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
@@ -750,9 +750,11 @@ https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://w7.pngwing.com/pngs/393/802/png-transparent-bbc-news-online-logo-of-the-bbc-hbo-logo-television-text-rectangle-thumbnail.png",BBC World News
 http://xtv.ooo:8080/live/malik625538/digitalstore1year/346360.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=132073&uid=16068&deviceMac=00:1A:79:ED:10:29
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://edge01.iptv.digijadoo.net/static/al_jazeera.png",AL Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png",CNN
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/08/Fox-News-Channel-Emblem-1024x576.png",Fox News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
@@ -762,6 +764,7 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:C5:93&stream=821588&e
 http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/100697.ts
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Abc-news-logo.png/800px-Abc-news-logo.png",abc news
 http://tv.cloudcdn.me:80/live.ts?channelId=472&uid=16068&deviceMac=00:1A:79:ED:10:29
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/NBC_News_%282023%29.svg",NBC News
 http://tv.cloudcdn.me:80/live.ts?channelId=127140&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MSNBC_2015-2021_logo.svg/1280px-MSNBC_2015-2021_logo.svg.png",MSNBC
@@ -769,6 +772,7 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:C5:93&stream=855331&e
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png",RT News
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://logowik.com/content/uploads/images/dw-deutsche-welle4346.logowik.com.webp",DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://logowik.com/content/uploads/images/cna-channel-news-asia9392.jpg",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
