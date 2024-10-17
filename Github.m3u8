@@ -463,6 +463,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=116&uid=7245&deviceMac=00:1A:79:B7:2F:EA
 #EXTINF:-1 group-title="Kolkata Entertainment" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/3d/Zee_Bangla_HD_2D_logo_%282017-present%29.png/revision/latest?cb=20210901025604",Zee Bangla HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd1/default/zeebanglahd1.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=120&uid=10016&deviceMac=00:1A:79:20:6F:F3
 #EXTINF:-1 group-title="Kolkata Entertainment" tvg-logo="https://i.ibb.co/wcHcrGC/20240803-101812.png", Enterr10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 group-title="Kolkata Entertainment" tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png",SONY AATH 
@@ -523,6 +524,7 @@ https://la.drmlive.au/tp/zee.php?id=bigmagic
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol1.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment 🇮🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/And_TV_logo.png",&tv HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=140&uid=1868&deviceMac=00:1A:79:94:98:FE
 #EXTINF:-1 group-title="Hindi Entertainment 🇮🇳" tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/channellogo/andpictures-hd.png", &pictures HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment 🇮🇳" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Dangalv2.png/revision/latest/scale-to-width-down/200?cb=20210514114903",Dangal
@@ -552,6 +554,7 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=117&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://i.postimg.cc/J4jcz3x4/image.jpg",Zee Bangla Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=119&uid=10016&deviceMac=00:1A:79:20:6F:F3
 #EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png", Colors Bangla Cinema
 https://fifabangladesh.live/VHOD/go.php?id=Colors_Bangla_Cinema_voot_MOB
 #EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tara-bangla-cinema.png",Tara Bangla Cinema
@@ -649,8 +652,9 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia.m3u8
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://e7.pngegg.com/pngimages/849/297/png-clipart-9x-jalwa-television-channel-9x-media-streaming-media-others-miscellaneous-television.png",9X Jalwa
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/47bdb49d-f6f3-4927-a9ea-12c4c5afc732/0.m3u8
-#EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://w7.pngwing.com/pngs/876/392/png-transparent-mtv-base-viacom-media-networks-mtv-classic-television-show-mtv-logo-angle-text-hand.png",MTV
+#EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://w7.pngwing.com/pngs/876/392/png-transparent-mtv-base-viacom-media-networks-mtv-classic-television-show-mtv-logo-angle-text-hand.png",MTv HD
 https://fifabangladesh.live/VHOD/go.php?id=MTV_voot_MOB
+https://neestreamtv.com/jcinema/stream.m3u8?id=3774151||Referer=https://neestreamtv.com//&key=BDStreamHub
 #EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/MTV_Beats_Logo.png/revision/latest?cb=20191227125237",MTV BEATS HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png",B4U Music
