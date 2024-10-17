@@ -564,6 +564,8 @@ http://filex.tv:8080/live/Multicity/1234/110043.ts
 http://crystalott.net:80/live/BE2ZKMLVXR/I6WSJJXXZ1/9925.ts
 #EXTINF:-1 group-title="Entertainment Worldwide" tvg-logo="https://i.ibb.co/tQC0d8X/kbsw.jpg",KBS WORLD
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 group-title="Entertainment Worldwide" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/TV5Monde_Asie_2021.svg/revision/latest/scale-to-width-down/250?cb=20220504053723",TV5MONDE ASIE 
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 
 #EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/e826ae113186785.Y3JvcCwxNDU5LDExNDEsMCwxNjI.png",Bongo Movies
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-movies
