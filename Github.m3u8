@@ -211,6 +211,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=129416&uid=16068&deviceMac=00:1A:79:E
 #EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://i.ibb.co/rtkWYHV/20240827-092043.png", AL QURAN
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=232&uid=16068&deviceMac=00:1A:79:ED:10:29
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://i.ibb.co/rtkWYHV/20240827-092043.png",AL SUNNAH
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=223&uid=16068&deviceMac=00:1A:79:ED:10:29
@@ -603,6 +605,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://a.jsrdn.com/hls/23145/bollywood-prime/logo_20231219_184906_65.png",Bollywood Prime
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/59148f63-7388-4ecd-a088-11050ca3d856/3.m3u8
 https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/../../../manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/3850b620-3d48-4f69-a540-27e9f3262077/3.m3u8
+#EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/MBC_Bollywood_TV_Channel_Logo.png",MBC Bollywood
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Shemaroo_2018.svg/revision/latest?cb=20200503071600",Shemaroo Bollywood
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/501fb6a6-e007-47a3-bf3e-c855b98c01e3/0.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/f25347ef-2091-42ee-9fc8-17b2f6a8f42f/3.m3u8
@@ -695,6 +699,7 @@ https://drmlive.in/yupptv/balle-balle.m3u8
 #EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1024px-Trace_Urban_logo_2010.svg.png", Trcae Urban
 http://king4k.tv:80/play/live.php?mac=00:1A:79:09:62:41&stream=386362&extension=ts&play_token=XmbcLL0iEd
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-xiaomi/playlist.m3u8
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhyc1F4zXRGNUDTq64-rgB9yUzj55SxFme-g&s", V2Beat
 https://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://w7.pngwing.com/pngs/750/187/png-transparent-logo-arirangtv-television-in-south-korea-korean-culture-television-text-logo.png",arirang
@@ -762,7 +767,7 @@ https://linear-174.frequency.stream/dist/localnow/174/hls/master/playlist.m3u8
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtndoc.stream/playlist.m3u8|Referer=https://cdn.jagobd.com.bd
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://seeklogo.com/images/F/Fashion_TV-logo-6378A85AD1-seeklogo.com.png",Fashion TV
 https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8
-
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5457
 
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://w7.pngwing.com/pngs/393/802/png-transparent-bbc-news-online-logo-of-the-bbc-hbo-logo-television-text-rectangle-thumbnail.png",BBC World News
 http://xtv.ooo:8080/live/malik625538/digitalstore1year/346360.ts
