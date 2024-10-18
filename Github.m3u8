@@ -216,12 +216,12 @@ http://tv.cloudcdn.me:80/live.ts?channelId=129416&uid=16068&deviceMac=00:1A:79:E
 
 
 
-#EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://i.ibb.co/rtkWYHV/20240827-092043.png", AL QURAN
+#EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/small_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png", AL QURAN
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=232&uid=16068&deviceMac=00:1A:79:ED:10:29
-https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
-#EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://i.ibb.co/rtkWYHV/20240827-092043.png",AL SUNNAH
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+#EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png",AL SUNNAH
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=223&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD1ADWsqszl4DpqO8wZSq5pqBkqDC5W6g3yQ&s",ATN Islamic TV
@@ -490,23 +490,23 @@ http://217.20.112.199/zeebangla/index.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=120&uid=10016&deviceMac=00:1A:79:20:6F:F3
 #EXTINF:-1 group-title="Kolkata Entertainment" tvg-logo="https://i.ibb.co/wcHcrGC/20240803-101812.png", Enterr10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-#EXTINF:-1 group-title="Kolkata Entertainment" tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png",SONY AATH 
+#EXTINF:-1 group-title="Kolkata Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png",SONY AATH 
 https://nowsports.in/sliv/stream.php?id=195&e=.m3u8|Referer=https://nowsports.in/insurance/&key=@FREDFLIXCEO
 http://45.127.56.3:6699/live/Corpus-POL1/SRV4/1/SONY-AATH/live.mpd
 #EXTINF:-1 group-title="Kolkata Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Colors_Bangla.png", Colors Bangla
 http://217.20.112.199/colorsbangla/index.m3u8
 http://217.20.112.199/colorsbangla/tracks-v1a1/2024/10/18/08/40/13-05001.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=92&uid=16068&deviceMac=00:1A:79:ED:10:29
-#EXTINF:-1 group-title="Kolkata Entertainment" tvg-logo="https://i.ibb.co/2thQM7K/20240803-164328.png", Sun Bangla
+#EXTINF:-1 group-title="Kolkata Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Sun_Bangla_HD_logo_2023.png/revision/latest?cb=20240324143411", Sun Bangla
 http://opplextv.cyou:8080/live/global/global/245906.ts
-#EXTINF:-1 group-title="Kolkata Entertainment" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgOKtkFIEnXQ2kWRKrQArUd3lNG2WSlWEnSFPIdC9plQ&s",KHUSHBOO BANGLA
+#EXTINF:-1 group-title="Kolkata Entertainment" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/35/Rupashi_Bangla_logo_with_slogan_%282013%29.png/revision/latest/scale-to-width-down/250?cb=20210424142050", Ruposhi Bangla
+https://cdn3.pishow.tv/live/281/master.m3u8
+#EXTINF:-1 group-title="Kolkata Entertainment" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Khushboo_Bangla_logo_%282016-present%29.png/revision/latest?cb=20210423103549",KHUSHBOO BANGLA
 https://cdn3.pishow.tv/live/283/master.m3u8
-#EXTINF:-1 group-title="Kolkata Entertainment" tvg-logo="https://i.ibb.co/RHN0sPn/20240803-164432.png", Aakash Aath
+#EXTINF:-1 group-title="Kolkata Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Aakashaath_blue.png/revision/latest/scale-to-width-down/300?cb=20210509111354", Aakash Aath
 http://176.119.29.61/live.ts?channelId=79&uid=13433&deviceMac=00:1A:79:00:97:A1&redir=1
 http://tv.cloudcdn.me/live.ts?channelId=79&uid=13433&deviceMac=00:1A:79:00:97:A1
-#EXTINF:-1 group-title="Kolkata Entertainment" tvg-logo="https://i.ibb.co/jVzzMtq/20240803-102343.png", Ruposhi Bangla
-https://cdn3.pishow.tv/live/281/master.m3u8
-#EXTINF:-1 group-title="Kolkata Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/Dd_Bangla.PNG", DD Bangla
+#EXTINF:-1 group-title="Kolkata Entertainment" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/Dd_2019.webp/revision/latest/scale-to-width-down/250?cb=20230226135533", DD Bangla
 http://150.242.202.110:824/jiobe/live/2568.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=36290&uid=16068&deviceMac=00:1A:79:ED:10:29
 
@@ -526,7 +526,7 @@ http://xtv.ooo:8080/live/09448630/09888785/66163.ts
 http://opplex.live:8080/live/global/global/221254.ts
 #EXTINF:-1 group-title="Hindi Entertainment 🇮🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_Rishtey_logo.png/1200px-Colors_Rishtey_logo.png", Colors Rishtey
 http://tv.cloudcdn.me/live.ts?channelId=158&uid=13603&deviceMac=00:1A:79:64:B4:A6
-#EXTINF:-1 group-title="Hindi Entertainment 🇮🇳" tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png",Sony TV HD
+#EXTINF:-1 group-title="Hindi Entertainment 🇮🇳" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png",Sony TV HD
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainment/playlist.m3u8
 https://nowsports.in/sliv/stream.php?id=1100&e=.m3u8|Referer=https://nowsports.in/insurance/&key=@FREDFLIXCEO
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=193
@@ -534,17 +534,17 @@ https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=193
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sab_hd/playlist.m3u8
 https://nowsports.in/sliv/stream.php?id=1201&e=.m3u8|Referer=https://nowsports.in/insurance/&key=@FREDFLIXCEO
 https://himel-op.top/Join-Telegram-@HimelOP_Official/cdnop.ts?channelId=191
-#EXTINF:-1 group-title="Hindi Entertainment 🇮🇳" tvg-logo="https://i.ibb.co/2y9cpyV/20240803-110506.png", SONY PAL
+#EXTINF:-1 group-title="Hindi Entertainment 🇮🇳" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20PAL.png", SONY PAL
 https://nowsports.in/sliv/stream.php?id=1894&e=.m3u8|Referer=https://nowsports.in/insurance/&key=@FREDFLIXCEO
 #EXTINF:-1 group-title="Hindi Entertainment 🇮🇳" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Sony_Kal_Logo.jpg/revision/latest/scale-to-width-down/1200?cb=20240615084342",Sony Kal
 http://xsmarters.top:8080/live/Saifullah222/Saifullah222/104192.ts
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment 🇮🇳" tvg-logo="https://i.imgur.com/ADXlju2.png",Sony WAH
 http://172.105.123.238:18002/play/a01q
-#EXTINF:-1 group-title="Hindi Entertainment 🇮🇳" tvg-logo="https://w1.pngwing.com/pngs/490/415/png-transparent-creative-logo-lyngsat-big-magic-creative-living-beyond-fear-smiley-zee-magic-human-thaicom.png, Big Magic
+#EXTINF:-1 group-title="Hindi Entertainment 🇮🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Big_Magic_logo.png", Big Magic
 https://la.drmlive.au/tp/zee.php?id=bigmagic
 http://crystalott.net/live/BE2ZKMLVXR/I6WSJJXXZ1/3119.ts
-#EXTINF:-1 group-title="Hindi Entertainment 🇮🇳" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11969-j9luigc0-v2/imageContent-11969-j9luigc0-m2.png",Zee Anmol
+#EXTINF:-1 group-title="Hindi Entertainment 🇮🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Zee_anmol.png/1280px-Zee_anmol.png",Zee Anmol
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol1.m3u8
 http://xtv.ooo:8080/live/09448630/09888785/66357.ts
 #EXTINF:-1 group-title="Hindi Entertainment 🇮🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/And_TV_logo.png",&tv HD
