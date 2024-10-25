@@ -936,16 +936,16 @@ http://tv.cloudcdn.me/live.ts?channelId=204&uid=16068&deviceMac=00:1A:79:ED:10:2
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/DD_News_New_Logo.png",DD NEWS
 http://172.105.123.238:18002/play/a002
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl7ydXmES0sHJ-ItmBfC242ssmIbjO1iDlMQwPmHppmpy0STsX0G-gUvU&s=10",Ary News
-http://xtv.ooo:8080/live/global/global/221344.m3u8
-#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr1nHz4eZ4WozzuRuR5eiFZ5y_JuUUji7SUzUeyew4_3rmN8bt0RHRhks&s=10",Geo News
-http://xtv.ooo:8080/live/global/global/221343.m3u8
+http://xtv.ooo:8080/live/malik625538/digitalstore1year/221344.m3u8
+#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2017/12/Geo-News.png",Geo News
+http://xtv.ooo:8080/live/malik625538/digitalstore1year/221343.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Dunya_News.jpg",Dunya News
-http://xtv.ooo:8080/live/global/global/221346.m3u8
+http://xtv.ooo:8080/live/malik625538/digitalstore1year/221346.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/BOL_Network.png",Bol Network
-http://xtv.ooo:8080/live/global/global/26046.m3u8
+http://xtv.ooo:8080/live/malik625538/digitalstore1year/26046.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/PTV_News_Logo.png",Ptv News
-http://xtv.ooo:8080/live/global/global/25988.m3u8
-#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://i.ibb.co/Tv1pgrG/download-4.png", CNBC Indonesia
+http://xtv.ooo:8080/live/malik625538/digitalstore1year/25988.m3u8
+#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/CNBC_Indonesia_logo.svg/revision/latest?cb=20220301125950", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://i.postimg.cc/dQys3kHB/Background-Eraser-20240628-151629577.png", NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
