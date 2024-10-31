@@ -885,6 +885,12 @@ https://akdnetwork.co.in/live/cnnew/index.m3u8
 https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="Indian News" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/c/c4/Sananda_News_HD_logo_%282014%29.png/revision/latest/scale-to-width-down/200?cb=20210428083525", Sananda News
 http://live.dataplayer.in:8080/live/rmmeghnatv.m3u8?hls_ctx=mm1rga1c
+#EXTINF:-1 group-title="Indian News" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/35/Banglajago_TV_logo_%282015%29.png/revision/latest?cb=20210429041222",Bangla Jago TV
+http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
+
+
+
+
 
 #EXTINF:-1 group-title="Indian News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png", Aaj Tak
 https://feeds.intoday.in/aajtak/api/master.m3u8
