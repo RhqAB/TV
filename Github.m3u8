@@ -848,7 +848,7 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://www.vibee.tv/wp-content/uploads/2023/08/bitmap.png", VIBE TO BEAT
 https://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Concert2015.png/revision/latest?cb=20210423194157&path-prefix=es", Concert TV
-http://tv.cloudcdn.me/live.ts?channelId=130370&uid=16068&deviceMac=00:1A:79:ED:10:29
+
 #EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Qello_Concerts_Logo.png",Qello Concerts
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 group-title="Music 🎵🎼🎶" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Stingray_Concerts.svg/1024px-Stingray_Concerts.svg.png",iConcerts
@@ -1345,6 +1345,8 @@ GAANBANGLA
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gaanbangla-8-orgd.stream/playlist.m3u8
 mtv
 http://14.102.123.50:5001/live/248.m3u8
+concert
+http://tv.cloudcdn.me/live.ts?channelId=130370&uid=16068&deviceMac=00:1A:79:ED:10:29
 9x jalwa
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa.m3u8
 b4u music
