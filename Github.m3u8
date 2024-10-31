@@ -454,6 +454,12 @@ http://authxplus-2.xyz:2082/Tourobox1-Hh9sq6y5ZD/pT0SLmknyU/905
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://i.pinimg.com/originals/07/28/ef/0728ef60ccc6fb3252a427bda2050009.png",Bein Sports 6
 http://authxplus-2.xyz:2082/Tourobox1-Hh9sq6y5ZD/pT0SLmknyU/904
 
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://seeklogo.com/images/A/ad-sports-logo-E5BD39C778-seeklogo.com.png", Abu Dhabi Sports TV 
+http://109.61.18.156:80/stream/starzplay/adprem1/master.m3u8
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://seeklogo.com/images/A/ad-sports-logo-E5BD39C778-seeklogo.com.png", Abu Dhabi Sports TV  2
+http://109.61.18.156:80/stream/starzplay/adprem2/master.m3u8
+
+
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://cdn.comedy.co.uk/images/channels/tnt_sports_1.jpg",TNT Sports 1
 http://rhsbjv7k.tvclub.xyz/iptv/APM3584VN3P6W4/19051/index.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=267&uid=3960&deviceMac=00:1A:79:09:AC:16
@@ -596,9 +602,7 @@ http://xtv.ooo:8080/live/09448630/09888785/66357.ts
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd1/default/andtvhd1.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=140&uid=1868&deviceMac=00:1A:79:94:98:FE
 http://119.156.26.155:8000/play/a074/78657099.m3u8
-#EXTINF:-1 group-title="Hindi Entertainment 🇮🇳" tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/channellogo/andpictures-hd.png", &pictures HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
-http://119.156.26.155:8000/play/a07e/17666589.m3u8
+https://la.drmlive.au/tp/zee-tvhd_0.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment 🇮🇳" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Dangalv2.png/revision/latest/scale-to-width-down/200?cb=20210514114903",Dangal
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="Hindi Entertainment 🇮🇳" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Dangal_2.png/revision/latest?cb=20220406123459", Dangal 2
@@ -674,6 +678,10 @@ http://119.156.26.155:8000/play/a07q/index.m3u8
 #EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png",Zee Action
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeaction1/default/zeeaction1.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=207&uid=16068&deviceMac=00:1A:79:ED:10:29
+#EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://assets.airtel.in/static-assets/cms/dth/images/channellogo/andpictures-hd.png", &pictures HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd1/default/andpictureshd1.m3u8
+http://119.156.26.155:8000/play/a07e/17666589.m3u8
+https://live.drmlive-02.workers.dev/zee/and-pictures-hd.m3u8
 #EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png",B4U Movies 
 https://cdn2.pishow.tv/live/156/master.m3u8
 #EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXv4xURd0N6Rfwu0GGcXn6DPoVDOnxR-I2jiyiyEIejAItC4F5Uj3mAT9p&s=10",Goldmines Bollywood
