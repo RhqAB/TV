@@ -602,6 +602,8 @@ http://tv.cloudcdn.me/live.ts?channelId=200&uid=13433&deviceMac=00:1A:79:00:97:A
 http://tv.cloudcdn.me:80/live.ts?channelId=200&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 group-title="Hindi Entertainment 🇮🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/59/Star_Bharat_logo.png",Star Bharat
 http://tv.cloudcdn.me/live.ts?channelId=195&uid=6469&deviceMac=00:1A:79:B7:2F:EA
+#EXTINF:-1 group-title="Hindi Entertainment 🇮🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Star_Vijay_logo_2023.png",Star Vijay 
+http://31.42.187.37:25461/live/watchpad13158/1234/71.ts
 #EXTINF:-1 group-title="Hindi Entertainment 🇮🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png",Zee TV
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeetvhd1/default/zeetvhd1.m3u8
 http://103.110.110.11:8081/live/zeetv/l_335869_86496396_28732.ts?nimblesessionid=5451318
@@ -685,9 +687,10 @@ http://54.38.79.60:2020/sananda/tracks-v1a1/mono.m3u8
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 #EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-id=sl476 tvg-name="SL Sony MAX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png",Sony Max
+http://suprino.xyz/live/PMF3J9X/BV7HG8H/72147.ts
 http://103.110.110.11:8081/live/sonymax/playlist.m3u8
 https://nowsports.in/sliv/stream.php?id=878545&e=.m3u8|Referer=https://nowsports.in/insurance/&key=@FREDFLIXCEO
-http://suprino.xyz/live/PMF3J9X/BV7HG8H/72147.ts
+http://tv.cloudcdn.me/live/00:1A:79:A4:26:62/4280/185.m3u8
 #EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-id=sl483 tvg-name="SL Sony MAX 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTldQuadjn_gMY5t5ZwVXXvYCuvEC1Q4nESQw&s",Sony MAX 2
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max_2/playlist.m3u8
 https://nowsports.in/sliv/stream.php?id=123&e=.m3u8|Referer=https://nowsports.in/insurance/&key=@FREDFLIXCEO
@@ -961,6 +964,8 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1 group-title="Indian News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Zee_News_2023.png/revision/latest/scale-to-width-down/220?cb=20230706224129",Zee News
 http://172.105.123.238:18002/play/a01i
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+#EXTINF:-1 group-title="Indian News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/ABP_News_logo.svg", ABP News
+https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 #EXTINF:-1 group-title="Indian News" tvg-logo="https://akm-img-a-in.tosshub.com/indiatoday/images/misc/icon-512x512.png",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
 #EXTINF:-1 group-title="Indian News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png",Times Now
