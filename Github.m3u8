@@ -24,6 +24,7 @@ https://channel-i-tv.rockstreamer.com/chlive/121212/chunks.m3u8
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 http://210.4.72.204/hls-live/streams/livepkgr/events/_definst_/liveevent/livestream3Num12078.ts
 https://ekusheyserver.com/etvlivesn.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=96&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://i.postimg.cc/g27Qp4RD/Background-Eraser-20240628-105829130.png",Ntv
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=5149cfic&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
 https://evbr.short.gy/BDStreamHub/ntv.m3u
@@ -608,7 +609,7 @@ http://ktv.im:8080/live/9263672726/9272772822/86028.ts
 http://103.205.133.71/colorshd/tracks-v1a1/mono.m3u8
 http://opplex.live:8080/live/global/global/221254.ts
 #EXTINF:-1 group-title="Hindi Entertainment 🇮🇳" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_Rishtey_logo.png/1200px-Colors_Rishtey_logo.png", Colors Rishtey
-http://tv.cloudcdn.me/live.ts?channelId=158&uid=13603&deviceMac=00:1A:79:64:B4:A6
+http://tv.cloudcdn.me:80/live.ts?channelId=158&uid=7133&deviceMac=00:1A:79:4A:02:91
 #EXTINF:-1 group-title="Hindi Entertainment 🇮🇳" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png",Sony TV HD
 https://proximity-team.xyz/dev/tofi.php?m3u8=https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainment/playlist.m3u8
 https://nowsports.in/sliv/stream.php?id=1100&e=.m3u8|Referer=https://nowsports.in/insurance/&key=@FREDFLIXCEO
