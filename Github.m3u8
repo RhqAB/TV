@@ -1,5 +1,4 @@
-#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz,https://www.tsepg.cf/epg.xml.gz"
-
+#EXTM3U 
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://seeklogo.com/images/B/btv-bangladesh-television-logo-FFB6C4E6F0-seeklogo.com.png",BTV National
 http://tv.cloudcdn.me/live.ts?channelId=44154&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png", Btv World
@@ -709,6 +708,8 @@ http://filex.tv:8080/live/Multicity/1234/110043.ts
 http://filex.tv:8080/live/Multicity/1234/110047.ts
 #EXTINF:-1 group-title="Entertainment Worldwide" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Aaj_Entertainment_Logo.png",Aaj Entertainment
 http://filex.tv:8080/live/Multicity/1234/110055.ts
+#EXTINF:-1 group-title="Entertainment Worldwide" tvg-logo="https://ptv.com.pk/user/assets/images/ptvhomelogo2023.png",PTV Home
+http://filex.tv:8080/live/Multicity/1234/110067.ts
 #EXTINF:-1 group-title="Entertainment Worldwide" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Arirang_logo.png/1200px-Arirang_logo.png",arirang
 http://crystalott.net:80/live/BE2ZKMLVXR/I6WSJJXXZ1/9925.ts
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
