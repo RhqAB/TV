@@ -778,7 +778,6 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg0
 #EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/1730407501492-fotor-bg-remover-2024110124526.png",The Movie Club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://i.namu.wiki/i/mWWu5qnaW0JDKdGboUGp8D0GIPg0mzqUcZlHwt-91-5s8y7QPxusVF-P561AJeWzvIgD8Vkd7rfaFSPJE_HsTQ.webp",BFLIX
-http://172.105.123.238:18002/play/a01j
 http://xtv.ooo:8080/kamran800/800kamran/104190.ts
 
 #EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Zee_Caf%C3%A9_logo.png",Zee Cafe HD
@@ -893,6 +892,7 @@ http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/1478557.ts
 
 
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://freelogopng.com/images/all_img/1684117450discovery-logo-png.png",Discovery HD
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
 https://raw.githubusercontent.com/shiki57/infinitysports/main/discovery.m3u8
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png",National Geographic
@@ -1092,15 +1092,20 @@ http://xtv.ooo:8080/live/malik625538/digitalstore1year/221344.m3u8
 http://xtv.ooo:8080/live/malik625538/digitalstore1year/221343.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/pngegg.png",Dunya News
 http://xtv.ooo:8080/live/malik625538/digitalstore1year/221346.m3u8
+https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/BOL_Network.png",Bol Network
 http://xtv.ooo:8080/live/malik625538/digitalstore1year/26046.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/PTV_News_Logo.png",Ptv News
 http://xtv.ooo:8080/live/malik625538/digitalstore1year/25988.m3u8
-#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/CNBC_Indonesia_logo.svg/revision/latest?cb=20220301125950", CNBC Indonesia
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/328f4948534229.Y3JvcCw2NTksNTE2LDAsNzY.png",92 News HD
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Lahore_News_Logo_%28For_Tv_Screen%29.png",Lahore News
+https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://i.postimg.cc/dQys3kHB/Background-Eraser-20240628-151629577.png", NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 https://cdn.nhkworld.jp/www11/nhkworld-tv/domestic/2003459/live.m3u8
+#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/CNBC_Indonesia_logo.svg/revision/latest?cb=20220301125950", CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊",Thank You
 http://vod3.cloudlivesawa.shop/streams_cach/158531.m3u8
 
