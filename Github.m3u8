@@ -701,10 +701,14 @@ https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e
 http://filex.tv:8080/live/Multicity/1234/110052.ts
 #EXTINF:-1 group-title="Entertainment Worldwide" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Ary_Digital_Logo.png",ARY Digital
 http://125.209.88.166:45793/BRN/AryDigital.stream/playlist.m3u8
+#EXTINF:-1 group-title="Entertainment Worldwide" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/ARY_Zindagi.jpg/revision/latest?cb=20140511163352",ARY Zindagi
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:C5:93&stream=373179&extension=ts
 #EXTINF:-1 group-title="Entertainment Worldwide" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHQOBHh8Vz7bNJNU3FjoNZdyBjR0Nenl3ZIGxJ2keS1v30pGl6SPjci4J8&s=10",BOL Entertainment
 http://filex.tv:8080/live/Multicity/1234/110043.ts
 #EXTINF:-1 group-title="Entertainment Worldwide" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Express_Entertainment.png/revision/latest?cb=20111226120553", Express Entertainment
 http://filex.tv:8080/live/Multicity/1234/110046.ts
+#EXTINF:-1 group-title="Entertainment Worldwide" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Aaj_Entertainment_Logo.png",Aaj Entertainment
+http://filex.tv:8080/live/Multicity/1234/110055.ts
 #EXTINF:-1 group-title="Entertainment Worldwide" tvg-logo="https://w7.pngwing.com/pngs/750/187/png-transparent-logo-arirangtv-television-in-south-korea-korean-culture-television-text-logo.png",arirang
 http://crystalott.net:80/live/BE2ZKMLVXR/I6WSJJXXZ1/9925.ts
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
