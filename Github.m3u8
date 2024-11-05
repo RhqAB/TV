@@ -708,7 +708,7 @@ http://filex.tv:8080/live/Multicity/1234/110043.ts
 http://filex.tv:8080/live/Multicity/1234/110047.ts
 #EXTINF:-1 group-title="Entertainment Worldwide" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Aaj_Entertainment_Logo.png",Aaj Entertainment
 http://filex.tv:8080/live/Multicity/1234/110055.ts
-#EXTINF:-1 group-title="Entertainment Worldwide" tvg-logo="https://ptv.com.pk/user/assets/images/ptvhomelogo2023.png",PTV Home
+#EXTINF:-1 group-title="Entertainment Worldwide" tvg-logo="https://ptv.com.pk/user/assets/images/History/ptvhome-old3.png",PTV Home
 http://filex.tv:8080/live/Multicity/1234/110067.ts
 #EXTINF:-1 group-title="Entertainment Worldwide" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Arirang_logo.png/1200px-Arirang_logo.png",arirang
 http://crystalott.net:80/live/BE2ZKMLVXR/I6WSJJXXZ1/9925.ts
@@ -718,6 +718,9 @@ http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:C5:93&stream=382860&e
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 group-title="Entertainment Worldwide" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/TV5Monde_Asie_2021.svg/revision/latest/scale-to-width-down/250?cb=20220504053723",TV5MONDE ASIE 
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+#EXTINF:-1 group-title="Entertainment Worldwide" tvg-logo="https://seeklogo.com/images/F/Fashion_TV-logo-6378A85AD1-seeklogo.com.png",Fashion TV
+https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5457
 
 #EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/e826ae113186785.Y3JvcCwxNDU5LDExNDEsMCwxNjI.png",Bongo Movies
 https://admin.himel-op.top/Join-Telegram-@HimelOP_Official/bongo-op.m3u8?id=bongo-movies
@@ -980,9 +983,7 @@ https://od.lk/s/ODRfNzIxOTE5NThf/Food_Network.m3u8
 https://linear-174.frequency.stream/dist/localnow/174/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png", CGTN Documentary
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtndoc.stream/playlist.m3u8|Referer=https://cdn.jagobd.com.bd
-#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://seeklogo.com/images/F/Fashion_TV-logo-6378A85AD1-seeklogo.com.png",Fashion TV
-https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5457
+
 
 
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/b/b4/%E0%A6%9C%E0%A6%BF_%E0%A7%A8%E0%A7%AA_%E0%A6%98%E0%A6%A3%E0%A7%8D%E0%A6%9F%E0%A6%BE_%E0%A6%8F%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png",Zee 24 Ghanta
