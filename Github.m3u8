@@ -594,32 +594,31 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 
 
 
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://i.ibb.co/GpVSKBQ/images.png", TV8,5
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/TV8.5_Logosu.png/revision/latest?cb=20170827103605", TV8,5
 https://hw1.jemtv.com/app/tv85/chunks.m3u8
 
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" ,DD SPORTS HD
 http://172.105.123.238:18002/play/a03d
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://i.pinimg.com/originals/96/23/9f/96239fee6cf89bbbd3f587c9aa6f8095.png",EUROSPORT
 htthttp://xtv.ooo:8080/live/malik625538/digitalstore1year/206324.ts
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://i.pinimg.com/originals/96/23/9f/96239fee6cf89bbbd3f587c9aa6f8095.png",EUROSPORT 1
-http://ott.watch/stream/DCHYNU242U9/176.m3u8
-http://crystalott.net/live/BE2ZKMLVXR/I6WSJJXXZ1/12525.ts
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://i.pinimg.com/originals/96/23/9f/96239fee6cf89bbbd3f587c9aa6f8095.png",EUROSPORT 1 HD
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://i.pinimg.com/originals/96/23/9f/96239fee6cf89bbbd3f587c9aa6f8095.png",EUROSPORT 1
+
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://i.pinimg.com/originals/96/23/9f/96239fee6cf89bbbd3f587c9aa6f8095.png",EUROSPORT 2
 http://ott.watch/stream/DCHYNU242U9/192.m3u8
 http://crystalott.net/live/BE2ZKMLVXR/I6WSJJXXZ1/12524.ts
 http://nks24.com:8080/play/live.php?mac=00:1A:79:62:95:55&stream=247157&extension=ts
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://i.pinimg.com/originals/96/23/9f/96239fee6cf89bbbd3f587c9aa6f8095.png",EUROSPORT 1 HD
-http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
+
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/WWE_Network_logo.svg",WWE Network
 http://cord-cutter.net:8080/live/70453597/56651433/11645.ts
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png", Fox Soccer Plus
 
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://mutv.manutd.com/assets/images/fav_icon.png",MU TV
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png",MU TV
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://banner2.cleanpng.com/20180805/bq/kisspng-real-madrid-c-f-real-madrid-tv-television-channel-llistat-de-canals-andorra-telecom-5b67c483afefc1.7314644815335271717206.jpg",RM TV HD
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://images.fubo.tv/station_logos/realmadridtv_c.png",Real Madrid TV HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" , Redbull TV
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://iconape.com/wp-content/files/is/286188/svg/red-bull-tv-seeklogo.com.svg", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
@@ -716,10 +715,12 @@ https://la.drmlive.au/tp/zee-tvhd_0.m3u8
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="Indian Entertainment 🇮🇳" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Dangal_2.png/revision/latest?cb=20220406123459", Dangal 2
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 group-title="Indian Entertainment 🇮🇳" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/ETV_Telugu.svg/revision/latest?cb=20200827090349", ETV HD
-https://dw56h1aaay8sg.cloudfront.net/v1/manifest/3239369ce9144762f6df79ad0250b16a882d6a39/ETV_HD_H264/9dda1648-174a-4d9c-80e0-872dd123427a/3.m3u8
 #EXTINF:-1 group-title="Indian Entertainment 🇮🇳" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/download.png",DD National
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
+#EXTINF:-1 group-title="Indian Entertainment 🇮🇳" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/ETV_Telugu.svg/revision/latest?cb=20200827090349", ETV HD
+https://dw56h1aaay8sg.cloudfront.net/v1/manifest/3239369ce9144762f6df79ad0250b16a882d6a39/ETV_HD_H264/9dda1648-174a-4d9c-80e0-872dd123427a/3.m3u8
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:C5:93&stream=373501&extension=ts
+
 
 
 #EXTINF:-1 group-title="Entertainment Worldwide" tvg-logo="https://w7.pngwing.com/pngs/75/199/png-transparent-pakistan-hum-tv-television-channel-drama-hum-television-text-logo-thumbnail.png",HUM TV
