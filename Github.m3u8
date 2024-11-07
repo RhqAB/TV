@@ -818,6 +818,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://a.jsrdn.com/hls/23145/bollywood-prime/logo_20231219_184906_65.png",Bollywood Prime
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/59148f63-7388-4ecd-a088-11050ca3d856/3.m3u8
 https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/../../../manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-prime/3850b620-3d48-4f69-a540-27e9f3262077/3.m3u8
+#EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/0/0b/Bollywood_Clasic_%282018-.n.v.%29.png/revision/latest/scale-to-width-down/1200?cb=20190622082554",Bollywood Classic
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/resize-removebg-preview.png",Hollywood Desi
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/hollywood-desi/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/MBC_Bollywood_TV_Channel_Logo.png",MBC Bollywood
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Shemaroo_2018.svg/revision/latest?cb=20200503071600",Shemaroo Bollywood
@@ -831,6 +835,8 @@ https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 http://xtv.ooo:8080/kamran800/800kamran/104190.ts
 #EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://tvpdotcomdynamiclogopus.samsungcloud.tv/resize?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4800001IR_20241024T054050SQUARE.png&h=250",South Station
 https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
+#EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/hqdefault.jpg",Bollywood Masala
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-masala/index.m3u8
 
 #EXTINF:-1 group-title="Movie Channel 🎬📽️🎞️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Zee_Caf%C3%A9_logo.png",Zee Cafe HD
 http://tv.cloudcdn.me/live.ts?channelId=212&uid=6469&deviceMac=00:1A:79:B7:2F:EA
@@ -1113,6 +1119,7 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/08/Fox-News-Channel-Emblem-1024x576.png",Fox News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://i.pinimg.com/originals/b2/46/e3/b246e3bfb944872b0e7459e105043617.png",Sky News
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:C5:93&stream=821588&extension=ts
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8
