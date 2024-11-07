@@ -233,6 +233,8 @@ http://119.156.26.155:8000/play/a05u/index.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=250&uid=13603&deviceMac=00:1A:79:64:B4:A6
 http://103.124.251.164:28015/play/a02m/index.m3u8
 http://xtv.ooo:8080/live/malik625538/digitalstore1year/153175.ts
+#EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/DisneyXD_2009.svg/revision/latest?cb=20230509232915", Disney XD
+https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Gubbare-cl.png/revision/latest?cb=20210507104727", Gubbare
 https://epiconvh.s.llnwi.net/gubbare/master_720.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Hungama_TV.png",Hungama
@@ -259,6 +261,8 @@ http://cord-cutter.net:8080/live/70453597/56651433/14741.ts
 http://168.181.122.234:8000/play/a032/index.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/1200px-PBS_Kids_logo_%282022%29.svg.png",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
+#EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://seeklogo.com/images/C/ctc-kids-logo-D35CD4BEFF-seeklogo.com.png", CTC Kids
+http://stream02.vnet.am/DisneyChannel/mono.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://i.postimg.cc/L6NPZMqv/Background-Eraser-20240628-140058758.png", Anime TV
 http://bit.com.vc:80/almir1234/almir1234/969402
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
@@ -727,6 +731,7 @@ http://filex.tv:8080/live/Multicity/1234/110052.ts
 http://125.209.88.166:45793/BRN/AryDigital.stream/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment Worldwide" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/ARY_Zindagi.jpg/revision/latest?cb=20140511163352",ARY Zindagi
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:C5:93&stream=373179&extension=ts
+http://nks24.com:8080/play/live.php?mac=00:1A:79:62:95:55&stream=476174&extension=ts
 #EXTINF:-1 group-title="Entertainment Worldwide" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHQOBHh8Vz7bNJNU3FjoNZdyBjR0Nenl3ZIGxJ2keS1v30pGl6SPjci4J8&s=10",BOL Entertainment
 http://filex.tv:8080/live/Multicity/1234/110043.ts
 #EXTINF:-1 group-title="Entertainment Worldwide" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/Express_Entertainment.png/revision/latest?cb=20111226120553", Express Entertainment
@@ -1146,8 +1151,9 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=127140&uid=16068&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MSNBC_2015-2021_logo.svg/1280px-MSNBC_2015-2021_logo.svg.png",MSNBC
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:C5:93&stream=855331&extension=ts
-#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png",RT News
+#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png",Russia Today
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+https://cdn-01.bonus-tv.ru/RussiaToday/playlist.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TRT_World_logosu.png",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png",DW
@@ -1155,6 +1161,9 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/strea
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/766px-WION_news_Logo.svg.png",WION
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png",France 24
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/chunks.m3u8
