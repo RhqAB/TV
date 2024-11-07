@@ -316,14 +316,14 @@ https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
 http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/99659.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=388&uid=16068&deviceMac=00:1A:79:ED:10:29
 
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://www.tsports.com/assets/images/Logo%20tsports.svg",T Sports 
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports 
 http://xtv.ooo:8080/live/malik625538/digitalstore1year/245901.ts
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://www.tsports.com/assets/images/Logo%20tsports.svg",T Sports Backup
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports Backup
 http://tv.cloudcdn.me/live.ts?channelId=98&uid=8164&deviceMac=00:1A:79:17:D4:A1
 http://103.190.85.38/hls/tsports.m3u8
 http://46.250.234.136:8080/live/Amjad/112233/2762.ts
 http://tv.cloudcdn.me/live.ts?channelId=48010&uid=16068&deviceMac=00:1A:79:ED:10:29
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://www.tsports.com/assets/images/Logo%20tsports.svg",T Sports Live 2
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports Live 2
 http://103.205.133.71/LiveEvent1/tracks-v1a1/mono.m3u8
 https://mhdtv.co.in/daddy/stream.m3u8?id=270|Referer=https://mhdtv.co.in/
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451545.ts
@@ -331,7 +331,7 @@ http://dcdn.bdixsports.live:1935/event/event1.stream/playlist.m3u8
 https://cdn.livestreambd.com/TSports/index.m3u8
 http://m1-max.dns-speedy.com:80/mariusbuzila2/A1CC5C/756462
 http://bajimath.com/sa/amarbdflix/stream.m3u8?id=T-SPORTS
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://www.tsports.com/assets/images/Logo%20tsports.svg",T Sports Backup 2
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports Backup 2
 https://cdn.livestreambd.com/TSportstv/tracks-v1a1/mono.m3u8
 http://103.205.133.71/LiveEvent1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/RTA_Afghanistan_Logo_%282021%E2%80%93%29_blue.svg/1200px-RTA_Afghanistan_Logo_%282021%E2%80%93%29_blue.svg.png",RTA Sports BD VS AFG
@@ -563,8 +563,8 @@ http://tv.cloudcdn.me/live.ts?channelId=78867&uid=3960&deviceMac=00:1A:79:09:AC:
 http://crystalott.net/live/BE2ZKMLVXR/I6WSJJXXZ1/442297.ts
 
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",SSC 1
-http://37.48.72.77:8080/stream/shahid/ssc1/master576.m3u8
 http://nks24.com:8080/play/live.php?mac=00:1A:79:62:95:55&stream=266420&extension=ts
+http://37.48.72.77:8080/stream/shahid/ssc1/master576.m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",SSC 2
 http://37.48.72.77:8080/stream/shahid/ssc2/master576.m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",SSC 3
