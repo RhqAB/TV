@@ -361,6 +361,7 @@ http://filex.tv:8080/live/Multicity/1234/52109.ts
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports Backup 2
 https://cdn.livestreambd.com/TSportstv/tracks-v1a1/mono.m3u8
 http://103.205.133.71/LiveEvent1/tracks-v1a1/mono.m3u8
+http://tv.indigotv.me:80/live.ts?channelId=98&uid=7245&deviceMac=00:1A:79:4A:02:91
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/RTA_Afghanistan_Logo_%282021%E2%80%93%29_blue.svg/1200px-RTA_Afghanistan_Logo_%282021%E2%80%93%29_blue.svg.png",RTA Sports BD VS AFG
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 
