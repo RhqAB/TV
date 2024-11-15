@@ -689,6 +689,8 @@ http://103.84.57.155:8000/play/a0ce/index.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=29704&uid=16068&deviceMac=00:1A:79:0A:3B:2B
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://www.epicon.in/img/epic-tv.png",EPIC
 https://epiconvh.s.llnwi.net/epic/master.m3u8
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg",History
+https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png",History TV18 HD
 http://14.102.123.50:5001/live/146.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=70099&uid=16068&deviceMac=00:1A:79:ED:10:29
@@ -722,6 +724,9 @@ https://linear-174.frequency.stream/dist/localnow/174/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png", CGTN Documentary
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtndoc.stream/playlist.m3u8|Referer=https://cdn.jagobd.com.bd
 https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/RT%D0%94.svg/revision/latest?cb=20200104222246", RT Documentary
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+
 
 
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png",Duronto TV
@@ -793,6 +798,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 https://livetranscode.com/Minimax/index.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png", BOOMERANG
 http://cord-cutter.net:8080/live/70453597/56651433/14741.ts
+#EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="hhttps://play-lh.googleusercontent.com/ww8NnxXLAJY4dNJx34AXAY8-h0OkOKmidT_QC5osuhamzHXktzFAXyIJg5tNQvwjGiGc", Kids TV
+https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/BabyTV_logo.png", Baby TV
 http://168.181.122.234:8000/play/a032/index.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png/revision/latest/thumbnail/width/360/height/360?cb=20240422182307", babyfirst
@@ -907,6 +914,8 @@ https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/CBS_News_logo_%282020%29.svg",CBS News
 https://ythls-v3.onrender.com/channel/UC8p1vwvWtl6T73JiExfWs1g.m3u8
+#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/CBC_News_Logo_%282020%29.png",CBC News
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://i.pinimg.com/originals/b2/46/e3/b246e3bfb944872b0e7459e105043617.png",Sky News
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:C5:93&stream=821588&extension=ts
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8
@@ -915,11 +924,15 @@ https://linear417-gb-hls3-prd-ak.cdn.skycdp.com/100e/Content/HLS_004_1080_30/Liv
 http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/100697.ts
 https://rakuten-euronews-9-gb.lg.wurl.tv/playlist.m3u8
 https://euronews-euronews-world-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Africanews_logo.svg/1024px-Africanews_logo.svg.png",africa news.
+https://euronews-africanews-english-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Abc-news-logo.png/800px-Abc-news-logo.png",abc news
 http://tv.cloudcdn.me:80/live.ts?channelId=472&uid=16068&deviceMac=00:1A:79:0A:3B:2B
+https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/NBC_News_%282023%29.svg",NBC News
+#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/NBC_News_%282023%29.svg",NBC News Now
 http://tv.cloudcdn.me:80/live.ts?channelId=127140&uid=16068&deviceMac=00:1A:79:0A:3B:2B
+https://jmp2.uk/sam-GBBB1500004LG.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/MSNBC_2015-2021_logo.svg/1280px-MSNBC_2015-2021_logo.svg.png",MSNBC
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:C5:93&stream=855331&extension=ts
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/2048px-Russia-today-logo.svg.png",Russia Today
@@ -932,7 +945,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/strea
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-https://tv-trtworld.medya.trt.com.tr/master.m3u8
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/766px-WION_news_Logo.svg.png",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png",France 24
@@ -946,7 +959,8 @@ https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://al-shabaka.org/wp-content/uploads/2024/01/VOA-logo.png",Voice of America
 https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/voa.stream/playlist.m3u8|Referer=https://cdn.jagobd.com.bd
-
+#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Newsmax_logo.svg/2560px-Newsmax_logo.svg.png",Newsmax
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 
 
@@ -970,6 +984,8 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 https://cdn.nhkworld.jp/www11/nhkworld-tv/domestic/2003459/live.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/CNBC_Indonesia_logo.svg/revision/latest?cb=20220301125950", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://parentinglife.com.tw/wp-content/uploads/2023/03/taiwan-plus-logo.png",TAIWAN+
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊",Thank You
 http://vod3.cloudlivesawa.shop/streams_cach/158531.m3u8
 
