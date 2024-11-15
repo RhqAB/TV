@@ -535,12 +535,15 @@ https://8r1fp7ro6am.a.trbcdn.net/SportTV2/index.m3u8
 http://bit.com.vc:80/almir1234/almir1234/976644
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Sporttv-3.svg/revision/latest?cb=20231020154659", Sport TV3
 http://cord-cutter.net:8080/live/70453597/56651433/167744.ts
-
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg",DIGI Sport 1
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Sport_TV4_%282023%29.svg", Sport TV4
+http://serverinfo.one:8080/live/A4325544/443366/113377.ts
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Logo_SportTV.svg/1280px-Logo_SportTV.svg.png", Sport TV5
+http://serverinfo.one:8080/live/A4325544/443366/113381.ts
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/2/2c/Digi_Sport_1_%282018-.n.v.%29.png/revision/latest?cb=20240205124520",DIGI Sport 1
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:C5:93&stream=3135&extension=ts
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg",DIGI Sport 2
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/93/Digi_Sport_2_%282018-.n.v.%29.png/revision/latest?cb=20240205124751",DIGI Sport 2
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:C5:93&stream=3134&extension=ts
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg",DIGI Sport 3
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Digi_Sport_3_2012.png/revision/latest?cb=20231122185051",DIGI Sport 3
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:C5:93&stream=3133&extension=ts
 
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/TNT_Sports_1_%282023%29.svg/revision/latest?cb=20230704071741",TNT Sports 1
@@ -563,9 +566,11 @@ http://tv.cloudcdn.me/live.ts?channelId=270&uid=3960&deviceMac=00:1A:79:0A:3B:2B
 http://crystalott.net/live/BE2ZKMLVXR/I6WSJJXXZ1/442298.ts
 http://nks24.com:8080/play/live.php?mac=00:1A:79:62:95:55&stream=247475&extension=ts
 http://line.crystal-ott.com:80/6MgXfkMJhZokkUB/QUvNMd1ZTQ/4900
+http://serverinfo.one:8080/live/A4325544/443366/75328.ts
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/TNT_Sports_5_%282023%29.svg/revision/latest/scale-to-width-down/284?cb=20230718053007",TNT Sports 5
 http://tv.cloudcdn.me/live.ts?channelId=78867&uid=3960&deviceMac=00:1A:79:09:AC:16
 http://crystalott.net/live/BE2ZKMLVXR/I6WSJJXXZ1/442297.ts
+http://serverinfo.one:8080/live/A4325544/443366/429428.ts
 
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",SSC 1
 http://nks24.com:8080/play/live.php?mac=00:1A:79:62:95:55&stream=266420&extension=ts
