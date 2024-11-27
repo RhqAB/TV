@@ -1,11 +1,15 @@
 #EXTM3U 
 
 #EXTINF:-1 group-title="LIVE EVENTS",চরমোনাই মাহফিল,অগ্রহায়ণ ১৪৩১ LIVE 1
-https://ythls-v3.onrender.com/channel/UCqLYP2vFciXxFP6rBmtDDYQ.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1732718991/ei/L91GZ6bLJdKHjuMP_O2KwA0/ip/103.133.254.25/id/QwhLBEUgOlk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/qtApAR8l2t2L-Xdp3Gi0FBbquSfWN4bHgRk_gKI3KH6NNDfFaTJ6bv3Kcb2VCDvK_-OSHDleP372/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOHspR0f8ykXv1l4at4hmGwMPwhmXioYBWIQpiMuLQmyAiEAzHyfQmP5v8rRsd63Zp0deLoFLiE84k59JFEqlOXkb4I%3D/file/index.m3u8
 
-#EXTINF:-1 group-title="LIVE EVENTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX2y9q7qslhRRKRAGmSrx__DQOmvLU6xo7peGyc0xTYI9KYs_RX3bZhiXExWuZznY0xBg&usqp=CAU",চরমোনাই মাহফিল,অগ্রহায়ণ ১৪৩১ LIVE 2
+
+#EXTINF:-1 group-title="LIVE EVENTS" ,চরমোনাই মাহফিল,অগ্রহায়ণ ১৪৩১ LIVE 2
 https://ythls-v3.onrender.com/channel/UCVxLs6QduZgAtvVvRyQo_1A.m3u8
 https://ythls-v3.onrender.com/channel/UCKTUBoYiqf-QICoOftq2llA.m3u8
+#EXTINF:-1 group-title="LIVE EVENTS",চরমোনাই মাহফিল,অগ্রহায়ণ ১৪৩১ LIVE 3
+
+https://ythls-v3.onrender.com/channel/UCqLYP2vFciXxFP6rBmtDDYQ.m3u8
 
 
 
