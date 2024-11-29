@@ -1,13 +1,9 @@
 #EXTM3U 
 
-#EXTINF:-1 group-title="LIVE EVENTS",চরমোনাই মাহফিল,অগ্রহায়ণ ১৪৩১ LIVE 1
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1732718991/ei/L91GZ6bLJdKHjuMP_O2KwA0/ip/103.133.254.25/id/QwhLBEUgOlk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/qtApAR8l2t2L-Xdp3Gi0FBbquSfWN4bHgRk_gKI3KH6NNDfFaTJ6bv3Kcb2VCDvK_-OSHDleP372/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/fexp/51326932%2C51335594/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAOHspR0f8ykXv1l4at4hmGwMPwhmXioYBWIQpiMuLQmyAiEAzHyfQmP5v8rRsd63Zp0deLoFLiE84k59JFEqlOXkb4I%3D/file/index.m3u8
 
-
-#EXTINF:-1 group-title="LIVE EVENTS" ,চরমোনাই মাহফিল,অগ্রহায়ণ ১৪৩১ LIVE 2
+#EXTINF:-1 group-title="LIVE EVENTS" ,চরমোনাই মাহফিল,অগ্রহায়ণ ১৪৩১ LIVE
 https://ythls-v3.onrender.com/channel/UCVxLs6QduZgAtvVvRyQo_1A.m3u8
 https://ythls-v3.onrender.com/channel/UCKTUBoYiqf-QICoOftq2llA.m3u8
-EXTINF:-1 group-title="LIVE EVENTS",চরমোনাই মাহফিল,অগ্রহায়ণ ১৪৩১ LIVE 3
 https://ythls-v3.onrender.com/channel/UCqLYP2vFciXxFP6rBmtDDYQ.m3u8
 
 
@@ -360,11 +356,13 @@ http://starshare.live:8080/live/Habib/Habib/2494.ts
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/logo_transparent_cb_(1)_prev_ui.png",Willow Cricket HD
 http://filex.tv:8080/live/Multicity/1234/52109.ts
 https://fr.globalplay.live/Sports-19/index.fmp4.m3u8
-http://xtv.ooo:8080/live/global/global/167583.m3u8
+http://fortv.cc:8080/live/Gizvid153@giz.com/1234@4321/58847.ts
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/logo_transparent_cb_(1)_prev_ui.png",Willow Cricket HD Backup
 http://tv.cloudcdn.me:80/live.ts?channelId=302&uid=8069&deviceMac=00:1A:79:4C:90:E3
 http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/1416.ts
 http://filex.tv:8080/live/Multicity/1234/52109.ts
+http://xtv.ooo:8080/live/global/global/167583.m3u8
+http://xtv.ooo:8080/live/malik625538/digitalstore1year/167583.m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdy4C4g5PPu91tbSZN9lgejySS9S5GhO04BThHfQpH&s",Willow Cricket Xtra
 https://webuit.mizhls.ru/lb/premium598/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 https://crichd.filofilmes.art/sexy.php/willowextra.m3u8
