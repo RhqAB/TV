@@ -252,6 +252,7 @@ http://162.244.81.200:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Bangladeshi IPTV 🇧🇩" tvg-logo="https://thenrb.tv/wp-content/uploads/2021/11/NRB-tv-Final-Logo-PNG-2.png",NRB Tv
 
 EXTINF:-1 group-title="Bangladeshi IPTV 🇧🇩" tvg-logo="https://thenrb.tv/wp-content/uploads/2021/11/NRB-tv-Final-Logo-PNG-2.png",NRB Tv
+http://tv.cloudcdn.me:80/live.ts?channelId=74625&uid=3623&deviceMac=00:1A:79:03:ED:4F
 http://tv.cloudcdn.me:80/live.ts?channelId=74625&uid=16068&deviceMac=00:1A:79:0A:3B:2B
 EXTINF:-1 group-title="Bangladeshi IPTV 🇧🇩" tvg-logo="https://www.lyngsat.com/logo/tv/mm/matribhumi-tv.png",Matribhumi Tv
 https://app.ncare.live/streams/matribhumitv.stream/playlist.m3u8
@@ -888,6 +889,8 @@ https://epiconvh.s.llnwi.net/gubbare/master_720.m3u8
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://upload.wikimedia.org/wikipedia/sco/c/cc/Motu_Patlu_official_logo.png",Motu Patlu 
 http://xtv.ooo:8080/live/malik625538/digitalstore1year/307079.ts
+#EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHJykZa9xC6auL6UopuMy01mouh63tuk5VQw&s", Smurf Tv
+https://jmp2.uk/sam-GBBD1300001WA.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://pash.ink/storage/uploads/JungleBook_Logo.png",Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://images.squarespace-cdn.com/content/v1/5c4104e7af209609ea6f281b/b440d39b-935e-4b40-9b6d-edc3d94f11b9/Primary+Logo.png",Zoo Moo
