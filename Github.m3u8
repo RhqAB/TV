@@ -16,10 +16,13 @@ https://stream.iptvbd.xyz/Gazi-Tv/index.fmp4.m3u8?token=557a187535821dd64c289f2a
 #EXTINF:-1 group-title="BPL T20" tvg-logo="https://i.postimg.cc/fW2TnfV2/Background-Eraser-20240628-104749965.png",Gazi TV 2
 http://10.10.10.2/live/fnffeed1001/index.m3u8
 #EXTINF:-1 group-title="BPL T20" tvg-logo="https://i.postimg.cc/fW2TnfV2/Background-Eraser-20240628-104749965.png",Gazi TV 3
+http://xtv.ooo:8080/live/52882216/581881255/245901.ts
+#EXTINF:-1 group-title="BPL T20" tvg-logo="https://i.postimg.cc/fW2TnfV2/Background-Eraser-20240628-104749965.png",Gazi TV 4
 https://iptvcable.netlify.app/Altogether-007/GaziTv.m3u8
-
-
-
+#EXTINF:-1 group-title="BPL T20" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",Ary Sports 1
+http://tv.cloudcdn.me:80/live.ts?channelId=132249&uid=16068&deviceMac=00:1A:79:0A:3B:2B
+#EXTINF:-1 group-title="BPL T20" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",Ary Sports 2
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://seeklogo.com/images/B/btv-bangladesh-television-logo-FFB6C4E6F0-seeklogo.com.png",BTV National
 http://xtvplayer.top:8080/live/827281020/827292929/245930.ts
