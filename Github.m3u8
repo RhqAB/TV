@@ -779,9 +779,11 @@ https://raw.githubusercontent.com/shiki57/infinitysports/main/discovery.m3u8
 https://kusnadipepenk.github.io/ntn/disc.m3u8
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png",National Geographic
+http://tv.cloudcdn.me/live.ts?channelId=176&uid=8164&deviceMac=00:1A:79:ED:10:29
 http://103.110.110.11:8081/live/NGC/playlist.m3u8
 http://opplextv.cyou:8080/live/global/global/109977.ts
 http://xtv.ooo:8080/live/kamran800/800kamran/109977.ts
+http://xtv.ooo:8080/live/52882216/581881255/245967.ts
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png",Investigation Discovery
 https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Investigation_Discovery.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Discovery-asia.png",Discovery Asia
@@ -797,9 +799,6 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Science.
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png",Discovery Turbo
 https://kusnadipepenk.github.io/ntn/disturbo.m3u8
 https://dplus.gammacdn.workers.dev/videos/98.m3u8
-#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://i.imgur.com/g7I8nnR.png",National Geographic Bangla
-http://opplextv.cyou:8080/live/global/global/245967.ts
-http://tv.cloudcdn.me/live.ts?channelId=176&uid=8164&deviceMac=00:1A:79:ED:10:29
 #EXTINF:-1, group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png",NAT GEO WILD
 http://opplextv.cyou:8080/live/global/global/206286.ts
 http://xtv.ooo:8080/live/kamran800/800kamran/206286.ts
