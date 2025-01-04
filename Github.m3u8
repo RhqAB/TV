@@ -26,8 +26,6 @@ http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://seeklogo.com/images/B/btv-bangladesh-television-logo-FFB6C4E6F0-seeklogo.com.png",BTV National
 http://xtvplayer.top:8080/live/827281020/827292929/245930.ts
 http://tv.cloudcdn.me/live.ts?channelId=44154&uid=16068&deviceMac=00:1A:79:ED:10:29
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png", Btv World
-http://172.105.123.238:18002/play/a038
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/BTV_Chattogram_Logo.svg/800px-BTV_Chattogram_Logo.svg.png", Btv Chattogram
 http://150.242.202.110:824/jiobe/live/6080.ts
 http://46.250.234.136:8080/live/Amjad/112233/256.ts
@@ -168,6 +166,10 @@ https://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/e826ae113186785.Y3JvcCwxNDU5LDExNDEsMCwxNjI.png",Bongo Drama
 
 
+
+#EXTINF:-1 group-title="Bangladeshi News 🇧🇩" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/1735648543857_Poster-removebg-preview.png",BTV News
+http://172.105.123.238:18002/play/a038
+http://xtv.ooo:8080/live/52882216/581881255/245922.ts
 #EXTINF:-1 group-title="Bangladeshi News 🇧🇩" tvg-logo="https://i.postimg.cc/R05tLFg1/Background-Eraser-20240628-101059334.png",Atn News
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451535.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=83&uid=3788&deviceMac=00:1A:79:6D:8A:C6
