@@ -1007,6 +1007,7 @@ http://168.181.122.234:8000/play/a032/index.m3u8
 http://pinbal4you.com:5436/razija.paldum/skyptestt/10458.ts
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png/revision/latest/thumbnail/width/360/height/360?cb=20240422182307", babyfirst
 https://lte.wiseplayout.com/WiseM3U8_12/master.m3u8
+https://streams2.sofast.tv/ptnr-yupptv/title-BABYFIRST-ENG_YuppTV/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/8d6cf2cc-1231-41f0-8e59-ec92a7d9f47f/1.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/TVOKids_2022.svg/revision/latest/scale-to-width-down/300?cb=20221021133348",tvo Kids
 https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/15364602001/playlist.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/1200px-PBS_Kids_logo_%282022%29.svg.png",PBS Kids
@@ -1017,6 +1018,10 @@ http://stream02.vnet.am/DisneyChannel/mono.m3u8
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/92b21f52515650e020589b8f3496d3fe.png/revision/latest?cb=20180817012008",Teletubbies
 https://051ec03a0f50441e8bb19bda08046c74.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_WildBrainPresentsTeletubbies/playlist.m3u8
+#EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Cartoon_Classics.svg",Cartoon Classics
+https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/484dccf5-a479-448a-b382-e8fd9b3eff4d/1.m3u8
+#EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Kiddo960X540z3.jpg",Kiddo
+https://streams2.sofast.tv/ptnr-yupptv/title-KIDDO-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/5bcf9d24-04f2-401d-a93f-7af54f29461a/e42b59fe-8176-4e33-bfbc-3a51ea66296d/1.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://spacetoon.com/assets/imgs/1stoon.png", Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://i.postimg.cc/L6NPZMqv/Background-Eraser-20240628-140058758.png", Anime TV
@@ -1319,6 +1324,8 @@ https://streaming.radiomahananda.fm/proxy/radiomahananda/stream
 http://cassini.shoutca.st:9109/radiopadma.mp3
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYQNxRLITRVfuFT6hUpqDApHUwzUcxMNzJ_ee9XlpznQbUlhtZnaGKCvjb6Kwr1QN1iQI&usqp=CAU",Betar Torongo
 https://stream.zeno.fm/v7tnp975wqzuv
+#EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYQNxRLITRVfuFT6hUpqDApHUwzUcxMNzJ_ee9XlpznQbUlhtZnaGKCvjb6Kwr1QN1iQI&usqp=CAU",Radio Purbokontho
+https://stream.zeno.fm/6nuqpxcw81zuv
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1uwDXF_UY8mQs0dn2yjQ4YCNgJNQ--rxVgA&s",BUET Radio
 https://stream-153.zeno.fm/tq42hpva8a0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ0cTQyaHB2YThhMHV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik5YcnI3US1kVFRlN0FNcFZLZnNKY0EiLCJpYXQiOjE3MzYwNjcwMDgsImV4cCI6MTczNjA2NzA2OH0.v9s5LMOsKwFTiEG4SbtzWAmrhpRQDU8-dO864YzJjKg
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://media.licdn.com/dms/image/C510BAQFg5ki4t_4LHg/company-logo_200_200/0/1630595646263?e=2147483647&v=beta&t=uFtad4qTVI78Gtin7RvaY9BptIGaFPTqFl7ksRM3Zwk",BU Radio
