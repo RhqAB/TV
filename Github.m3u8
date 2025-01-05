@@ -1270,8 +1270,10 @@ http://as35.digitalsynapsebd.com:8360/;stream.mp3
 
 
 
-
-
+#EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://zeno.fm/_ipx/q_85&fit_cover&s_128x128/https://images.zeno.fm/wRCpqYippf5G9wEhams9JnmagJjjS_0tNgHxkwyruR8/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRFE4SWJaNGdrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFE4SWJaMGdrTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY4NTY1MDg0NTAwMA.webp",Islahi Mujakara
+https://stream.zeno.fm/ghcsb5a7ma0uv
+#EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://wapka-cdn.zuna.id/00b38f/f6a1e75e8ed105786ce7b4dd891be6ee/radiodawah_dp.jpg",Radio Dawah
+https://stream.zeno.fm/rzkykmse9zcuv
 
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/RadioTodayFM89.6.png",Radio Today 89.6
 http://stream.zenolive.com/s0858pxyk8quv
@@ -1298,6 +1300,8 @@ http://str.radiocapital.fm:8000/stream
 https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://imgsvr.radiocut.site/get/thumb/900/900/radio_logos/7e/89/7e89f365-b487-4abf-af28-32196ebacce4.png",Radio Ekattor 98.4
 http://192.144.82.200:9302/;stream/1
+#EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://radiomahananda.com/files/2024/07/Radio-Mahananda-Bangla-Logo.png",Radio Mahananda 98.8
+https://streaming.radiomahananda.fm/proxy/radiomahananda/stream
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtkMLex_2_VfVFnr4xuaxDEhw4vwZY8TPizQ&s",Radio Padma 99.2
 http://cassini.shoutca.st:9109/radiopadma.mp3
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://media.licdn.com/dms/image/C510BAQFg5ki4t_4LHg/company-logo_200_200/0/1630595646263?e=2147483647&v=beta&t=uFtad4qTVI78Gtin7RvaY9BptIGaFPTqFl7ksRM3Zwk",BU Radio
