@@ -5,15 +5,14 @@ http://tv.cloudcdn.me/live.ts?channelId=48010&uid=16068&deviceMac=00:1A:79:0A:3B
 #EXTINF:-1 group-title="BPL T20" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports 2 
 http://xtv.ooo:8080/live/52882216/581881255/167590.ts
 #EXTINF:-1 group-title="BPL T20" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports 3
-http://10.10.10.2/live/fnffeed1003/index.m3u8
+https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=vNv4GwSKjGZFNeER5t_Dfg&expires=1736445355&user=811838a63b224e85b02b925b31d0fece
 #EXTINF:-1 group-title="BPL T20" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports 4 
 https://stream.iptvbd.xyz/Tsport1/index.fmp4.m3u8?token=a90cd7c521e34c2f1fcf9647612eeb44b49f7275-8ec19cdd2f1dc7a3ec7c2a0717d9cf01-1735860802-1735850002
-https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1736445355&md5=vNv4GwSKjGZFNeER5t_Dfg&user=811838a63b224e85b02b925b31d0fece
-
+http://10.10.10.2/live/fnffeed1003/index.m3u8
 
 #EXTINF:-1 group-title="BPL T20" tvg-logo="https://i.postimg.cc/fW2TnfV2/Background-Eraser-20240628-104749965.png",Gazi TV 1
 https://stream.iptvbd.xyz/Gazi-Tv/index.fmp4.m3u8?token=557a187535821dd64c289f2afc38a65fea982d82-904ba264fb2499eb5a19ce497699bfa5-1735860863-1735850063
-https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/chunks.m3u8?expires=1736445452&md5=Q1Go5r3qg_BOF9h2jak52A&user=811838a63b224e85b02b925b31d0fece
+https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=Q1Go5r3qg_BOF9h2jak52A&expires=1736445452&user=811838a63b224e85b02b925b31d0fece
 #EXTINF:-1 group-title="BPL T20" tvg-logo="https://i.postimg.cc/fW2TnfV2/Background-Eraser-20240628-104749965.png",Gazi TV 2
 http://10.10.10.2/live/fnffeed1001/index.m3u8
 #EXTINF:-1 group-title="BPL T20" tvg-logo="https://i.postimg.cc/fW2TnfV2/Background-Eraser-20240628-104749965.png",Gazi TV 3
