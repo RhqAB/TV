@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz,https://www.tsepg.cf/epg.xml.gz"
+#EXTM3U
 
 #EXTINF:-1 group-title="BPL T20" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports 1
 http://tv.cloudcdn.me/live.ts?channelId=48010&uid=16068&deviceMac=00:1A:79:0A:3B:2B
@@ -12,7 +12,7 @@ https://stream.iptvbd.xyz/Tsport1/index.fmp4.m3u8?token=a90cd7c521e34c2f1fcf9647
 http://10.10.10.2/live/fnffeed1003/index.m3u8
 #EXTINF:-1 group-title="BPL T20" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports 5
 https://cric.moviesflixter.com/stream.php?stream=https://live-cdn.tsports.com/live-02/master_720.m3u8
-https://streamline.sturls.com/TSports-2/tracks-v1/index.fmp4.m3u8?token=25aec381f48ea02dd9c8190faeb8ca1e127f4bf2-c633b83f819c51c8b536f255b44db53c-1737726198-1737715398
+https://streamline.sturls.com/TSports-2/index.fmp4.m3u8?token=25aec381f48ea02dd9c8190faeb8ca1e127f4bf2-c633b83f819c51c8b536f255b44db53c-1737726198-1737715398
 #EXTINF:-1 group-title="BPL T20" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports 6
 http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/tracks-v1a1/mono.m3u8
 
