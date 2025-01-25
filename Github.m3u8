@@ -15,16 +15,18 @@ https://cric.moviesflixter.com/stream.php?stream=https://live-cdn.tsports.com/li
 https://streamline.sturls.com/TSports-2/index.fmp4.m3u8?token=25aec381f48ea02dd9c8190faeb8ca1e127f4bf2-c633b83f819c51c8b536f255b44db53c-1737726198-1737715398
 #EXTINF:-1 group-title="BPL T20" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports 6
 http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BPL T20" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports 7
+http://172.19.178.29:18190/CLOUD-TV-02/tracks-v1a1/mono.m3u8
+
 
 
 
 #EXTINF:-1 group-title="BPL T20" tvg-logo="https://i.postimg.cc/fW2TnfV2/Background-Eraser-20240628-104749965.png",Gazi TV 1
 https://stream.iptvbd.xyz/Gazi-Tv/index.fmp4.m3u8?token=557a187535821dd64c289f2afc38a65fea982d82-904ba264fb2499eb5a19ce497699bfa5-1735860863-1735850063
-https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=Q1Go5r3qg_BOF9h2jak52A&expires=1736445452&user=811838a63b224e85b02b925b31d0fece
+http://172.19.178.39:18190/JS-TV-01/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BPL T20" tvg-logo="https://i.postimg.cc/fW2TnfV2/Background-Eraser-20240628-104749965.png",Gazi TV 2
 http://10.10.10.2/live/fnffeed1001/index.m3u8
 #EXTINF:-1 group-title="BPL T20" tvg-logo="https://i.postimg.cc/fW2TnfV2/Background-Eraser-20240628-104749965.png",Gazi TV 3
-
 http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BPL T20" tvg-logo="https://i.postimg.cc/fW2TnfV2/Background-Eraser-20240628-104749965.png",Gazi TV 4
 https://iptvcable.netlify.app/Altogether-007/GaziTv.m3u8
@@ -149,6 +151,7 @@ http://starshare.live:8080/live/Leroy123/Leroy123/3802.ts
 https://bdixtv247.xyz/m3u8.php?id=nagorik_tv&e=.m3u8
 https://starshare.live/live/04494/04494/3802.ts
 http://tv.dugdugilive.com:8080/0ne$ky23/Nagorik/tracks-v1a1/mono.m3u8
+http://172.19.178.49:18190/sn-nagorik/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png",Bangla Tv
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451538.ts
