@@ -401,7 +401,8 @@ https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e
 
 
 #EXTINF:-1 group-title="Movie Channel",Jalsha Movies
-http://tv.cloudcdn.me/live.ts?channelId=117&uid=8164&deviceMac=00:1A:79:17:D4:A1
+http://172.19.178.39:18190/JS-TV-06/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 group-title="Movie Channel" tvg-logo="https://i.postimg.cc/J4jcz3x4/image.jpg",Zee Bangla Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema1/default/zeebanglacinema1.m3u8
