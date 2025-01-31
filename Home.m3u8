@@ -206,6 +206,7 @@ http://172.19.178.29:18190/CLOUD-TV-01/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png",PTV SPORTS HD
 http://172.20.3.1:81/PTVSportsHD/tracks-v1a1/mono.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/PTV/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-id=1984 tvg-name="Sports18 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Sports18_logo.svg/1200px-Sports18_logo.svg.png",Sports18 1
@@ -229,6 +230,7 @@ http://172.20.3.1:81/EuroSportHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://www.geosuper.tv/assets/front/images/live_banner.jpg",Geo Sports
 http://103.89.248.26:8082/GEO-SPORTS/index.fmp4.m3u8?token=39c5c46a9344ef05f28db95cda565e7943587036-45a2d121bb925793dd8f575c20b13bcd-1726422464-1726411664
 
+http://xtv.ooo:8080/kamran800/800kamran/167568.ts
 
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",Bein Sports 1
 https://kusnadipepenk.github.io/ntn/bs1.m3u8
@@ -265,23 +267,9 @@ http://r2cfiz8zbv.spo.isnon.me:25461/live/NP78551992597Z15/8715g8115I9K71/983.ts
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://teamhandballnews.com/wp-content/uploads/2020/01/beIN-SPORTS-XTRA_LOGO-1024x127.png",Bein Sports Extra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdy4C4g5PPu91tbSZN9lgejySS9S5GhO04BThHfQpH&s",Willow Cricket Extra
-http://103.89.248.26:8082/willow/index.fmp4.m3u8?token=801a41a17b43a53d83a56f4b22f867bf0cf4eecc-a406c6afdada04f5606cc8b1386c80f5-1726422546-1726411746
-
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRVsnEcCh_aQWl27k967x2TANXmK5pzPebAw&s",Sky Sports Main Event
-http://103.89.248.26:8082/Sky-Sports-Main-Event/index.m3u8?token=319d0621f3820d9a9eeadd8e094deae4d3744f5e-7e41b9e62e66ea28c9fc6fbd0afcf7b3-1726422845-1726412045
-
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSIZsL47EO3BM0j30Cf5WJf3UBQyHEItHnlg&s",Sky Sports Cricket
-http://103.89.248.26:8082/Sky-Sports-Cricket/index.m3u8?token=48f4e107ccfc31493d128fbad0d1e301dd7ce548-a6d55ea930007d647c505aca0883da03-1726422862-1726412062
-
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRbcv4ShM6sc161Ht_KXD_zt5cOpvK41miRA&s",Sky Sports Football
-http://103.89.248.26:8082/SKY-Sports-Football/index.fmp4.m3u8?token=9094b86cdb0f67ea71c4445fc371ad5b6a281dee-9200658c76de7ca4b6b6c7c672466b82-1726422603-1726411803
-
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG16b9ol6EwS9JRTZAsrXMBlaGS-RLTkhSqg&s",Sky Sports Premier League
-http://103.89.248.14:8082/Sky-Sports-premier-League/index.m3u8?token=9aa902ddcbd516066a39545384d3c728fc29643d-91024534fd0327ed751c9cc9c25967b0-1726422534-1726411734
 
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/Supersport2012.jpg",Super Football
-http://xtv.ooo:8080/live/98267/02727/238480.m3u8
+http://xtv.ooo:8080/live/kamran800/800kamran/238480.m3u8
 
 
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg", Sport TV1 
