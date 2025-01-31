@@ -233,12 +233,12 @@ http://tv.cloudcdn.me:80/live.ts?channelId=388&uid=16068&deviceMac=00:1A:79:0A:3
 http://10.10.10.2/live/fnffeed1001/index.m3u8
 
 
-#EXTINF:-1 group-title="BPL T20" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports 1 
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports 1 
 https://stream.iptvbd.xyz/Tsport1/index.fmp4.m3u8?token=a90cd7c521e34c2f1fcf9647612eeb44b49f7275-8ec19cdd2f1dc7a3ec7c2a0717d9cf01-1735860802-1735850002
 http://10.10.10.2/live/fnffeed1003/index.m3u8
-#EXTINF:-1 group-title="BPL T20" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports 2
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports 2
 http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="BPL T20" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports 3
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",T Sports 3
 http://172.19.178.29:18190/CLOUD-TV-02/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://w7.pngwing.com/pngs/214/781/png-transparent-star-sports-sony-ten-star-india-television-channel-others-miscellaneous-television-text.png",Star Sports 1 HD
@@ -265,7 +265,7 @@ http://103.89.248.26:8082/en3-39/tracks-a1/index.fmp4.m3u8?token=993f10e9d03d374
 
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrOO-pFRfbJXcWgOXEF47LdoWgrtNB2YZMqw&s",Super Cricket
 https://ddy1.mizhls.ru:443/ddy1/premium368/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
-#EXTINF:-1 group-title="BPL T20" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",Ary Sports 
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",Ary Sports 
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 http://172.19.178.49:18190/sn-starsports2/tracks-v1a1/mono.m3u8
 
