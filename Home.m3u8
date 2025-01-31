@@ -122,7 +122,7 @@ http://172.19.178.49:18190/sn-independent/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladeshi News 🇧🇩" tvg-logo="https://i.postimg.cc/XYqhC9LP/Background-Eraser-20240628-103951529.png",Channel 24
 http://172.19.178.49:18190/sn-channel24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladeshi News 🇧🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/800px-Ekattor_TV_logo.svg.png",Ekattor Tv
-http://103.89.248.26:8082/71-TV/tracks-v1/index.fmp4.m3u8?token=f8969d00f3d3c19f5017498c78f984614ac04430-39243ad19715654413dc477b79223392-1726931676-1726920876
+http://tv.cloudcdn.me:80/live.ts?channelId=95&uid=16068&deviceMac=00:1A:79:0A:3B:2B
 #EXTINF:-1 group-title="Bangladeshi News 🇧🇩" tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png",Jamuna Tv
 http://172.19.178.59:18190/sn-jamunatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladeshi News 🇧🇩" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png",News 24
