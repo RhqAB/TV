@@ -1,6 +1,4 @@
-#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
-#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
+#EXTM3U 
 
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://i.postimg.cc/mg15t8NJ/images-1-4.png",BTV National
 http://tv.dugdugilive.com:8080/0ne$ky23/BTV/tracks-v1a1/mono.m3u8
