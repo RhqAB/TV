@@ -11,7 +11,7 @@ http://172.20.3.1:81/Tsports-raw/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ICC Champions Trophy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports 4 
 http://10.10.10.2:84/fnf003/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ICC Champions Trophy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports 5
-http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/tracks-v1a1/mono.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ICC Champions Trophy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports 6
 http://172.19.178.29:18190/CLOUD-TV-02/tracks-v1a1/mono.m3u8
 
@@ -499,6 +499,10 @@ https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
 http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/99659.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=388&uid=16068&deviceMac=00:1A:79:0A:3B:2B
 
+
+
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg.png",LIVE SPORTS BDIX
+http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports 
 http://bapatv.live:8080/tsports3/tracks-v1a1/mono.m3u8
 http://xtv.ooo:8080/live/kamran800/800kamran/245901.ts
@@ -518,10 +522,7 @@ http://bajimath.com/sa/amarbdflix/stream.m3u8?id=T-SPORTS
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451545.ts
 http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/756462.ts
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/52500.ts
-https://linkchur.top/file/ts/file.php?id=https://live-cdn.tsports.com/live-01/index.m3u8
-https://linkchur.top/file/ts/file.php?id=https://live-cdn.tsports.com/live-02/index.m3u8
 http://10.10.10.2/live/fnffeed1003/index.m3u8
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports Backup 2
 http://starshare.live:8080/live/Habib/Habib/52500.ts
 https://cdn.livestreambd.com/TSportstv/tracks-v1a1/mono.m3u8
 http://103.205.133.71/LiveEvent1/tracks-v1a1/mono.m3u8
@@ -713,6 +714,9 @@ http://176.119.29.52/live.ts?channelId=289&uid=15834&deviceMac=00:1A:79:40:26:09
 https://mhdstream.com/sliv/stream.php?id=578079&e=.m3u8|referer=https://mhdstream.com//
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",Sony Sports Ten 2 HD
 http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=3788&deviceMac=00:1A:79:0A:3B:2B
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",Sony Sports Ten 2 HD BDIX
+http://tv.dugdugilive.com:8080/0ne$ky23/sonyten2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",Sony Sports Ten 2 HD Backup (5s Loading)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:C5:93&stream=373199&extension=ts
 http://xsmarters.top:8080/live/Saifullah222/Saifullah222/167571.ts
