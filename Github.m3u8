@@ -25,9 +25,8 @@ http://175.107.244.52:4457/play/a08g/index.m3u8
 http://opplex.tv:8080/live/global/global/167567.ts
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 http://xtv.ooo:8080/live/52882216/581881255/167567.ts
-https://api.shihabtv.xyz/cast/crichd/play.php?key=AKI&c=ptvpk&e=.m3u8%7Creferer=https://api.shihabtv.xyz/cast/crichd/pl.php?c=ptvpk
 #EXTINF:-1 group-title="ICC Champions Trophy" tvg-logo="https://www.geosuper.tv/assets/front/images/super-logo.png",Geo Super
-http://xtv.ooo:8080/kamran800/800kamran/167568.ts
+http://xtv.ooo:8080/live/52882216/581881255/167568.ts
 #EXTINF:-1 group-title="ICC Champions Trophy" tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png",Ten Sports
 http://xtv.ooo:8080/live/52882216/581881255/167569.ts
 #EXTINF:-1 group-title="ICC Champions Trophy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/STAR_Sports_2_logo.png/revision/latest/scale-to-width-down/200?cb=20150719162835",Star Sports 2 HD
@@ -43,6 +42,7 @@ https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=8jJjFB_7YS1eO-
 http://172.20.3.1:81/Tsports-raw/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ICC Champions Trophy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports 4 BDIX
 http://10.10.10.2:84/fnf003/tracks-v1a1/mono.m3u8
+http://10.10.10.2/live/fnf001/index.m3u8
 #EXTINF:-1 group-title="ICC Champions Trophy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports 5 BDIX
 http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ICC Champions Trophy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports 6 BDIX
@@ -74,7 +74,7 @@ https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://i.imgur.com/8nRyyAu.png",Sangsad Tv
 http://xtv.ooo:8080/live/52882216/581881255/245940.ts
 http://xtv.ooo:8080/danyear12/am809100/245940.ts
-http://xtv.ooo:8080/kamran800/800kamran/245940.ts
+http://xtv.ooo:8080/live/52882216/581881255/245940.ts
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/2560px-ATN_Bangla.svg.png",Atn Bangla
 http://tv.cloudcdn.me:80/live.ts?channelId=81&uid=16068&deviceMac=00:1A:79:0A:3B:2B
 http://crystalott.net:80/live/BE2ZKMLVXR/I6WSJJXXZ1/4709.ts
@@ -677,7 +677,7 @@ http://172.20.3.1:81/TenCricket/tracks-v1a1/mono.m3u8
 http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
 http://crystalott.net:80/live/BE2ZKMLVXR/I6WSJJXXZ1/7890.ts
 http://line.4k-beast.co:80/live/c0:23:8d:96:15:22/44D11F/99671.ts
-http://xtv.ooo:8080/kamran800/800kamran/167568.ts
+http://xtv.ooo:8080/live/52882216/581881255/167568.ts
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://mena-img-cdn-lb.aws.playco.com/prd-peg-data/default/images/logos/subscriptions/starzplaysports.svg",Fox Cricket 501
 http://195.26.87.217/live.ts?channelId=36128&uid=3453&deviceMac=00:1A:79:11:10:28
 http://xtv.ooo:8080/live/52882216/581881255/167593.ts
@@ -717,7 +717,7 @@ http://r2cfiz8zbv.spo.isnon.me:25461/live/NP78551992597Z15/8715g8115I9K71/3883.t
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png",Bein Sport 2
 http://xtv.ooo:8080/global/global/381331
 http://crystalott.net/live/BE2ZKMLVXR/I6WSJJXXZ1/618280.ts
-http://xtv.ooo:8080/kamran800/800kamran/381332.m3u8
+http://xtv.ooo:8080/live/52882216/581881255/381332.m3u8
 http://r2cfiz8zbv.spo.isnon.me:25461/live/NP78551992597Z15/8715g8115I9K71/987.ts
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_beIN_SPORTS_3.png/1200px-Logo_beIN_SPORTS_3.png",Bein Sports 3
 http://crystalott.net/live/BE2ZKMLVXR/I6WSJJXXZ1/618279.ts
