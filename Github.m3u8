@@ -1050,6 +1050,7 @@ http://atg100.xyz/live/UL33K17/SYC4T9D/808980.ts
 #EXTINF:-1, group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png",NAT GEO WILD
 http://opplextv.cyou:8080/live/global/global/206286.ts
 http://xtv.ooo:8080/danyear12/am809100/206286.ts
+http://stream02.vnet.am/NatGeoWild/tracks-v1a2/mono.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",Animal Planet
 https://food-dlvr-ott.akamaized.net/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
 https://kusnadipepenk.github.io/ntn/animal.m3u8
@@ -1267,16 +1268,16 @@ http://119.156.26.155:8000/play/a05u/index.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest/scale-to-width-down/1200?cb=20240206232316", Disney Junior HD
 http://tv.cloudcdn.me/live.ts?channelId=250&uid=13603&deviceMac=00:1A:79:64:B4:A6
 http://103.124.251.164:28015/play/a02m/index.m3u8
-http://xtv.ooo:8080/danyear12/am809100/153175.ts
 http://atg100.xyz/live/UL33K17/SYC4T9D/175130.ts
+http://xtv.ooo:8080/danyear12/am809100/153175.ts
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/DisneyXD_2009.svg/revision/latest?cb=20230509232915", Disney XD
 https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Gubbare-cl.png/revision/latest?cb=20210507104727", Gubbare
 https://epiconvh.s.llnwi.net/gubbare/master_720.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700007IQ_20240912T093650SQUARE.png",Q Toonz
-https://jmp2.uk/sam-INBD4700007IQ.m3u8
+
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD47000042I_20240912T093648SQUARE.png", The Q Kahaniyan
-https://jmp2.uk/sam-INBD47000042I.m3u8
+
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2500003JW_20240912T093645SQUARE.png", Powerkids Kartoon Channel
 https://jmp2.uk/sam-IN2500003JW.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://upload.wikimedia.org/wikipedia/sco/c/cc/Motu_Patlu_official_logo.png",Motu Patlu 
@@ -1300,7 +1301,7 @@ https://livetranscode.com/Minimax/index.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/607px-Boomerang_tv_logo.png", BOOMERANG
 http://cord-cutter.net:8080/live/70453597/56651433/14741.ts
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300019OU_20240520T214737SQUARE.png", All Babies Channel
-https://jmp2.uk/sam-USBD3300019OU.m3u8
+
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="hhttps://play-lh.googleusercontent.com/ww8NnxXLAJY4dNJx34AXAY8-h0OkOKmidT_QC5osuhamzHXktzFAXyIJg5tNQvwjGiGc", Kids TV
 https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/BabyTV_logo.png", Baby TV
@@ -1311,10 +1312,9 @@ http://atg100.xyz/live/UL33K17/SYC4T9D/72172.ts
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US800003JM_20240709T002122SQUARE.png" , BBC Kids
 https://jmp2.uk/sam-US800003JM.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png/revision/latest/thumbnail/width/360/height/360?cb=20240422182307", babyfirst
-https://lte.wiseplayout.com/WiseM3U8_12/master.m3u8
-https://streams2.sofast.tv/ptnr-yupptv/title-BABYFIRST-ENG_YuppTV/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/8d6cf2cc-1231-41f0-8e59-ec92a7d9f47f/1.m3u8
+
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/TVOKids_2022.svg/revision/latest/scale-to-width-down/300?cb=20221021133348",tvo Kids
-https://bcovlive-a.akamaihd.net/rf86f817779524249abf842af6d16f55f/us-east-1/15364602001/playlist.m3u8
+
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/1200px-PBS_Kids_logo_%282022%29.svg.png",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://seeklogo.com/images/C/ctc-kids-logo-D35CD4BEFF-seeklogo.com.png", CTC Kids
@@ -1324,13 +1324,13 @@ https://jmp2.uk/sam-US2200007QG.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/1_ZarokTVLogonet5.png", Zarok TV Sorani
 https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/92b21f52515650e020589b8f3496d3fe.png/revision/latest?cb=20180817012008",Teletubbies
-https://051ec03a0f50441e8bb19bda08046c74.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_WildBrainPresentsTeletubbies/playlist.m3u8
+
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Teletoon_plus_winter.svg/revision/latest/scale-to-width-down/250?cb=20220207143056",Teletoon+
-http://tv.cloudcdn.me:80/live.ts?channelId=72428&uid=2496&deviceMac=00:1A:79:A8:9C:32
+
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Cartoon_Classics.svg",Cartoon Classics
-https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/484dccf5-a479-448a-b382-e8fd9b3eff4d/1.m3u8
+
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Kiddo960X540z3.jpg",Kiddo
-https://streams2.sofast.tv/ptnr-yupptv/title-KIDDO-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/5bcf9d24-04f2-401d-a93f-7af54f29461a/e42b59fe-8176-4e33-bfbc-3a51ea66296d/1.m3u8
+
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://spacetoon.com/assets/imgs/1stoon.png", Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MBC_3_Transparent_Background_Logo.png/480px-MBC_3_Transparent_Background_Logo.png", MBC 3
@@ -1347,7 +1347,7 @@ https://jmp2.uk/sam-GBBD1100010UB.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504502A_20241112T000554SQUARE.png", Anime All day
 https://jmp2.uk/sam-USAJ3504502A.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3500004M7_20241022T004409SQUARE.png" , FilmRise Anime
-https://jmp2.uk/sam-US3500004M7.m3u8
+
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc",Atfal & Mawaheb TV
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 
