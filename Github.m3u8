@@ -86,10 +86,9 @@ http://xtv.ooo:8080/danyear12/am809100/245909.ts
 http://tv.dugdugilive.com:8080/0ne$ky23/AtnBangla/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png",Channel I
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8
 https://channel-i-tv.rockstreamer.com/chlive/121212/chunks.m3u8
 https://mhdtvplay.com/bdcast/hls/index.m3u8?id=vdce53cs
-https://static.jagobd.com.bd/live-orgin/channeli-8-org.stream/playlist.m3u8|referer=https://www.jagobd.com
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8|Referer=https://jagobd.com.bd
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png",Channel I YouTube
 https://ythls-v3.onrender.com/channel/UC8NcXMG3A3f2aFQyGTpSNww.m3u8
 
@@ -125,6 +124,7 @@ https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w818
 http://tv.cloudcdn.me:80/live.ts?channelId=112&uid=15844&deviceMac=00:1A:79:ED:B7:12
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w81829040.m3u8
 http://xtv.ooo:8080/danyear12/am809100/245911.ts
+http://103.163.247.39/local_out/rtv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png",Rtv BDIX
 http://172.19.178.49:18190/sn-rtv/tracks-v1a1/mono.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/RTV/tracks-v1a1/mono.m3u8
