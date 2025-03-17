@@ -378,8 +378,9 @@ http://103.205.133.71/JamunaTV/tracks-v1a1/mono.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=100&uid=3037&deviceMac=00:1A:79:0A:3B:2B
 http://xtv.ooo:8080/danyear12/am809100/245917.ts
 #EXTINF:-1 group-title="Bangladeshi News 🇧🇩" tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png",Jamuna Tv BDIX
-http://172.19.178.59:18190/sn-jamunatv/tracks-v1a1/mono.m3u8
 http://172.20.3.1:81/JamunaTV/tracks-v1a1/mono.m3u8
+http://172.19.178.39:18190/JS-TV-03/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Bangladeshi News 🇧🇩" tvg-logo="https://jamunagroup.com.bd/company-images/1662487622-mdshamimislam.png",Jamuna Tv YouTube
 https://ythls-v3.onrender.com/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
 
