@@ -1,5 +1,16 @@
 #EXTM3U
 
+
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png",Star Sports 1 
+http://xtv.ooo:8080/danyear12/am809100/167575
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png",Star Sports 1 Backup
+https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png",Star Sports 1 FHD
+http://starshare.org:8080/live/134134/134134/98864.ts
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png",Star Sports 1 Hindi 
+http://starshare.org:8080/live/134134/134134/98866.ts
+#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/STAR_Sports_2_logo.png/revision/latest/scale-to-width-down/200?cb=20150719162835",Star Sports 2 HD
+http://xtv.ooo:8080/danyear12/am809100/167576.ts
 #EXTINF:-1 group-title="IPL 2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpp69gsQwJYuDspe-650YnMewqMxf1vff7OtChwYqXPg&s",Astro Cricket
 http://starshare.org:8080/live/134134/134134/2494.ts
 http://atg100.xyz/live/UL33K17/SYC4T9D/446226.ts
@@ -9,6 +20,8 @@ http://tv.cloudcdn.me:80/live.ts?channelId=302&uid=8069&deviceMac=00:1A:79:4C:90
 http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/1416.ts
 http://filex.tv:8080/live/Multicity/1234/52109.ts
 http://xtv.ooo:8080/danyear12/am809100/167583.m3u8
+#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/logo_transparent_cb_(1)_prev_ui.png",Willow Cricket HD Backup
+http://filex.tv:8080/live/Multicity/1234/52109.ts
 #EXTINF:-1 group-title="IPL 2025" tvg-logo="https://i.postimg.cc/xqDrwkj0/Background-Eraser-20240628-145812760.png",Sky Sports Cricket
 
 #EXTINF:-1 group-title="IPL 2025" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b6b490f9-d83d-416e-959a-6e403e5ab9c4/dh4g6wq-d016be9e-975a-4cf2-84d0-e0fbadc1d27e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I2YjQ5MGY5LWQ4M2QtNDE2ZS05NTlhLTZlNDAzZTVhYjljNFwvZGg0ZzZ3cS1kMDE2YmU5ZS05NzVhLTRjZjItODRkMC1lMGZiYWRjMWQyN2UucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.pY6fcw57qTNTi-L7quKhH7oRnRrZExp_Hq3yJ4COcRM", Sky Sports Main Event
@@ -21,24 +34,25 @@ http://xtv.ooo:8080/danyear12/am809100/167592.ts
 
 #EXTINF:-1 group-title="IPL 2025" tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png",Ten Sports
 http://xtv.ooo:8080/danyear12/am809100/167569.ts
-#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/STAR_Sports_2_logo.png/revision/latest/scale-to-width-down/200?cb=20150719162835",Star Sports 2 HD
-http://xtv.ooo:8080/danyear12/am809100/167576.ts
+
 #EXTINF:-1 group-title="IPL 2025" tvg-id=1984 tvg-name="Sports18 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Sports18_logo.svg/1200px-Sports18_logo.svg.png",Sports18 1
 http://xtv.ooo:8080/danyear12/am809100/382205.ts
 #EXTINF:-1 group-title="IPL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports 1
 http://xtv.ooo:8080/danyear12/am809100/167590.ts
 #EXTINF:-1 group-title="IPL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports 2 
+http://starshare.org:8080/live/134134/134134/113069.ts
+#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports 3
 
-#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports 3 BDIX
-https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=8jJjFB_7YS1eO-Hzs4P3Sg&expires=1737931914&user=811838a63b224e85b02b925b31d0fece
+#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports  BDIX 1 
 http://172.20.3.1:81/Tsports-raw/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports 4 BDIX
+
+#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports  BDIX 2 
+http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports 6 BDIX 3 
+http://172.19.178.29:18190/CLOUD-TV-02/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports  BDIX 4
 http://10.10.10.2:84/fnf003/tracks-v1a1/mono.m3u8
 http://10.10.10.2/live/fnf001/index.m3u8
-#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports 5 BDIX
-http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports 6 BDIX
-http://172.19.178.29:18190/CLOUD-TV-02/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="IPL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg/800px-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png", Nagorik TV BDIX
 
@@ -1457,7 +1471,7 @@ https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://indianews.in/wp-content/uploads/2021/08/LOGO.png",India News
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/india-news/index.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRio7Ldnsbo_MCDsbAoDmk47Jd3yO_HNQSFDPWtvFh4mvzcZjFB_mICzwQf&s=10",Hindustan times
-https://ythls-v3.onrender.com/channel/UCm7lHFkt2yB_WzL67aruVBQ.m3u8
+
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/K_News.jpeg" group-title="News",K News India
 https://knews.livebox.co.in/youtubehls/live.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://sudarshannews.in/images/logo.jpg" group-title="News",Sudarshan News
