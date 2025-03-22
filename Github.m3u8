@@ -50,6 +50,9 @@ http://xtv.ooo:8080/danyear12/am809100/167590.ts
 http://starshare.org:8080/live/134134/134134/113069.ts
 #EXTINF:-1 group-title="IPL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports 3
 http://kst.moonplex.net:8080/CH2/index.m3u8
+#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports 4
+https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
+https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 #EXTINF:-1 group-title="IPL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports  BDIX 1 
 http://172.20.3.1:81/Tsports-raw/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="IPL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports  BDIX 2 
@@ -213,6 +216,7 @@ http://starshare.live:8080/live/Leroy123/Leroy123/767.ts
 http://xtv.ooo:8080/danyear12/am809100/167590.ts
 http://xtv.ooo:8080/danyear12/am809100/245901.ts
 http://10.10.10.2:84/fnffeed1001/tracks-v1a1/mono.m3u8
+http://isp.top10bhaluka.com/tv/stream.m3u8?id=GTV|referer=https://isp.top10bhaluka.com
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/chunks.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png",GTV BDIX
 http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1a1/mono.m3
