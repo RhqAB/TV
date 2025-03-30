@@ -105,7 +105,7 @@ https://channel-i-tv.rockstreamer.com/chlive/121212/chunks.m3u8
 https://mhdtvplay.com/bdcast/hls/index.m3u8?id=vdce53cs
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8|referer=https://www.jagobd.com 
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png",Channel I YouTube
-https://ythls-v3.onrender.com/channel/UC8NcXMG3A3f2aFQyGTpSNww.m3u8
+
 
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png",Channel I BDIX
 http://172.19.178.49:18190/sn-channeli/tracks-v1a1/mono.m3u8
@@ -145,7 +145,7 @@ http://103.163.247.39/local_out/rtv/video.m3u8?token=At5F1MFZYnciB3
 http://172.19.178.49:18190/sn-rtv/tracks-v1a1/mono.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/RTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png",Rtv YouTube
-https://ythls-v3.onrender.com/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw.m3u8
+
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png",Boishakhi Tv
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=e0cfe755&e=.m3u8|Referer=https://entezeetv.fun/bdcast//
@@ -1748,6 +1748,11 @@ TESToo
 
 
 BangladesH
+channel i
+https://ythls-v3.onrender.com/channel/UC8NcXMG3A3f2aFQyGTpSNww.m3u8
+
+rtv 
+https://ythls-v3.onrender.com/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw.m3u8
 independ
 https://ythls-v3.onrender.com/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 atn newss
