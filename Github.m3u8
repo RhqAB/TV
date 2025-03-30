@@ -1025,10 +1025,8 @@ https://spstr.abntv.live/hls/psstream.m3u8
 http://172.105.123.238:18002/play/a03d
 http://tv.cloudcdn.me:80/live.ts?channelId=74567&uid=15844&deviceMac=00:1A:79:ED:B7:12
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://seeklogo.com/images/T/tennis-channel-logo-912C418E99-seeklogo.com.png",Tennis Channel
-https://jmp2.uk/sam-ATBA2200008XN.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=124665&uid=16068&deviceMac=00:1A:79:ED:10:29
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8?cc
-https://jmp2.uk/sam-ESBD2600001ME.m3u8
+https://jmp2.uk/sam-CHBA22000080G.m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://i.pinimg.com/originals/96/23/9f/96239fee6cf89bbbd3f587c9aa6f8095.png",EUROSPORT
 htthttp://xtv.ooo:8080/danyear12/am809100/206324.ts
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:C5:93&stream=383052&extension=ts
@@ -1724,7 +1722,7 @@ http://str.radiocapital.fm:8000/stream
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://spicefmbd.com/logospice.png",Spice FM 96.4
 https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://imgsvr.radiocut.site/get/thumb/900/900/radio_logos/7e/89/7e89f365-b487-4abf-af28-32196ebacce4.png",Radio Ekattor 98.4
-http://192.144.82.200:9302/;stream/1
+
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://radiomahananda.com/files/2024/07/Radio-Mahananda-Bangla-Logo.png",Radio Mahananda 98.8
 https://streaming.radiomahananda.fm/proxy/radiomahananda/stream
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtkMLex_2_VfVFnr4xuaxDEhw4vwZY8TPizQ&s",Radio Padma 99.2
