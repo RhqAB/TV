@@ -876,7 +876,7 @@ https://cdn.hotflix-bd.online/Ten3/video.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=291&uid=16068&deviceMac=00:1A:79:ED:10:29
 http://176.119.29.52/live.ts?channelId=291&uid=15834&deviceMac=00:1A:79:40:26:09
 http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=3788&deviceMac=00:1A:79:0A:3B:2B
-http://xtv.ooo:8080/live/danyear12/am809100/167572.tB
+http://xtv.ooo:8080/live/danyear12/am809100/167572.ts
 
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png",Sony Sports Ten 3 HD Backup (5s Loading)
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:C5:93&stream=373198&extension=ts
@@ -886,10 +886,12 @@ https://mhdstream.com/sliv/stream.php?id=36523652&e=.m3u8|referer=https://mhdstr
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png",Sony Sports Ten 3 BDIX
 http://tv.dugdugilive.com:8080/0ne$ky23/sonyten3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",Sony Sports Ten 4 HD
+http://xtv.ooo:8080/live/danyear12/am809100/167595.ts
 http://176.119.29.52/live.ts?channelId=105349&uid=15834&deviceMac=00:1A:79:40:26:09
 http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=3788&deviceMac=00:1A:79:0A:3B:2B
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",Sony Sports Ten 4 HD Backup
 http://xtv.ooo:8080/live/danyear12/am809100/167595.ts
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",Sony Sports Ten 4 HD Backup
+
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png/revision/latest/scale-to-width-down/460?cb=20221025091902",Sony Sports Ten 5 HD
 http://tv.cloudcdn.me/live.ts?channelId=105350&uid=16068&deviceMac=00:1A:79:0A:3B:2B
 https://line.now-ott.xyz/live/451AAD/3f41a2/63499.ts
