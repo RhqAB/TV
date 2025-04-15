@@ -45,25 +45,20 @@ https://line.now-ott.xyz/live/451AAD/3f41a2/102647.ts
 
 #EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://mena-img-cdn-lb.aws.playco.com/prd-peg-data/default/images/logos/subscriptions/starzplaysports.svg", STARZPLAY Criclifee
 http://xtv.ooo:8080/danyear12/am809100/371470.ts
-#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTV SPORTS HDD
+#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PSL PTV SPORTS HDD
 http://xtv.ooo:8080/danyear12/am809100/167567.ts
-https://nowsports.co.in/cric/stream.m3u8?id=8fb9c2126d15ea60526c3fd9448c0bb8|Referer=https://nowsports.co.in//
-http://175.107.244.52:4457/play/a08g/index.m3u8
-http://opplex.tv:8080/live/global/global/167567.ts
+#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PSL PTV SPORTS HD Backup
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
-http://xtv.ooo:8080/danyear12/am809100/167567.ts
-#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTV SPORTS HD Backup
-http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
-#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",Ary Sportss
-
+#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",PSL Ary Sportss
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
-#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://www.geosuper.tv/assets/front/images/super-logo.png",Geo Superr
+#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://www.geosuper.tv/assets/front/images/super-logo.png",PSL Geo Superr
 http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
-#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://www.geosuper.tv/assets/front/images/super-logo.png",Geo Superr Backup
+#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://www.geosuper.tv/assets/front/images/super-logo.png",PSL Geo Superr Backup
 http://xtv.ooo:8080/danyear12/am809100/167568.ts
-#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png",Tenn Sports
-
-
+#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png",PSL Tenn Sports
+http://xtv.ooo:8080/danyear12/am809100/167569.ts
+#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png",PSL Tenn Sports Backup
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 group-title="IPL & PSL 2025" tvg-id=1984 tvg-name="Sports18 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Sports18_logo.svg/1200px-Sports18_logo.svg.png",Sports18 1
 http://xtv.ooo:8080/danyear12/am809100/382205.ts
 #EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports 1
