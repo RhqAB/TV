@@ -1,84 +1,94 @@
-#EXTM3U
-#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ",LIVE SPORTS BDIX 1
+#
+#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ",LIVE SPORTS BDIX 1
 https://tv.mymoviebazar.net/stream/stream56.m3u8|referer=https://tv.mymoviebazar.net
-#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ",LIVE SPORTS BDIX 2
+#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ",LIVE SPORTS BDIX 2
 http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ",LIVE SPORTS BDIX 3
+#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ",LIVE SPORTS BDIX 3
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_EZvRERoc3gLd1P3fd64kk/ts
-#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ",LIVE SPORTS BDIX 4
+#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ",LIVE SPORTS BDIX 4
 https://www.tbn24.com/api/video/4031_0.m3u8
 
-#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png",Star Sportss 1 
+#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png",Star Sportss 1 
 http://xtv.ooo:8080/danyear12/am809100/167575.ts
-#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png",Star Sports 1 Backup
+#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png",Star Sports 1 Backup
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in
-#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png",Star Sports 1 FHD
+#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png",Star Sports 1 FHD
 
-#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png",Star Sports 1 Hindi 
+#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png",Star Sports 1 Hindi 
 https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=starhindi
-#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/STAR_Sports_2_logo.png/revision/latest/scale-to-width-down/200?cb=20150719162835",Star Sports 2
+#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/STAR_Sports_2_logo.png/revision/latest/scale-to-width-down/200?cb=20150719162835",Star Sports 2
 http://xtv.ooo:8080/danyear12/am809100/167576.ts
 https://line.now-ott.xyz/live/451AAD/3f41a2/63540.ts
-#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpp69gsQwJYuDspe-650YnMewqMxf1vff7OtChwYqXPg&s",Astro Crickett 2494 star
+#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpp69gsQwJYuDspe-650YnMewqMxf1vff7OtChwYqXPg&s",Astro Crickett 2494 star
 
-#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/logo_transparent_cb_(1)_prev_ui.png",Willow Cricket HDD
+#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/logo_transparent_cb_(1)_prev_ui.png",Willow Cricket HDD
 http://fcluster.mytvxweb.com:8880/361988/index.m3u8?token=CP3Q3MDSVQVIP
 
 http://xtv.ooo:8080/live/danyear12/am809100/167583.ts
 http://xtv.ooo:8080/danyear12/am809100/347332.m3u8
 http://fcluster.mytvxweb.com:8880/361988/index.m3u8?token=CP3Q3MDSVQVIP
-#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/logo_transparent_cb_(1)_prev_ui.png",Willow Cricket HD Backup
+#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/logo_transparent_cb_(1)_prev_ui.png",Willow Cricket HD Backup
 http://filex.tv:8080/live/Multicity/1234/52109.ts
 https://line.now-ott.xyz/live/451AAD/3f41a2/362788.ts
-#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://i.postimg.cc/xqDrwkj0/Background-Eraser-20240628-145812760.png",Sky Sports Crickett 186605 star
+#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://i.postimg.cc/xqDrwkj0/Background-Eraser-20240628-145812760.png",Sky Sports Crickett 186605 star
 
-#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://mena-img-cdn-lb.aws.playco.com/prd-peg-data/default/images/logos/subscriptions/starzplaysports.svg",Fox 501
+#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://mena-img-cdn-lb.aws.playco.com/prd-peg-data/default/images/logos/subscriptions/starzplaysports.svg",Fox 501
 http://xtv.ooo:8080/danyear12/am809100/348210.ts
 http://195.26.87.217/live.ts?channelId=36128&uid=3453&deviceMac=00:1A:79:11:10:28
 http://xtv.ooo:8080/danyear12/am809100/167593.ts
 http://xtv.ooo:8080/danyear12/am809100/348210.ts
 
-#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://i.imgur.com/0c5Ox0o.png",SuperSport Crickett
+#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://i.imgur.com/0c5Ox0o.png",SuperSport Crickett
 http://xtv.ooo:8080/danyear12/am809100/167592.ts
-#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://i.imgur.com/0c5Ox0o.png",SuperSport Cricket Backup 769 star
+#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://i.imgur.com/0c5Ox0o.png",SuperSport Cricket Backup 769 star
 https://line.now-ott.xyz/live/451AAD/3f41a2/102647.ts
 
-#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://mena-img-cdn-lb.aws.playco.com/prd-peg-data/default/images/logos/subscriptions/starzplaysports.svg", STARZPLAY Criclifee
+#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://mena-img-cdn-lb.aws.playco.com/prd-peg-data/default/images/logos/subscriptions/starzplaysports.svg", STARZPLAY Criclifee
 http://xtv.ooo:8080/danyear12/am809100/371470.ts
-#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTV SPORTS HD
+#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTV SPORTS HD
+http://xtv.ooo:8080/danyear12/am809100/167567.ts
+https://nowsports.co.in/cric/stream.m3u8?id=8fb9c2126d15ea60526c3fd9448c0bb8|Referer=https://nowsports.co.in//
+http://175.107.244.52:4457/play/a08g/index.m3u8
+http://opplex.tv:8080/live/global/global/167567.ts
+http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+http://xtv.ooo:8080/danyear12/am809100/167567.ts
+#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTV SPORTS HD Backup
+http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",Ary Sports
 
-#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://www.geosuper.tv/assets/front/images/super-logo.png",Geo Super
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://www.geosuper.tv/assets/front/images/super-logo.png",Geo Super
 
-#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png",Tenn Sports
+#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png",Tenn Sports
 
 
-#EXTINF:-1 group-title="IPL 2025" tvg-id=1984 tvg-name="Sports18 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Sports18_logo.svg/1200px-Sports18_logo.svg.png",Sports18 1
+#EXTINF:-1 group-title="IPL & PSL 2025" tvg-id=1984 tvg-name="Sports18 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Sports18_logo.svg/1200px-Sports18_logo.svg.png",Sports18 1
 http://xtv.ooo:8080/danyear12/am809100/382205.ts
-#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports 1
+#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports 1
 http://xtv.ooo:8080/danyear12/am809100/167590.ts
-#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports 2  
+#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports 2  
 http://103.122.74.6:8888/hls/tsports.m3u8
 113069star
 http://103.122.74.6:8888/hls/tsports.m3u8
-#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports 3
+#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports 3
 http://kst.moonplex.net:8080/CH2/index.m3u8
 
-#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports 4
+#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports 4
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
-#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports  BDIX 1 
+#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports  BDIX 1 
 http://172.20.3.1:81/Tsports-raw/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports  BDIX 2 
+#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports  BDIX 2 
 http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports  BDIX 3 
+#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports  BDIX 3 
 http://172.19.178.29:18190/CLOUD-TV-02/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports  BDIX 4
+#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports  BDIX 4
 http://10.10.10.2/live/fnf001/index.m3u8
 http://10.10.10.2/live/fnf001/index.m3u8
 
 
-#EXTINF:-1 group-title="IPL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg/800px-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png", Nagorik TV BDIX
+#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/e/e3/%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg/800px-%E0%A6%A8%E0%A6%BE%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF.svg.png", Nagorik TV BDIX
 
 
 
