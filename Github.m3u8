@@ -1205,9 +1205,9 @@ http://atg100.xyz/live/Richardneu/951425AF6681/311557.ts
 http://109.105.201.198/ARENASPORT1/video.m3u8?token=test
 http://78.130.250.2:8023/play/a02o/index.m3u8
 http://109.105.201.198/ARENASPORT1/video.m3u8?token=test
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://od.lk/s/NDZfNjA2MDI5MTVf/arenapremium3.png",Arena Sports 2
-
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https:ng",Arena Sports 3
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="",Arena Sports 2
+http://109.105.201.198/Arenasport2/video.m3u8?token=test
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://od.lk/s/NDZfNjA2MDI5MTVf/arenapremium3.pngg",Arena Sports 3
 http://109.105.201.198/ARENASPORT3/video.m3u8?token=test
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://od.lk/s/NDZfNzgxNjAyMjlf/arena4.png",Arena Sports 4
 http://109.105.201.198/ARENASPORT4/video.m3u8?token=test
