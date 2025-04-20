@@ -908,7 +908,10 @@ http://tv.cloudcdn.me/live.ts?channelId=102479&uid=16068&deviceMac=00:1A:79:0A:3
 http://xtv.ooo:8080/danyear12/am809100/382205.ts
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-id=1984 tvg-name="Sports18 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Sports18_logo.svg/1200px-Sports18_logo.svg.png",Sports18 Khel
 
-
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://play-lh.googleusercontent.com/6TCr5szXcTESwKroTFZJTmLPGKJUZI0_zkVnkHCtUmxICZS_MNsZ867F3kATvFzoVrw",DD SPORTS HD
+http://38.96.178.201/live/DDSports/index.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=74567&uid=15844&deviceMac=00:1A:79:ED:B7:12
+http://38.96.178.201/live/DDSports/index.m3u8
 
 
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",Bein Sports 1
@@ -1256,9 +1259,7 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/TV8.5_Logosu.png/revision/latest?cb=20170827103605", TV8,5
 
 
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://play-lh.googleusercontent.com/6TCr5szXcTESwKroTFZJTmLPGKJUZI0_zkVnkHCtUmxICZS_MNsZ867F3kATvFzoVrw",DD SPORTS HD
-http://172.105.123.238:18002/play/a03d
-http://tv.cloudcdn.me:80/live.ts?channelId=74567&uid=15844&deviceMac=00:1A:79:ED:B7:12
+
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://seeklogo.com/images/T/tennis-channel-logo-912C418E99-seeklogo.com.png",Tennis Channel
 http://tv.cloudcdn.me:80/live.ts?channelId=124665&uid=16068&deviceMac=00:1A:79:ED:10:29
 https://jmp2.uk/sam-CHBA22000080G.m3u8
