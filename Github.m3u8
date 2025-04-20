@@ -1200,6 +1200,18 @@ http://serverinfo.one:8080/live/A4325544/443366/429428.ts
 http://papagal.shop:8080/Anca_Paula_L/NLJ4lHsN8trI2EYAcCyOVC8w0kUYgd/56630
 https://line.now-ott.xyz/live/451AAD/3f41a2/670672.ts
 http://atg100.xyz/live/Richardneu/951425AF6681/311557.ts
+
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://od.lk/s/NDZfNjA2MDI3OTJf/arenapremiumtv1.png",Arena Sports 1 
+http://109.105.201.198/ARENASPORT1/video.m3u8?token=test
+http://78.130.250.2:8023/play/a02o/index.m3u8
+http://109.105.201.198/ARENASPORT1/video.m3u8?token=test
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://od.lk/s/NDZfNjA2MDI5MTVf/arenapremium3.png",Arena Sports 2
+
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https:ng",Arena Sports 3
+http://109.105.201.198/ARENASPORT3/video.m3u8?token=test
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://od.lk/s/NDZfNzgxNjAyMjlf/arena4.png",Arena Sports 4
+http://109.105.201.198/ARENASPORT4/video.m3u8?token=test
+
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",SSC 1
 https://stream.sainaertebat.com/hls2/ssc1.m3u8
 http://nks24.com:8080/play/live.php?mac=00:1A:79:62:95:55&stream=266420&extension=ts
