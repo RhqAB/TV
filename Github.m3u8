@@ -1188,11 +1188,12 @@ http://serverinfo.one:8080/live/A4325544/443366/429428.ts
 http://papagal.shop:8080/Anca_Paula_L/NLJ4lHsN8trI2EYAcCyOVC8w0kUYgd/56630
 https://line.now-ott.xyz/live/451AAD/3f41a2/670672.ts
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",SSC 1
-https://line.now-ott.xyz/live/451AAD/3f41a2/1498040.ts
+https://stream.sainaertebat.com/hls2/ssc1.m3u8
 http://nks24.com:8080/play/live.php?mac=00:1A:79:62:95:55&stream=266420&extension=ts
 http://37.48.72.77:8080/stream/shahid/ssc1/master576.m3u8
 http://suprino.xyz/live/PMF3J9X/BV7HG8H/340107.ts
 https://line.now-ott.xyz/live/451AAD/3f41a2/1498040.ts
+https://stream.sainaertebat.com/hls2/ssc1.m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",SSC 2
 https://line.now-ott.xyz/live/451AAD/3f41a2/1498041.ts
 http://37.48.72.77:8080/stream/shahid/ssc2/master576.m3u8
@@ -1223,6 +1224,8 @@ https://line.now-ott.xyz/live/451AAD/3f41a2/1498038.ts
 http://37.48.72.77:8080/stream/shahid/sscextra2/master576.m3u8
 http://suprino.xyz/live/PMF3J9X/BV7HG8H/255708.ts
 https://line.now-ott.xyz/live/451AAD/3f41a2/1498038.ts
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Abu%20Dhabi%20Sports%201.png", Solh TV
+https://stream.sainaertebat.com/hls2/solhtv.m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Abu%20Dhabi%20Sports%201.png", Abu Dhabi Sports TV 1
 https://line.now-ott.xyz/live/451AAD/3f41a2/1447187.ts
 http://109.61.18.156:80/stream/starzplay/adprem1/master.m3u8
