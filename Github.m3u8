@@ -1429,12 +1429,17 @@ http://starshare.org:8080/live/134134/134134/174.ts
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_AI_SD.png", Sony BBC Earth HD BDIX
 http://172.20.3.1:81/BBCEaarthHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg", BBC Earth US
+https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_204.png", Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 http://atg100.xyz/live/Richardneu/951425AF6681/977934.ts
 http://starshare.org:8080/live/134134/134134/459779.ts
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://lovepetstv.com/wp-content/uploads/2022/12/cropped-LovePets_Logo_SecondaryColor.png", Love Pets 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-lovepetsemea-lggb/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh0iDLfLwiIe4s_GQa1j070pHWr0FM2BrRkA&s",Relaxing Nature YouTube
 
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://images.pluto.tv/channels/61eeb4a701020c00075676ef/colorLogoPNG.png",Nature Time
@@ -1483,6 +1488,11 @@ http://tv.cloudcdn.me/live.ts?channelId=70099&uid=16068&deviceMac=00:1A:79:ED:10
 http://starshare.org:8080/live/134134/134134/20622.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=70099&uid=15844&deviceMac=00:1A:79:ED:B7:12
 https://line.now-ott.xyz/live/451AAD/3f41a2/63515.ts
+
+
+
+
+
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://i.postimg.cc/BnfXNdM9/Travelxp-01.png",TravelXP
 https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
 https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
@@ -1490,12 +1500,16 @@ https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://i.postimg.cc/BnfXNdM9/Travelxp-01.png",TravelXP BDIX
 http://172.20.3.1:81/TravelXPHD/tracks-v1a1/mono.m3u8
 
-EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://i.postimg.cc/BnfXNdM9/Travelxp-01.png",TravelXP Hindi
+EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://i.postimg.cc/BnfXNdM9/Travelxp-01.png",TravelXP 2
+https://travelxp-travelxp-5-es.lg.wurl.tv/playlist.m3u8
 http://tv.cloudcdn.me:80/live.ts?channelId=70970&uid=15844&deviceMac=00:1A:79:ED:B7:12
+https://travelxp-travelxp-5-es.lg.wurl.tv/playlist.m3u8
 EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/1200px-2018_Travel_Channel_logo.png", Travel Channel
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Travel-Channel.m3u8
 https://od.lk/s/ODRfNzIxOTE5NjRf/TRVL_Channel.m3u8
 http://172.20.3.1:81/TravelXPHD/tracks-v1a1/mono.m3u8
+EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAYPmseFi25WJ0Y8QyGo3o7DdMNqz1poa4Dg&s",Autentic Travel 
+https://autentic-autentictravel-1-au.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800020QX_20221116T013715SQUARE.png_20221116013716.png", Heritage
 https://amg02132-sofast-heritage-samsungin-arawj.amagi.tv/playlist/amg02132-sofast-heritage-samsungin/cb573d1e786c64899dd43a62cef24482847b3dcb0e6c886470
 https://jmp2.uk/sam-INBC2800020QX.m3u8
@@ -1511,8 +1525,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/featuredImage-removebg-preview.png",Pluto Tv Travel
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/59c01b1953680139c6ae9d4d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b69-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=285c5e14-2bb7-45ce-b0e7-4869bb438d35
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo=="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100025YE_20220427T054559SQUARE.png_20220427054600.png", GoUSA TV
-
-
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://dp6mhagng1yw3.cloudfront.net/entries/16th/1a39833a-dfca-4d64-9a3a-531a265640c8.png",5 Minute Crafts
+https://amg02051-soulpublishing-amg02051c3-lg-cl-584.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftsspanish-lgcl/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Food_Food.png/revision/latest?cb=20240319101022",Food Food
 http://tv.cloudcdn.me/live.ts?channelId=169&uid=16068&deviceMac=00:1A:79:0A:3B:2B
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/d6673a24-f87e-405e-b558-f7d8d0a196df/1.m3u8
@@ -1542,6 +1556,8 @@ https://jmp2.uk/sam-INBA5100020HQ.m3u8
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://thepetcollective.com/cdn/shop/files/tpc-footer-logo.png?v=1680706852&width=760",The Pet Collective
 https://linear-174.frequency.stream/dist/localnow/174/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAJaRGr_soJCWTY_asBlDjWRJXxSb1ALyyQg&s",My Little Pet
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5484
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3400001FX_20241105T024333SQUARE.png" ,Dog Whisperer
 https://jmp2.uk/sam-US3400001FX.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Fish_TV_logo_2022.svg",Fish TV
@@ -1690,6 +1706,7 @@ https://line.now-ott.xyz/live/451AAD/3f41a2/361368.ts
 http://168.181.122.234:8000/play/a032/index.m3u8
 http://atg100.xyz/live/Richardneu/951425AF6681/72172.ts
 https://line.now-ott.xyz/live/451AAD/3f41a2/361368.ts
+
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US800003JM_20240709T002122SQUARE.png" , BBC Kids
 https://jmp2.uk/sam-US800003JM.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://static.wikia.nocookie.net/babyfirsttv/images/5/56/BabyFirst_Logo_2019.png/revision/latest/thumbnail/width/360/height/360?cb=20240422182307", babyfirst
@@ -1726,6 +1743,18 @@ http://xtv.ooo:8080/live/danyear12/am809100/350890.ts
 https://jmp2.uk/sam-GBBD1100010UB.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504502A_20241112T000554SQUARE.png", Anime All day
 https://jmp2.uk/sam-USAJ3504502A.m3u8
+
+#EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://canal22.org.mx/img/notas/nota-anime-onegai.jpg" ,Canal Anime Onegai 1 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10935
+#EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://canal22.org.mx/img/notas/nota-anime-onegai.jpg" ,Canal Anime Onegai 2 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10934
+#EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://canal22.org.mx/img/notas/nota-anime-onegai.jpg" ,Canal Anime Onegai 3 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10933
+#EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://canal22.org.mx/img/notas/nota-anime-onegai.jpg" ,Canal Anime Onegai 4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10932
+#EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://canal22.org.mx/img/notas/nota-anime-onegai.jpg" ,Canal Anime Onegai 5 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
+
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3500004M7_20241022T004409SQUARE.png" , FilmRise Anime
 
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc",Atfal & Mawaheb TV
@@ -2377,8 +2406,6 @@ https://bdix.proximitybd.xyz/tf2.php?m3u8=https://bldcmprod-cdn.toffeelive.com/c
 DOCUMENTARY
 
 
-Love NAture
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8bad dite hbe
 BBC EARTH
 https://mhdtvweb.com/sliv/stream.php?id=sony-bbc-earth-hd&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
 INTERNATIONAL NEWS
