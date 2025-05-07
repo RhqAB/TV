@@ -857,15 +857,17 @@ https://tv.mymoviebazar.net/stream/stream13.m3u8|referer=https://tv.mymoviebazar
 http://xtv.ooo:8080/danyear12/am809100/109993.m3u8
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451471.ts
 http://xtv.ooo:8080/danyear12/am809100/167578.ts
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest/scale-to-width-down/220?cb=20230128174436",Star Sports Select 1 Backup
+https://rex-streaming.vercel.app/api/x/167578.m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest/scale-to-width-down/220?cb=20230128174436",Star Sports Select 1 BDIX
 
 
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png/revision/latest/scale-to-width-down/220?cb=20230128175646",Star Sports Select 2
-http://ekdilhai.pro/AF_S2/mpegts?token=ba3442574070a9e78afaf3218e0b9871
+https://rex-streaming.vercel.app/api/x/167579.m3u8
 http://crystalott.net:80/live/BE2ZKMLVXR/I6WSJJXXZ1/2751.ts
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:C5:93&stream=373201&extension=ts
 http://vipdikili.top:8080/live/VIP017141733137332272/37ede1a839db/7343.ts
-http://starshare.org:8080/live/134134/134134/148801.ts
+https://rex-streaming.vercel.app/api/x/167579.m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png/revision/latest/scale-to-width-down/220?cb=20230128175646",Star Sports Select 2 BDIX
 
 
@@ -1017,7 +1019,7 @@ http://xtv.ooo:8080/live/danyear12/am809100/167571.ts
 http://tv.dugdugilive.com:8080/0ne$ky23/sonyten2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",Sony Sports Ten 2 HD Backup (5s Loading)
-
+https://rex-streaming.vercel.app/api/x/167571.m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png",Sony Sports Ten 3 HD 
 http://xtv.ooo:8080/live/danyear12/am809100/167572.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=3788&deviceMac=00:1A:79:0A:3B:2B
