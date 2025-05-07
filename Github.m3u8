@@ -1,9 +1,6 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz,https://www.tsepg.cf/epg.xml.gz"
 
 
-
-
-
 #EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ",IPL BDIX T SPORTS
 https://tv.mymoviebazar.net/stream/stream56.m3u8|referer=https://tv.mymoviebazar.net
 #EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",PSL 2025 BDIX
@@ -1231,18 +1228,16 @@ https://line.now-ott.xyz/live/451AAD/3f41a2/670672.ts
 http://atg100.xyz:80/live/443432469215731/4362020837/311557.ts
 
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Canal_plus_logo.svg/2560px-Canal_plus_logo.svg.png",CANAL+
-http://lbss16.xyz/hls/0343fe21c0261a65b8b68a5757637480/30153_1089.ts
+
 
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://od.lk/s/NDZfNjA2MDI3OTJf/arenapremiumtv1.png",Arena Sports 1 
-http://109.105.201.198/ARENASPORT1/video.m3u8?token=test
-http://78.130.250.2:8023/play/a02o/index.m3u8
-http://109.105.201.198/ARENASPORT1/video.m3u8?token=test
+
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="",Arena Sports 2
-http://109.105.201.198/Arenasport2/video.m3u8?token=test
+
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://od.lk/s/NDZfNjA2MDI5MTVf/arenapremium3.pngg",Arena Sports 3
-http://109.105.201.198/ARENASPORT3/video.m3u8?token=test
+
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://od.lk/s/NDZfNzgxNjAyMjlf/arena4.png",Arena Sports 4
-http://109.105.201.198/ARENASPORT4/video.m3u8?token=test
+
 
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",SSC 1
 https://stream.sainaertebat.com/hls2/ssc1.m3u8
@@ -1847,8 +1842,8 @@ http://opplex.ch:8080/live/78901234/43210987/26011.ts
 #EXTINF:-1 group-title="Pakistani News 🇵🇰📡🌐" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/pngegg.png",Dunya News
 https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 http://xtv.ooo:8080/danyear12/am809100/221346.m3u8
-https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 http://ottplan.xyz/live/FSCJREGCPC6X2EK/F9SDAW/117385.ts
+https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 #EXTINF:-1 group-title="Pakistani News 🇵🇰📡🌐" tvg-logo="https://seeklogo.com/images/2/24-news-logo-457812E3D4-seeklogo.com.png",Abb Takk News
 http://opplex.ch:8080/live/78901234/43210987/25997.ts
 #EXTINF:-1 group-title="Pakistani News 🇵🇰📡🌐" tvg-logo="https://seeklogo.com/images/D/dawn-news-logo-519959E3D4-seeklogo.com.png",Dawn News
