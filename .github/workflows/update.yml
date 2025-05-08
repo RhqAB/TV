@@ -2,7 +2,7 @@ name: Auto Merge CricHD with My Playlist
 
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    - cron: '*/10 * * * *'  # প্রতি ১০ মিনিটে চলবে
   workflow_dispatch:
 
 jobs:
@@ -17,20 +17,27 @@ jobs:
         run: |
           curl -L https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/main/ALL.m3u -o crichd.m3u
 
-      - name: Clean old CricHD section and Combine with New
+      - name: Clean old CricHD section and Combine with New (Sky Sports 1–9 excluded)
         run: |
           echo "#EXTM3U" > combined.m3u8
 
-          # Keep all lines until first CricHD line found
+          # পুরনো ফাইল থেকে CricHD অংশ বাদ দিয়ে কপি করো
           awk '/group-title="Sports Auto Update"/{exit} {print}' Github.m3u8 >> combined.m3u8
 
           echo "" >> combined.m3u8
+
+          # নতুন CricHD থেকে Sky Sports 1-9 বাদ দিয়ে যুক্ত করো
           awk '
             /^#EXTINF/ {
-              match($0, /tvg-logo="[^"]+"/, logo);
-              match($0, /, *[^,]+$/, name);
+              line = $0
+              getline url
+              # Sky Sports 1 থেকে 9 বাদ
+              if (line ~ /, *Sky Sports [1-9]$/) next
+              match(line, /tvg-logo="[^"]+"/, logo)
+              match(line, /, *[^,]+$/, name)
               if (logo[0] && name[0]) {
                 print "#EXTINF:-1 group-title=\"Sports Auto Update\" " logo[0] name[0]
+                print url
               }
               next
             }
@@ -44,5 +51,5 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add Github.m3u8
-          git diff --cached --quiet || git commit -m "Auto updated playlist with proper group-title format"
+          git diff --cached --quiet || git commit -m "Auto updated playlist (CricHD merged, Sky Sports 1–9 excluded)"
           git push
