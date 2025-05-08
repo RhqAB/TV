@@ -2,8 +2,8 @@ name: Auto Merge CricHD with My Playlist
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # প্রতি ৩০ মিনিটে
-  workflow_dispatch:
+    - cron: '*/30 * * * *'  # প্রতি ৩০ মিনিটে চলবে
+  workflow_dispatch:         # ম্যানুয়ালি রান করার অপশন
 
 jobs:
   update-playlist:
