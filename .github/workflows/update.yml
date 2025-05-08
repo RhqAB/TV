@@ -15,13 +15,7 @@ jobs:
 
       - name: Download CricHD Playlist
         run: |
-          curl -L https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u
-
-      - name: Ensure Github.m3u8 exists
-        run: |
-          if [ ! -f Github.m3u8 ]; then
-            echo "#EXTM3U" > Github.m3u8
-          fi
+          curl -L https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u -o crichd.m3u
 
       - name: Combine Playlists
         run: |
