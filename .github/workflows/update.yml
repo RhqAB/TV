@@ -17,12 +17,22 @@ jobs:
         run: |
           curl -L https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u -o crichd.m3u
 
-      - name: Combine Playlists with Group Title
+      - name: Combine Playlists with Correct Group Title Format
         run: |
           echo "#EXTM3U" > combined.m3u8
           grep -v "^#EXTM3U" Github.m3u8 >> combined.m3u8
           echo "" >> combined.m3u8
-          awk '/^#EXTINF/ {$0=$0", group-title=\"Cricket Auto Update\""} 1' crichd.m3u >> combined.m3u8
+          awk '
+            /^#EXTINF/ {
+              match($0, /tvg-logo="[^"]+"/, logo);
+              match($0, /, *[^,]+$/, name);
+              if (logo[0] && name[0]) {
+                print "#EXTINF:-1 group-title=\"Cricket Auto Update\" " logo[0] name[0]
+              }
+              next
+            }
+            { print }
+          ' crichd.m3u >> combined.m3u8
           mv combined.m3u8 Github.m3u8
 
       - name: Commit and Push if Changed
@@ -30,5 +40,5 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add Github.m3u8
-          git diff --cached --quiet || git commit -m "Auto updated playlist with CricHD [group-title added]"
+          git diff --cached --quiet || git commit -m "Auto updated playlist with proper group-title format"
           git push
