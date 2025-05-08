@@ -27,7 +27,7 @@ jobs:
               match($0, /tvg-logo="[^"]+"/, logo);
               match($0, /, *[^,]+$/, name);
               if (logo[0] && name[0]) {
-                print "#EXTINF:-1 group-title=\"Cricket Auto Update\" " logo[0] name[0]
+                print "#EXTINF:-1 group-title=\"Sports Auto Update\" " logo[0] name[0]
               }
               next
             }
