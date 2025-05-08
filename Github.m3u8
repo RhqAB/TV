@@ -1,18 +1,3 @@
-#EXTM3U
-#EXTM3U
-#EXTM3U
-#EXTM3U
-#EXTM3U
-#EXTM3U
-#EXTM3U
-#EXTM3U
-#EXTM3U
-#EXTM3U
-#EXTM3U
-#EXTM3U
-#EXTM3U
-#EXTM3U
-#EXTM3U
 
 #EXTM3U
 
@@ -84,13 +69,11 @@ http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 #EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports 1
 http://xtv.ooo:8080/danyear12/am809100/167590.ts
 #EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports 2  
-http://103.122.74.6:8888/hls/tsports.m3u8
-113069star
-http://103.122.74.6:8888/hls/tsports.m3u8
+https://dj-jadutv-by-xfireflix.netlify.app/.netlify/functions/magicxtvbdxx/t_sports.m3u8|referer=https://dj-jadutv-by-xfireflix.netlify.app/
 #EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports 3
 http://kst.moonplex.net:8080/CH2/index.m3u8
-#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports 4
-
+#EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports 4 
+http://103.122.74.6:8888/hls/tsports.m3u8
 #EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports  BDIX 1 
 http://172.20.3.1:81/Tsports-raw/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports  BDIX 2 
