@@ -1934,6 +1934,9 @@ http://tv.cloudcdn.me:80/live.ts?channelId=108&uid=7133&deviceMac=00:1A:79:4A:02
 https://line.now-ott.xyz/live/451AAD/3f41a2/108828.ts
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/3/35/Banglajago_TV_logo_%282015%29.png/revision/latest?cb=20210429041222",Bangla Jago TV
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
+#EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://www.highnewslive.in/wp-content/uploads/2023/05/imgpsh_fullsize_anim-min-1.png",High News
+https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
+
 
 
 
@@ -1989,7 +1992,6 @@ https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/ind
 https://jmp2.uk/sam-INBD1300010WP.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Republic_Bharat_logo.svg/2560px-Republic_Bharat_logo.svg.png", Republic Bharat
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/samsungin-republicbharat-samsungindia/playlist.m3u8
-
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://logonoid.com/images/ndtv-logo.png", NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@2.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=178&uid=16068&deviceMac=00:1A:79:0A:3B:2B
@@ -2010,7 +2012,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01106-associatedbroad-tv9bharatvars
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://i.postimg.cc/3w3mzfL6/Times-Now-Navbharat.png",Times Now Navbharat
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/times-now-navbharat/master.m3u8
 https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/playlist/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8
-
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/News_Nation.jpg/revision/latest?cb=20240314173310",News Nation
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-nation/nnnational.m3u8
 https://line.now-ott.xyz/live/451AAD/3f41a2/63418.ts
@@ -2028,17 +2029,26 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://stream1.livebox.co.in/VCAREhls/live.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRio7Ldnsbo_MCDsbAoDmk47Jd3yO_HNQSFDPWtvFh4mvzcZjFB_mICzwQf&s=10",Hindustan times
 
-
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/300/-/2025-04-30/2504302773000.jpg",Aaj Ki KHabar
 https://server.livelegitpro.in/aajkikhabar/aajkikhabar/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/K_News.jpeg",K News India
 https://knews.livebox.co.in/youtubehls/live.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://sudarshannews.in/images/logo.jpg",Sudarshan News
 https://ott.livelegitpro.in/pusa/sudarshantv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/300/-/2025-04-30/2504303110000.jpg", SB NEWS 24x7
 https://sbnews.livebox.co.in/sbnewshls/live.m3u8
+#EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtX058wHWZnH7S-_YTABMjy_JRAZKDfSCkvQ&s",JK NEWS 24x7
+https://live.gulistannews.in/hls/jk.m3u8
+
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://a.jsrdn.com/hls/23015/tv-punjab/logo_20231219_223846_50.png",TV Punjab
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv-punjab/master.m3u8
+#EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://images.jdmagicbox.com/comp/goa/48/0832p832std19148/catalogue/prudent-media-pvt-ltd-panjim-goa-satellite-channels-0vnf4gh49r.jpg",Prudent Media (Goa)
+https://prudentmcdn.rixcast.com/prudentm.m3u8
+
+#EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://www.sadhna.com/Channel/SADHNA-PLUS-NEWS.png",Sadhana Plus News
+https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/chunks.m3u8
+
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Ibc24-tag.png/revision/latest?cb=20230126173955",IBC24 NEWS
 https://ott-prasar.ibc24.in/master_1_TS-49410_3.m3u8
 https://livetv.ibc24.in/livestream.m3u8
@@ -2046,6 +2056,8 @@ https://livetv.ibc24.in/livestream.m3u8
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/ET_Now_Swadesh.jpg/revision/latest?cb=20211004022605",ET NOW SWADESH
 https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
+
+
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://sansadtv.nic.in/wp-content/uploads/2022/07/logo-sansad.png",Sansad TV
 https://hls.media.nic.in/live/lstv-360p/index.m3u8
 
