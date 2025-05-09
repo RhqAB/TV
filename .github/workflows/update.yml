@@ -44,7 +44,7 @@ jobs:
             {
               if (!skip) print
             }
-          ' functionerror.m3 >> combined.m3u8
+          ' functionerror.m3u >> combined.m3u8
 
           # CricHD Playlist - Add to the 'Bangladeshi TV Auto Update' group
           awk '
