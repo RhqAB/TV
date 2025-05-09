@@ -36,7 +36,9 @@ jobs:
             /^#EXTINF/ {
               line = $0
               getline url
+              # বাদ দিতে চ্যানেলের নামের সাথে মিল থাকলে skip
               if (line ~ /, *Sky Sports [1-9]$/) next
+              if (line ~ /ZEE NEWS|ABP NEWS|ABP Ananda|Nat Geo WILD|RTV Music|CNA|DW News|WINO|Al Jazeera English|News 24 Extra|Maasranga News|BTV LIVE|BanglaVision/) next
               match(line, /tvg-logo="[^"]+"/, logo)
               match(line, /, *[^,]+$/, name)
               if (logo[0] && name[0]) {
@@ -54,11 +56,11 @@ jobs:
             /^#EXTINF/ {
               line = $0
               getline url
-              # Sky Sports 1-9 বাদ দেওয়ার জন্য চেক করি
+              # বাদ দিতে চ্যানেলের নামের সাথে মিল থাকলে skip
               if (line ~ /, *Sky Sports [1-9]$/) next
+              if (line ~ /ZEE NEWS|ABP NEWS|ABP Ananda|Nat Geo WILD|RTV Music|CNA|DW News|WINO|Al Jazeera English|News 24 Extra|Maasranga News|BTV LIVE|BanglaVision/) next
               match(line, /tvg-logo="[^"]+"/, logo)
               match(line, /, *[^,]+$/, name)
-              # group-title সেট করো
               print "#EXTINF:-1 group-title=\"Bangladeshi Auto Update\" " logo[0] name[0]
               print url
               next
@@ -75,5 +77,5 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add Github.m3u8
-          git diff --cached --quiet || git commit -m "Auto updated playlist with CricHD and Bangladeshi playlist"
+          git diff --cached --quiet || git commit -m "Auto updated playlist with CricHD, Bangladeshi playlist, and skipped channels"
           git push
