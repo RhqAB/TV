@@ -15,11 +15,11 @@ jobs:
 
       - name: Download CricHD Playlist
         run: |
-          curl -L https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u -o crichd.m3
+          curl -L https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u -o crichd.m3u
 
       - name: Download Function Error Playlist
         run: |
-          curl -L https://raw.githubusercontent.com/FunctionError/YouTube_to_m3u/refs/heads/main/youtube.m3u -o functionerror.m3
+          curl -L https://raw.githubusercontent.com/FunctionError/YouTube_to_m3u/refs/heads/main/youtube.m3u -o functionerror.m3u
 
       - name: Combine Playlists with Correct Group Title Format
         run: |
