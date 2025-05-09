@@ -1,8 +1,8 @@
-name: Auto Merge CricHD and FunctionError with My Playlist
+name: Auto Merge CricHD with My Playlist
 
 on:
   schedule:
-    - cron: '*/10 * * * *'  # Every 10 minutes
+    - cron: '0 * * * *'  # প্রতি ১ ঘণ্টা চালাবে
   workflow_dispatch:
 
 jobs:
@@ -10,58 +10,42 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Download CricHD Playlist
         run: |
           curl -L https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/main/ALL.m3u -o crichd.m3u
 
-      - name: Download FunctionError Playlist
+      - name: Clean old CricHD section and Combine with New (Sky Sports 1–9 excluded)
         run: |
-          curl -L https://raw.githubusercontent.com/FunctionError/YouTube-Channel-LiveStream/main/TV.m3u -o functionerror.m3u
-
-      - name: Merge and Filter Playlists
-        run: |
+          # নতুন ফাইল শুরু করো একবারের জন্য #EXTM3U দিয়ে
           echo "#EXTM3U" > combined.m3u8
 
-          # Add FunctionError channels (Bangladeshi group)
-          awk '
-            BEGIN { skip=0 }
-            /^#EXTINF/ {
-              skip=0
-              if ($0 ~ /MZEE News|ABP NEWS|ABP Ananda|Nat Geo WILD|RTV Music|CNA|DW News|WINO|Reuters|Al Jazeera English|Maasranga News|News 24 Extra|MYTV live|BTV LIVE|Zee News|BanglaVision/) skip=1
-              if (!skip) {
-                gsub(/group-title="[^"]*"/, "group-title=\"Bangladeshi TV Auto Update\"")
-                print
-              }
-              next
-            }
-            {
-              if (!skip) print
-            }
-          ' functionerror.m3u >> combined.m3u8
+          # পুরনো ফাইল থেকে CricHD অংশ বাদ দিয়ে কপি করো
+          awk '/group-title="Sports Auto Update"/{exit} {print}' Github.m3u8 >> combined.m3u8
 
           echo "" >> combined.m3u8
 
-          # Add CricHD channels (Sports group)
+          # CricHD থেকে Sky Sports 1–9 বাদ দিয়ে নতুন অংশ যুক্ত করো
           awk '
-            BEGIN { skip=0 }
             /^#EXTINF/ {
-              skip=0
-              if ($0 ~ /MZEE News|ABP NEWS|ABP Ananda|Nat Geo WILD|RTV Music|CNA|DW News|WINO|Reuters|Al Jazeera English|Maasranga News|News 24 Extra|MYTV live|BTV LIVE|Zee News|BanglaVision/) skip=1
-              if (!skip) {
-                gsub(/group-title="[^"]*"/, "group-title=\"Sports Auto Update\"")
-                print
+              line = $0
+              getline url
+              if (line ~ /, *Sky Sports [1-9]$/) next
+              match(line, /tvg-logo="[^"]+"/, logo)
+              match(line, /, *[^,]+$/, name)
+              if (logo[0] && name[0]) {
+                print "#EXTINF:-1 group-title=\"Sports Auto Update\" " logo[0] name[0]
+                print url
               }
               next
             }
-            {
-              if (!skip) print
-            }
+            /^#EXTM3U/ { next }  # #EXTM3U বাদ দাও CricHD অংশ থেকে
+            { print }
           ' crichd.m3u >> combined.m3u8
 
-          # Replace the main playlist file
+          # ফাইনাল মিক্স ফাইলটিকে রিপ্লেস করো
           mv combined.m3u8 Github.m3u8
 
       - name: Commit and Push if Changed
@@ -69,5 +53,5 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add Github.m3u8
-          git diff --cached --quiet || git commit -m "🔁 Auto updated playlist with Bangladeshi and Sports groups"
+          git diff --cached --quiet || git commit -m "Auto updated playlist (CricHD merged, Sky Sports 1–9 excluded)"
           git push
