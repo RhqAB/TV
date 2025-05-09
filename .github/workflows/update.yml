@@ -38,7 +38,7 @@ jobs:
             {
               if (!skip) print
             }
-          ' crichd.m3 >> combined.m3u8
+          ' crichd.m3u >> combined.m3u8
           mv combined.m3u8 Github.m3u8
 
       - name: Commit and Push if Changed
