@@ -277,9 +277,9 @@ http://xtv.ooo:8080/danyear12/am809100/245902.ts
 http://m1-max.dns-speedy.com:80/529C1C/7446D7/108803
 http://103.163.247.39/local_out/channel9/video.m3u8?token=At5F1MFZYnciB3
 https://aynaxpranto.vercel.app/api/stream/56f7abf3-1586-4f6d-9df2-1726ccb43779.m3u8|referer=https://aynaxpranto.vercel.app
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png",Channel 9 BDIX
-http://172.20.3.1:81/CHannel9HD/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png",Channel 9 BDIX
+http://103.163.247.39/local_out/channel9/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://i.postimg.cc/fW2TnfV2/Background-Eraser-20240628-104749965.png",Gazi TV 
 https://dj-jadutv-by-xfireflix.netlify.app/.netlify/functions/magicxtvbdxx/gazi_tv_hd.m3u8|referer=https://dj-jadutv-by-xfireflix.netlify.app
 https://tvs2.aynaott.com/gtv/tracks-v1a1/mono.m3u8
@@ -1373,12 +1373,12 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://freelogopng.com/images/all_img/1684117450discovery-logo-png.png",Discovery HD
-http://xtv.ooo:8080/danyear12/am809100/245966.ts
+http://opplex.ch:8080/live/78901234/43210987/206287.ts
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
-https://raw.githubusercontent.com/shiki57/infinitysports/main/discovery.m3u8
 https://kusnadipepenk.github.io/ntn/disc.m3u8
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 http://xtv.ooo:8080/danyear12/am809100/245966.ts
+http://opplex.ch:8080/live/78901234/43210987/206287.ts
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://freelogopng.com/images/all_img/1684117450discovery-logo-png.png",Discovery HD BDIX
 http://172.20.3.1:81/DiscoveryHD/tracks-v1a1/mono.m3u8
 
@@ -1390,11 +1390,12 @@ http://opplextv.cyou:8080/live/global/global/109977.ts
 http://xtv.ooo:8080/danyear12/am809100/109977.ts
 http://xtv.ooo:8080/danyear12/am809100/245967.ts
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png",Investigation Discovery
-https://line.now-ott.xyz/live/451AAD/3f41a2/100789.ts
+http://opplex.ch:8080/live/78901234/43210987/206291.ts
 https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Investigation_Discovery.m3u8
 http://atg100.xyz:80/live/443432469215731/4362020837/510207.ts
 http://starshare.org:8080/live/134134/134134/23790.ts
 https://line.now-ott.xyz/live/451AAD/3f41a2/100789.ts
+http://opplex.ch:8080/live/78901234/43210987/206291.ts
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Discovery-asia.png",Discovery Asia
 https://line.now-ott.xyz/live/451AAD/3f41a2/656957.ts
 https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
@@ -1402,7 +1403,9 @@ http://tv.cloudcdn.me:80/live.ts?channelId=129247&uid=16068&deviceMac=00:1A:79:E
 http://starshare.org:8080/live/134134/134134/143086.ts
 https://line.now-ott.xyz/live/451AAD/3f41a2/656957.ts
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://skymediaglobal.b-cdn.net/wp-content/uploads/2016/01/channel-logo-discovery-history.png",Discovery History
+http://opplex.ch:8080/live/78901234/43210987/346214.ts
 http://cord-cutter.net:8080/live/70453597/56651433/53694.ts
+http://opplex.ch:8080/live/78901234/43210987/346214.ts
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://seeklogo.com/images/D/discovery-science-logo-804ACEFF86-seeklogo.com.png",Discovery Science
 https://line.now-ott.xyz/live/451AAD/3f41a2/112568.ts
 https://od.lk/s/ODRfNzIxOTE5Njdf/Investigation_Discovery.m3u8
@@ -1430,13 +1433,13 @@ http://tv.cloudcdn.me:80/live.ts?channelId=151&uid=16068&deviceMac=00:1A:79:0A:3
 http://xtv.ooo:8080/danyear12/am809100/206282.ts
 #EXTINF:-1, group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png",NAT GEO WILD
 http://xtv.ooo:8080/danyear12/am809100/206286
-http://stream02.vnet.am/NatGeoWild/tracks-v1a2/mono.m3u8
+http://opplex.ch:8080/live/78901234/43210987/206587.ts
 http://xtv.ooo:8080/danyear12/am809100/206286.ts
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",Animal Planet BDIX
 http://172.20.3.1:81/AnimalPlanetHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://i.imgur.com/5lZ8dnC.png",Wild Earth
-https://wildearth-roku.amagi.tv/masterR720P.m3u8
+http://opplex.ch:8080/live/78901234/43210987/238545.ts
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://mma.prnewswire.com/media/1174493/Wild_Planet_Foods_Logo.jpg?p=facebook",Wild Planet
 https://d3c7duantorcb1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/amgwildplanetuk/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f5340b9d-394b-4503-a723-8fde0687cafd/Hero_Real_Wild_-_Simon_Tuquabo.jpg",Real Wild
@@ -1508,20 +1511,21 @@ https://line.now-ott.xyz/live/451AAD/3f41a2/63582.ts
 http://tv.cloudcdn.me/live.ts?channelId=29704&uid=16068&deviceMac=00:1A:79:0A:3B:2B
 https://line.now-ott.xyz/live/451AAD/3f41a2/63582.ts
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://www.epicon.in/img/epic-tv.png",EPIC
-https://line.now-ott.xyz/live/451AAD/3f41a2/63587.ts
+http://opplex.ch:8080/live/78901234/43210987/206296.ts
 https://epiconvh.s.llnwi.net/epic/master.m3u8
 http://starshare.org:8080/live/134134/134134/207.ts
 https://line.now-ott.xyz/live/451AAD/3f41a2/63587.ts
+http://opplex.ch:8080/live/78901234/43210987/206296.ts
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg",History
 https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png",History TV18 HD
+http://opplex.ch:8080/live/78901234/43210987/206294.ts
 https://line.now-ott.xyz/live/451AAD/3f41a2/63515.ts
 http://14.102.123.50:5001/live/146.m3u8
 http://tv.cloudcdn.me/live.ts?channelId=70099&uid=16068&deviceMac=00:1A:79:ED:10:29
 http://starshare.org:8080/live/134134/134134/20622.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=70099&uid=15844&deviceMac=00:1A:79:ED:B7:12
-https://line.now-ott.xyz/live/451AAD/3f41a2/63515.ts
-
+http://opplex.ch:8080/live/78901234/43210987/206294.ts
 
 
 
