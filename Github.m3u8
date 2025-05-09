@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTM3U
+#EXTM3U
 #EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ",IPL BDIX T SPORTS
 https://tv.mymoviebazar.net/stream/stream56.m3u8|referer=https://tv.mymoviebazar.net
 #EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",PSL 2025 BDIX
@@ -2090,106 +2091,105 @@ https://audio.streamcast.xyz/radio/8000/radio.mp3
 
 
 
+
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/16-by-xfireflix.png", Star Sports 1
-https://m1.merichunidya.com:999/hls/star1in.m3u8?md5=5jZIOMK1QKIOe0Vi_lFRbw&expires=1746830999
+https://m2.merichunidya.com:999/hls/star1in.m3u8?md5=RDHnxXbRiZ1qncgCLFgHfw&expires=1746832499
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/1-by-xfireflix.png", Star Sports 1 Hindi
-https://off1.gogohaalmal.com:1686/hls/starhindi.m3u8?md5=HQ9jTJ-0QD9g4Yb2tSlihg&expires=1746831000
+https://m2.merichunidya.com:999/hls/starhindi.m3u8?md5=w41zr0DQy6rSI8fa3CLTJg&expires=1746832499
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/20-by-xfireflix.png", PTV Sports
-https://off1.gogohaalmal.com:1686/hls/ptvpk.m3u8?md5=PA9ETJg30xEA_wuap0TsGQ&expires=1746831000
+https://m3.merichunidya.com:999/hls/ptvpk.m3u8?md5=TzEljT5oNTCyjvHyrPpwtA&expires=1746832500
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/38-by-xfireflix.png", Willow HD
-https://m2.merichunidya.com:999/hls/willowusa.m3u8?md5=gHBhx04c9hUyJObbjyiTaQ&expires=1746831000
+https://m4.merichunidya.com:999/hls/willowusa.m3u8?md5=XWutQf7lRYi2fQMJ-14ESg&expires=1746832500
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/8-by-xfireflix.png", Willow HD 2
-https://m2.merichunidya.com:999/hls/willowextra.m3u8?md5=sba330ehRvfT5pDzHrR8lA&expires=1746831000
+https://m1.merichunidya.com:999/hls/willowextra.m3u8?md5=-3Tq6PM5hdnuDrzVuix93g&expires=1746832500
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/10-by-xfireflix.png", Ten Sports
-https://m2.merichunidya.com:999/hls/tenspk.m3u8?md5=1OJdUllBqKVr3zn9a7JjcA&expires=1746831000
+https://m1.merichunidya.com:999/hls/tenspk.m3u8?md5=s1fTwAxwtToCABvhO5Y9vA&expires=1746832500
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/12-by-xfireflix.png", A Sports HD
-https://m4.merichunidya.com:999/hls/asportshd.m3u8?md5=AMb32vYFxxwE0lkj-lrjLg&expires=1746831000
+https://m1.merichunidya.com:999/hls/asportshd.m3u8?md5=UxnjRu42-FaR-mt_kx4rBw&expires=1746832500
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/9-by-xfireflix.png", Sky Sports Cricket
-https://m4.merichunidya.com:999/hls/skyscric.m3u8?md5=OZjiNxsI9wD2Qd9IEGCC5Q&expires=1746831000
+https://m3.merichunidya.com:999/hls/skyscric.m3u8?md5=ALn6i-MUu_Z-vTROKTGOqA&expires=1746832500
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/18-by-xfireflix.png", Sky Sports Main Event
-https://m1.merichunidya.com:999/hls/skysme.m3u8?md5=4j36WR1sa15qjnszeNSNGg&expires=1746831000
+https://m2.merichunidya.com:999/hls/skysme.m3u8?md5=OTmA-KBtaLGh6XRlF65ZvA&expires=1746832500
+#EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/tnt.png", TNT 1
+https://m4.merichunidya.com:999/hls/bbtsp1.m3u8?md5=b8LRPlo3NqbycnTo-_sS3g&expires=1746832500
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/tnt.png", TNT 2
-https://m2.merichunidya.com:999/hls/bbtsp2.m3u8?md5=krqYs-VJQ0HYTzQABfclWw&expires=1746831000
+https://off1.gogohaalmal.com:1686/hls/bbtsp2.m3u8?md5=QIi4p3cbrJkZHEtz1KefQw&expires=1746832500
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/tnt.png", TNT 3
-https://m4.merichunidya.com:999/hls/bbtsp3.m3u8?md5=_StQbqWOP3XQO57jqMe-ew&expires=1746831000
+https://m3.merichunidya.com:999/hls/bbtsp3.m3u8?md5=MYkQdp6sQuxJAhnx60J1mQ&expires=1746832500
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/tnt.png", TNT 4
-https://m2.merichunidya.com:999/hls/bbtespn.m3u8?md5=5LoAFGPWYYl0l9KBamMnuw&expires=1746831001
+https://m1.merichunidya.com:999/hls/bbtespn.m3u8?md5=u4Fnw-ZDlVznmCuElepptA&expires=1746832501
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/skycinema.png", Sky Cinema
-https://m3.merichunidya.com:999/hls/skysme.m3u8?md5=Pz4kfuuyUW3dFgCndeW_Vg&expires=1746831001
+https://m2.merichunidya.com:999/hls/skysme.m3u8?md5=RDl3_1jh_V2Ts6h5GrJlmA&expires=1746832502
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/1745007829332.png", Sky Sports Action
-https://off1.gogohaalmal.com:1686/hls/skysact.m3u8?md5=5EbozOEHoaajsJZZWj_W6Q&expires=1746831001
-#EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/1745008055327.png", Sky Sports Golf
-https://m4.merichunidya.com:999/hls/skysgol.m3u8?md5=BL8XUveidwI8Ws9Lf0J7ww&expires=1746831001
+https://m2.merichunidya.com:999/hls/skysact.m3u8?md5=-_RsK40RDPKA6sV0ry4zbQ&expires=1746832502
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/43-by-xfireflix.png", Sky Sports Premier League
-https://m2.merichunidya.com:999/hls/skysprem.m3u8?md5=Cor5IWBLJHjmqYSCsaJOyA&expires=1746831002
-#EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/44-by-xfireflix.png", Sky Sports Football
-https://m3.merichunidya.com:999/hls/skysfott.m3u8?md5=88QioMwRvIQnTzcOP17UDg&expires=1746831002
+https://m2.merichunidya.com:999/hls/skysprem.m3u8?md5=tRbKdN1G73LPbpDk7E-lww&expires=1746832502
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/1745008347584.png", Sky Sports Plus
-https://off1.gogohaalmal.com:1686/hls/skysare.m3u8?md5=0iovJRF58RVxpRw5Yth_hg&expires=1746831002
+https://m1.merichunidya.com:999/hls/skysare.m3u8?md5=4Ssd68AAzBKw9-NRrOHkGQ&expires=1746832502
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/1745008468637.png", Sky Sports F1
-https://m2.merichunidya.com:999/hls/skysfor1.m3u8?md5=JenndAG7gb4KCghJ8Kruug&expires=1746831002
+https://m1.merichunidya.com:999/hls/skysfor1.m3u8?md5=xUfWeNbpCabuovHQiIgTDg&expires=1746832502
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/19-by-xfireflix.png", LaLiGA
-https://m2.merichunidya.com:999/hls/laligauk.m3u8?md5=OoS2iLrxjgQkRoEbjQ2ocQ&expires=1746831002
+https://m3.merichunidya.com:999/hls/laligauk.m3u8?md5=gNy1apMuj5LoJFYc1SYFsg&expires=1746832502
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/31-by-xfireflix.png", Premier Sports 1
-https://m1.merichunidya.com:999/hls/premieruk.m3u8?md5=jdb5UgKwWnFAQmIueB4BfA&expires=1746831002
+https://off1.gogohaalmal.com:1686/hls/premieruk.m3u8?md5=Edekc5zVZYKx2b76M-esbA&expires=1746832503
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/31-by-xfireflix.png", Premier Sports 2
-https://m3.merichunidya.com:999/hls/hdchnl2.m3u8?md5=LE1OEXjbWb1KFEyshgp7TA&expires=1746831002
+https://m3.merichunidya.com:999/hls/hdchnl2.m3u8?md5=05_nj-spZyxafzEwTrHfwg&expires=1746832503
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/34-by-xfireflix.png", Super Football
-https://m1.merichunidya.com:999/hls/superfotball.m3u8?md5=lnsCzzvlKUzowVq681ShDA&expires=1746831002
+https://m4.merichunidya.com:999/hls/superfotball.m3u8?md5=0YRl0Fzb8o4FjaOJqEmOcg&expires=1746832503
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/1745008781606.png", Super Premier League
-https://m1.merichunidya.com:999/hls/superpremier.m3u8?md5=QkUcac5i6GnM5pu6z0osqQ&expires=1746831002
+https://m4.merichunidya.com:999/hls/superpremier.m3u8?md5=Uo62U-DrGPAfhx0FRAtuqg&expires=1746832503
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/1745008895589.png", Astro Cricket
-https://off1.gogohaalmal.com:1686/hls/fox501.m3u8?md5=zHdqKkXD9RONycBdq75jjQ&expires=1746831002
+https://off1.gogohaalmal.com:1686/hls/fox501.m3u8?md5=8BSvAiwpdgPzQqL5yOfcog&expires=1746832503
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/17-by-xfireflix.png", ESPN 1
-https://m3.merichunidya.com:999/hls/espnusa.m3u8?md5=niX1_WZdFUmXHwMvWwNeZQ&expires=1746831002
+https://off1.gogohaalmal.com:1686/hls/espnusa.m3u8?md5=vi9gCbUg5DjE9RjKLmRBmA&expires=1746832503
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/17-by-xfireflix.png", ESPN 2
-https://m4.merichunidya.com:999/hls/espn2.m3u8?md5=7cHztPeKmUM5z-MfSS5L1A&expires=1746831002
+https://off1.gogohaalmal.com:1686/hls/espn2.m3u8?md5=HgwmpcvkGykybq2ialM9Wg&expires=1746832503
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/1745007829327.png", Sky Sports Arena
-https://m4.merichunidya.com:999/hls/skysare.m3u8?md5=3c_oWvfwrPpvgLTWiK8zSw&expires=1746831003
+https://m1.merichunidya.com:999/hls/skysare.m3u8?md5=enxVqiHLIo1bNvHe_DJ7Bg&expires=1746832503
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/13-by-xfireflix.png", Sky Sports Mix
-https://m3.merichunidya.com:999/hls/skysmixx.m3u8?md5=t0oHHX9_UGr8so05ARBnEw&expires=1746831003
+https://off1.gogohaalmal.com:1686/hls/skysmixx.m3u8?md5=7RiMYU6MzbRf2jCJ05LQXw&expires=1746832503
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/1745009085794.png", Sky Sports Tennis
-https://m4.merichunidya.com:999/hls/skystennis.m3u8?md5=3XkVSVBFJ2L2LzhmJvzsRQ&expires=1746831003
+https://off1.gogohaalmal.com:1686/hls/skystennis.m3u8?md5=0MTdejJnyfR_C8exhSgS1A&expires=1746832503
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://cdn.jsdelivr.net/gh/HelloPeopleTv4you/tv-logo@refs/heads/main/crichd2-runded/6-by-xfireflix.png", Fox Cricket 501 HD
-https://off1.gogohaalmal.com:1686/hls/fox501.m3u8?md5=IHFTPHUlxGFzlEpgE5x86g&expires=1746831003
+https://off1.gogohaalmal.com:1686/hls/fox501.m3u8?md5=16PicA_gzXhOthBs9QIobA&expires=1746832504
 
 #EXTINF:-1 group-title="Bangladeshi Auto Update" tvg-logo="https://yt3.googleusercontent.com/dcx8BUs_aHDYkGkTVhHpORuF1MOHI6ZM5AdG9pe9gm9Q_atfhEuq_-mO8l1h5q8qJZzlUzWSgw=s176-c-k-c0x00ffffff-no-rj", Somoy TV News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746844006/ei/BmUeaP_WDtaFkucP8Pi_8Ac/ip/20.246.77.172/id/KhP0fz_8vzk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/bui/AecWEAa9W9w3JHoMylrkvZK1mxmv99uJdQb2kuLx8IgyISB2vOia0GExj4PaY-KpWqdzHghhNrhghlMa/spc/wk1kZnilHw9dlLgd-VtMxr5JSKsnnEgPy27hN18EpBZG85hgX18x2jQ_v8z8Z8U/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgBV9zafjWKr2n7GzgzsJ2qchOGVkn7cYM9R1ZNNWIwJkCIQCX54mkOjsoLQUwFFw0dr1yYMCWj82cgY7Gc0bsRQZjhw%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi Auto Update" tvg-logo="https://yt3.googleusercontent.com/Fw5RlqUOn5ulbepVY8VU7BfJOc2E3_FqTuAJiSsgqAkeYWwF7_8QQjsbtvTAHpQGskYIh--WrQ=s176-c-k-c0x00ffffff-no-rj", Channel I news
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746844006/ei/BmUeaM-HOtSHkucP3qbI0QE/ip/20.246.77.172/id/3Us91R-gGx8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAblXCIYLTBa_BPoeS3iAqfG0F-rxclao7w0QqRqBpBh92yexambT6L-SUqX9KcIS7Xt1U6zlkVg/spc/wk1kZlvwXTpueBlII63RaR-iGbhW9HRsaJ7gaTcAYMSVrM8VhwQU8BM6I-xpk4CiC_8/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgMu4gmA7DYLn9EPscJmgH8fWyNggS88zI07Pxv8MEau4CIQCMGSkBEg3PBdUbJLJAulMY0AR-Av31B3dR90Fp2CBdNg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi Auto Update" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n0MjdgkrP1eId4ysNshsCnnnlzd2j1xHYecd9XqbVRDhs=s176-c-k-c0x00ffffff-no-rj", Jamuna TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746844007/ei/B2UeaNiLItSLkucPi_G5yQE/ip/20.246.77.172/id/pVmzbNZhOLg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/bui/AecWEAbA_NkGLgwURwOOeuFr9etK-RpcL7t2fI4SOEuOCDWBNxPDRSQhy3oSMvJw6EcJDynYSKfhdI_C/spc/wk1kZnvF_I7n0OHqBnYCuIpWMJfc0WhrfwPFz340rwUcAmtDP00A0iOxRx5RweA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgSuOqFXMJg32JX0hhDza1Mb2f8JAeuH1RouebHfmNEKsCIHQZVLsksU5sQqldUVH7XkMwohZxK9duR4eMvVzEaLQa/file/index.m3u8
+https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi Auto Update" tvg-logo="https://yt3.googleusercontent.com/SN5R2c_9uZrppnfXYz5NCXtsSMgYCHhV5hmUkoX8HR7aTY2zHPnzBY8mDJsG27Ip_O9d7tqRCw=s176-c-k-c0x00ffffff-no-rj", Rtv News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746844008/ei/CGUeaJmkCKGAkucPmJe5-QE/ip/20.246.77.172/id/yG7qLxs_QLU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAYfza2nmLJa1hZfJkskq0TkEXna_16OlpIenyf2GV1qelDcxDAq_FlVifEpONtNHaO1IpbBtY9M/spc/wk1kZjVa-O89PqMmRHP-6pgESPtwQqNwIvMWVhMSAE92OX1zBlb3Qn1689brtdM/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgYVIUdPOvBVZqY08GFNSjILjl4Pu5qhjBuV_yG_jl5xgCIFq1kS5rXYFD4XQKY8RJyZQ-1hV0-N5M7DPogznRJcpq/file/index.m3u8
+https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi Auto Update" tvg-logo="https://yt3.googleusercontent.com/5J5NFuXWxr4iUv3nxWF0genblTzZ8wU5N9NjxvZdOKkGs1U3Y_KqrojCJ5Id4N9pFeIZ3uyCKkk=s176-c-k-c0x00ffffff-no-rj", Independent Television
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746844008/ei/CGUeaKv4K-i1kucP9OzQ6Q0/ip/20.246.77.172/id/J1jbOquw0DI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAYwjox3J5AWhGJkh7HcgVy0GZkcfvczZZWdnL6fc1bKPpTylwIcCAWd2YhdplHxWWgvOn6F4kkb/spc/wk1kZmJKYdwOKcMpM6Fra367vSvqplrd8KP0seYQJBXMp-vPVfLk5SYjnYFc2p4/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51466642/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgKHjT32hQ-1fjMyJj-Q05dPnrpDMZIg1V-q6o-eGIiHwCIQDTlqN1Ab6fxWOLZH8-OPTHFNsPPTJ-I1hBYFkew9l0jw%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi Auto Update" tvg-logo="https://yt3.googleusercontent.com/KoJ2pT4X6j0kPf8g8MRv5MaRVR_ZRW18Fyb_U0U7azCr10kQEtpY5GIz3M9GZ0ZQazfGaP9I=s176-c-k-c0x00ffffff-no-rj", Ekattor Television
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746844009/ei/CWUeaM7OHtq3kucPzeC86AE/ip/20.246.77.172/id/zrQRRs8Ugr4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maudio/1/gcr/us/bui/AecWEAZg19WfLUF-dKW6_X1V0D0iDOkJim5OJE5TdZiJ1fTUH8YjxSGdJqQwLcKPlCMUgqvsA_vUMG12/spc/wk1kZohfpObvA0TbHLCAF5oFI_0iwFi1zjeYmQJ98L_378q9-2dPnpYs8thGQuQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51466642/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAOI4_fSoe6w57mq-GCCl7OD14WY5G8Y3r3j6altfT_gOAiBZaI1xJPfdeFnm7sTus5gxfoL59tIcRhMd_0E8szcchg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi Auto Update" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nJvd39yF9X0EUIvL1zXd-URsrX3-Syd_xphBRKHrt5bW0=s176-c-k-c0x00ffffff-no-rj", Atn newsltd
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746844010/ei/CmUeaI7jB860kucPq8bG6Q0/ip/20.246.77.172/id/uss8Ovxj12s.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAar7oFdnGqm21tpzqXofgSbDtxPHS8g9UuQDzgCJDCKU0-iTf1GtmjBGLeENsLOVbN5Rpn2k9xY/spc/wk1kZh9PM-C1kquS7DIziKR5li7Tm-VNySFQlYruwycdLs_hZ0Pjv8Hey3umoqs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51466698/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAN4cRhhqkIYianSxRKcVGS-wneKGdvl5t9PtZUDgshthAiA_lacrZuDgHMoQoN1_aYg6EnIO4vk9jDs_mkKZXi2y5A%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 
 
 #EXTINF:-1 group-title="Bangladeshi Auto Update" tvg-logo="https://yt3.googleusercontent.com/6HDLsKKFbUIuEMbMP-f5RJ3m6kitqb-5MC9bxf4RfmoamWg0uEktC6nFjDt73m1CSkuK3NXm=s176-c-k-c0x00ffffff-no-rj", Channel 24
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746844011/ei/C2UeaN2DLtiFkucP662Y6A0/ip/20.246.77.172/id/K6JysiJ7exo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAaUrSGks4g7Mf8rndiAa-fcXumGbLg3Lwmu_B-YEXfWt1XysmZyU-tV5JEExxCSlyeG6hHA767c/spc/wk1kZhKcvrAzGaxpgoFwy70ELkjfLBETKjmFcDRG2gso1rbvS87zI_pt4_M0j58/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgYwzNSDvgqRCyrvpgHnXArPixTAjko3lKxIvl3zSe6vgCIQDXOd4WZ42QkNdLCxKXSS9RInsZDwWIeufinoSV2PSidA%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi Auto Update" tvg-logo="https://yt3.googleusercontent.com/eqxKhU9ty3Kr1CsG8bYcsAvXzEItOmE4qMxydBPg0i6w1jBiAiz6dJjnggYXz9mJQ1R05ZGv=s176-c-k-c0x00ffffff-no-rj", Ntv Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746844012/ei/DGUeaN2QFee0kucPhJqS0AE/ip/20.246.77.172/id/HRYSQ90PZDY.20/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51437492/txs/51437492%2C51437493%2C51437494%2C51437495/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAbtuZDzAfWRm5ZCGK9j6wQ4UMmITSaIsAewInBmY7t-em-qCV_Q-8VIbVo1vBwa62qh2EmPtaUu/spc/wk1kZvl5FbGUJAFWqa00hYHxZq9RegJwWlSR9OvcoNPWVlU7hcPDyNJTefzndpA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgQ2Fj1PzZWJkFMLK84tZst2Q8aJA1J9HLY7izga2DUosCIQDqZqGZWdCqyzGiFl4Iq3lcbck9zYmexUBAjC7p97QD1Q%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi Auto Update" tvg-logo="https://yt3.googleusercontent.com/oG8z-BPo2bbfUxta79CTDiK0PLBJMp329D0v3aJTT44F8YAP1SwYBfL9pC2fTVljqkdlHMZUOpw=s176-c-k-c0x00ffffff-no-rj", Ekhon Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746844012/ei/DGUeaN3LO_2KkucPzLOqiAI/ip/20.246.77.172/id/i-mWMkYmaxs.5~45367092/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAZ7o-dJfRXcBzQCWkNgERDIi_TAwKrdK55xJVnDJ07Nld0W8vvdXnQAaFTNifEMGRWFpZ5-XXMB/spc/wk1kZhwGEAnrm8m3qSay_KbC-3mn34mFXe9H_7Mr0es-LNiBGpf31oFK9s4_3xE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51466698/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgJ6U--OMq7rwmieDhMfBf271bd4qUtJ3pUWSjf6ynJVYCIDnkQ8nFlCdYMt4NGSVUQaqlQHkwX9uHpWJRRH4O_Qk2/file/index.m3u8
+https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi Auto Update" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kH8ZRrqmyMFB8LuxDJL5OFx2M-hHRDgBZ8mg_tClpGxGQ=s176-c-k-c0x00ffffff-no-rj", DBC Live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746844013/ei/DWUeaKrnJJ6AkucP09GK6AI/ip/20.246.77.172/id/cEg9y3PpT8w.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51474952/txs/51474945%2C51474946%2C51474947%2C51474948%2C51474949%2C51474950%2C51474951%2C51474952/hfr/1/maudio/1/gcr/us/bui/AecWEAaVatiw-T9Z_hUwgSuvroJD5GAYrfdW4KUnxj5pWsZbOQFO9F6t2fCLi612W9Ez-7oPL3C-S9Tz/spc/wk1kZlZoV_0sScFk6m9cATZQAD8__lJxRhcGCWL2VWt_mKRttHSQm5jwWq0t-EA/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51466643/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgd3U4rPr5vOMVM9cw94WrBGOp-1Ct5e-KNVZjWu2Up8cCIQD29quORmwCM1zNv_t7eW4RmCrZjdA5basd7Rcmsx3sTQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 
 
 #EXTINF:-1 group-title="Bangladeshi Auto Update" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lDIrPets2sL60aHssqiKPYPG_hKToPg-pWEEwCiuujfUM=s176-c-k-c0x00ffffff-no-rj", MYTV live
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746844014/ei/DmUeaN6-H_O_kucPg4S-2AI/ip/20.246.77.172/id/NvN6pvpN7FI.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAZUXsHNpanUKaLlpY47QR4kaLM_VxAznOrsHZRG-7NAtqQVkR8csGPsV9Q2pJe1rHUwJSRWalNH/spc/wk1kZmE5fzlGwdQd4NO2FBHV-gQfgcI55oCS95TOU921Ib4ULYg3bbu2sTsd5LE/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51466643/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAKM7raAeTQTBJKFw68mWl_Bu5fXERH_W05KlJvq_E6D-AiAwae0YmLDJ0N5Ivz3iFihCHRhKVIPF8Mr6x7J4NNqyyg%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/FunctionError/Logos/main/PiratesTv/master.m3u8
 
 
 
