@@ -1,8 +1,8 @@
-name: Auto Merge CricHD and YouTube with My Playlist
+name: Auto Merge CricHD with My Playlist
 
 on:
   schedule:
-    - cron: '0 * * * *'  # প্রতি ১ ঘণ্টায় চলবে
+    - cron: '0 * * * *'  # 1 hour update frequency
   workflow_dispatch:
 
 jobs:
@@ -13,19 +13,23 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Download CricHD and YouTube Playlists
+      - name: Download CricHD Playlist
         run: |
           curl -L https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u -o crichd.m3u
-          curl -L https://raw.githubusercontent.com/FunctionError/YouTube_to_m3u/refs/heads/main/youtube.m3u -o youtube_raw.m3u
 
-      - name: Filter and Format YouTube Playlist
+      - name: Combine Playlists with Correct Group Title Format
         run: |
-          echo "#EXTM3U" > youtube_filtered.m3u
-          awk 'BEGIN { skip=0 } 
+          echo "#EXTM3U" > combined.m3u8
+          grep -v "^#EXTM3U" Github.m3u8 >> combined.m3u8
+          echo "" >> combined.m3u8
+          awk '
+            BEGIN { IGNORECASE=1; skip=0 }
             /^#EXTINF/ {
               skip=0
-              if ($0 ~ /MZEE News|ABP NEWS|ABP Ananda|Nat Geo WILD|RTV Music|CNA|DW News|WINO|Reuters|Al Jazeera English|Maasranga News|News 24 Extra|MYTV live|BTV LIVE|Zee News|Banglavision/) skip=1
+              # Skipping the channels that need to be excluded
+              if ($0 ~ /MZEE News|ABP NEWS|ABP Ananda|Nat Geo WILD|RTV Music|CNA|DW News|WINO|Reuters|Al Jazeera English|Maasranga News|News 24 Extra|MYTV live|BTV LIVE|Zee News|BanglaVision/) skip=1
               if (!skip) {
+                # Adding group-title to the remaining channels
                 gsub(/group-title="[^"]*"/, "group-title=\"Bangladeshi TV Auto Update\"")
                 print
               }
@@ -34,38 +38,13 @@ jobs:
             {
               if (!skip) print
             }
-          ' youtube_raw.m3u >> youtube_filtered.m3u
-
-      - name: Format CricHD Playlist
-        run: |
-          echo "#EXTM3U" > crichd_formatted.m3u
-          awk '
-            BEGIN {print ""}
-            /^#EXTINF/ {
-              match($0, /tvg-logo="[^"]+"/, logo);
-              match($0, /, *[^,]+$/, name);
-              if (logo[0] && name[0]) {
-                print "#EXTINF:-1 group-title=\"Sports Auto Update\" " logo[0] name[0]
-              }
-              next
-            }
-            { print }
-          ' crichd.m3u >> crichd_formatted.m3u
-
-      - name: Merge Playlists at the End
-        run: |
-          head -n 1 Github.m3u8 > new_playlist.m3u8
-          awk 'NR>1 {print}' Github.m3u8 | sed '/^$/d' >> new_playlist.m3u8
-          echo "" >> new_playlist.m3u8
-          tail -n +2 crichd_formatted.m3u >> new_playlist.m3u8
-          echo "" >> new_playlist.m3u8
-          tail -n +2 youtube_filtered.m3u >> new_playlist.m3u8
-          mv new_playlist.m3u8 Github.m3u8
+          ' crichd.m3 >> combined.m3u8
+          mv combined.m3u8 Github.m3u8
 
       - name: Commit and Push if Changed
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add Github.m3u8
-          git diff --cached --quiet || git commit -m "Auto updated playlist with CricHD and YouTube (BD) at the end"
+          git diff --cached --quiet || git commit -m "Auto updated playlist with proper group-title format"
           git push
