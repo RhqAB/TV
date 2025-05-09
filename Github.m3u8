@@ -1,9 +1,4 @@
-#EXTM3U
-#EXTM3U
-#EXTM3U
-#EXTM3U
-#EXTM3U
-#EXTM3U
+
 #EXTM3U
 
 
@@ -996,10 +991,12 @@ http://xsmarters.top:8080/live/Saifullah222/Saifullah222/167570.ts
 http://premiumdedi.one/live/Jubilant7Relative/xmb1HEJBsY/451460.ts
 https://mhdstream.com/sliv/stream.php?id=578079&e=.m3u8|referer=https://mhdstream.com//
 http://xtv.ooo:8080/live/danyear12/am809100/167570.ts
+
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",Sony Sports Ten 1 HD Backup 
+https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
+
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",Sony Sports Ten 1 BDIX
 http://tv.dugdugilive.com:8080/0ne$ky23/sonyten1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",Sony Sports Ten 1 HD Backup (5s Loading)
-
 
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",Sony Sports Ten 2 HD
 http://xtv.ooo:8080/live/danyear12/am809100/167571.ts
@@ -1011,8 +1008,8 @@ http://xtv.ooo:8080/live/danyear12/am809100/167571.ts
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",Sony Sports Ten 2 HD BDIX
 http://tv.dugdugilive.com:8080/0ne$ky23/sonyten2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",Sony Sports Ten 2 HD Backup (5s Loading)
-https://rex-streaming.vercel.app/api/x/167571.m3u8
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png",Sony Sports Ten 2 HD Backup
+https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png",Sony Sports Ten 3 HD 
 http://xtv.ooo:8080/live/danyear12/am809100/167572.ts
 http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=3788&deviceMac=00:1A:79:0A:3B:2B
@@ -1022,6 +1019,7 @@ https://mhdstream.com/sliv/stream.php?id=36523652&e=.m3u8|referer=https://mhdstr
 http://xtv.ooo:8080/live/danyear12/am809100/167572.ts
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png",Sony Sports Ten 3 HD Backup (5s Loading)
 https://rex-streaming.vercel.app/api/x/167572.m3u8
+https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png",Sony Sports Ten 3 BDIX
 http://tv.dugdugilive.com:8080/0ne$ky23/sonyten3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",Sony Sports Ten 4 HD
@@ -1030,7 +1028,7 @@ http://176.119.29.52/live.ts?channelId=105349&uid=15834&deviceMac=00:1A:79:40:26
 http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=3788&deviceMac=00:1A:79:0A:3B:2B
 http://xtv.ooo:8080/live/danyear12/am809100/167595.ts
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_HD.png",Sony Sports Ten 4 HD Backup
-
+https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png/revision/latest/scale-to-width-down/460?cb=20221025091902",Sony Sports Ten 5 HD
 http://xtv.ooo:8080/danyear12/am809100/167580
 http://tv.cloudcdn.me/live.ts?channelId=105350&uid=16068&deviceMac=00:1A:79:0A:3B:2B
@@ -1044,11 +1042,11 @@ http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/tracks-v1a1/mono.m3u8
 http://172.19.178.29:18190/CLOUD-TV-01/tracks-v1a1/mono.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png/revision/latest/scale-to-width-down/460?cb=20221025091902",Sony Sports Ten 5 HD Backup (5s Loading)
-
+https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://origin-staticv2.sonyliv.com/UI_icons/fallback_sonyliv_logo.png",Sony Live
 
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png",Ten Sports
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+http://xtv.ooo:8080/danyear12/am809100/167569.ts
 http://opplextv.cyou:8080/live/global/global/167569.ts
 http://xtv.ooo:8080/danyear12/am809100/167569.ts
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png",Ten Sports BDIX
@@ -1688,12 +1686,13 @@ http://tv.cloudcdn.me/live.ts?channelId=40476&uid=13603&deviceMac=00:1A:79:0A:3B
 http://starshare.org:8080/live/134134/134134/207.ts
 https://line.now-ott.xyz/live/451AAD/3f41a2/1440977.ts
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png", SONY YAY!
-http://xtv.ooo:8080/live/danyear12/am809100/26187.ts
+https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 http://crystalott.net:80/live/BE2ZKMLVXR/I6WSJJXXZ1/3135.ts
 http://31.43.191.49:25461/live/richard/8sYDdCLMazvM/91619.ts
 https://keralamaxtv.com/sliv/stream.php?id=168569&e=.m3u8|referer=https://keralamaxtv.com//
 http://m1-max.dns-speedy.com:80/529C1C/7446D7/97825
 http://xtv.ooo:8080/live/danyear12/am809100/26187.ts
+https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png", SONY YAY! BDIX
 http://172.20.3.1:81/SonyYAY/tracks-v1a1/mono.m3u8
 
@@ -2299,19 +2298,6 @@ https://stream-154.zeno.fm/risgdzpf1cxtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ
 #EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfR3ZBviA9qW2MDR_qoc3AESyPPaMRxsT8nQ&s",Radio Goongoon
 https://audio.streamcast.xyz/radio/8000/radio.mp3
 https://audio.streamcast.xyz/radio/8000/radio.mp3
-
-
-
-
-
-#EXTM3U
-
-
-
-
-
-
-
 
 
 
