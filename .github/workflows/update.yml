@@ -17,16 +17,41 @@ jobs:
         run: |
           curl -L https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u -o crichd.m3
 
+      - name: Download Function Error Playlist
+        run: |
+          curl -L https://raw.githubusercontent.com/FunctionError/YouTube_to_m3u/refs/heads/main/youtube.m3u -o functionerror.m3
+
       - name: Combine Playlists with Correct Group Title Format
         run: |
           echo "#EXTM3U" > combined.m3u8
           grep -v "^#EXTM3U" Github.m3u8 >> combined.m3u8
           echo "" >> combined.m3u8
+          
+          # Function Error Playlist - Exclude specified channels and add to the 'Bangladeshi TV Auto Update' group
           awk '
             BEGIN { IGNORECASE=1; skip=0 }
             /^#EXTINF/ {
               skip=0
-              # Skipping the channels that need to be excluded
+              # Skipping the channels that need to be excluded from Function Error Playlist
+              if ($0 ~ /MZEE News|ABP NEWS|ABP Ananda|Nat Geo WILD|RTV Music|CNA|DW News|WINO|Reuters|Al Jazeera English|Maasranga News|News 24 Extra|MYTV live|BTV LIVE|Zee News|BanglaVision/) skip=1
+              if (!skip) {
+                # Adding group-title to the remaining channels
+                gsub(/group-title="[^"]*"/, "group-title=\"Bangladeshi TV Auto Update\"")
+                print
+              }
+              next
+            }
+            {
+              if (!skip) print
+            }
+          ' functionerror.m3 >> combined.m3u8
+
+          # CricHD Playlist - Add to the 'Bangladeshi TV Auto Update' group
+          awk '
+            BEGIN { IGNORECASE=1; skip=0 }
+            /^#EXTINF/ {
+              skip=0
+              # Skipping the channels that need to be excluded from CricHD Playlist
               if ($0 ~ /MZEE News|ABP NEWS|ABP Ananda|Nat Geo WILD|RTV Music|CNA|DW News|WINO|Reuters|Al Jazeera English|Maasranga News|News 24 Extra|MYTV live|BTV LIVE|Zee News|BanglaVision/) skip=1
               if (!skip) {
                 # Adding group-title to the remaining channels
@@ -39,6 +64,7 @@ jobs:
               if (!skip) print
             }
           ' crichd.m3 >> combined.m3u8
+          
           mv combined.m3u8 Github.m3u8
 
       - name: Commit and Push if Changed
