@@ -2,7 +2,7 @@ name: Auto Merge CricHD with My Playlist
 
 on:
   schedule:
-    - cron: '*/10 * * * *'  # প্রতি ১০ মিনিটে চলবে
+    - cron: '0 * * * *'  # প্রতি ১ ঘণ্টা চালাবে
   workflow_dispatch:
 
 jobs:
@@ -19,6 +19,7 @@ jobs:
 
       - name: Clean old CricHD section and Combine with New (Sky Sports 1–9 excluded)
         run: |
+          # নতুন ফাইল শুরু করো একবারের জন্য #EXTM3U দিয়ে
           echo "#EXTM3U" > combined.m3u8
 
           # পুরনো ফাইল থেকে CricHD অংশ বাদ দিয়ে কপি করো
@@ -26,12 +27,11 @@ jobs:
 
           echo "" >> combined.m3u8
 
-          # নতুন CricHD থেকে Sky Sports 1-9 বাদ দিয়ে যুক্ত করো
+          # CricHD থেকে Sky Sports 1–9 বাদ দিয়ে নতুন অংশ যুক্ত করো
           awk '
             /^#EXTINF/ {
               line = $0
               getline url
-              # Sky Sports 1 থেকে 9 বাদ
               if (line ~ /, *Sky Sports [1-9]$/) next
               match(line, /tvg-logo="[^"]+"/, logo)
               match(line, /, *[^,]+$/, name)
@@ -41,9 +41,11 @@ jobs:
               }
               next
             }
+            /^#EXTM3U/ { next }  # #EXTM3U বাদ দাও CricHD অংশ থেকে
             { print }
           ' crichd.m3u >> combined.m3u8
 
+          # ফাইনাল মিক্স ফাইলটিকে রিপ্লেস করো
           mv combined.m3u8 Github.m3u8
 
       - name: Commit and Push if Changed
