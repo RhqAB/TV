@@ -1,8 +1,8 @@
-name: Auto Merge CricHD and FunctionError Playlists
+name: Auto Merge CricHD and FunctionError with My Playlist
 
 on:
   schedule:
-    - cron: '*/10 * * * *'  # প্রতি 10 মিনিটে চলবে
+    - cron: '*/10 * * * *'  # Every 10 minutes
   workflow_dispatch:
 
 jobs:
@@ -10,29 +10,27 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: রেপোজিটরি চেকআউট
+      - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: FunctionError Playlist ডাউনলোড
-        run: |
-          curl -L https://raw.githubusercontent.com/yourusername/FunctionError-Playlist/main/Github.m3u8 -o functionerror.m3u8
-
-      - name: CricHD Playlist ডাউনলোড
+      - name: Download CricHD Playlist
         run: |
           curl -L https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/main/ALL.m3u -o crichd.m3u
 
-      - name: প্লেলিস্ট সংযুক্তকরণ এবং ফিল্টারিং
+      - name: Download FunctionError Playlist
+        run: |
+          curl -L https://raw.githubusercontent.com/FunctionError/YouTube-Channel-LiveStream/main/TV.m3u -o functionerror.m3u
+
+      - name: Merge and Filter Playlists
         run: |
           echo "#EXTM3U" > combined.m3u8
 
-          # FunctionError থেকে Bangladeshi চ্যানেল ফিল্টার ও সংযোজন
+          # Add FunctionError channels (Bangladeshi group)
           awk '
-            BEGIN { IGNORECASE=1; skip=0 }
+            BEGIN { skip=0 }
             /^#EXTINF/ {
               skip=0
-              if ($0 ~ /MZEE News|ABP NEWS|ABP Ananda|Nat Geo WILD|RTV Music|CNA|DW News|WINO|Reuters|Al Jazeera English|Maasranga News|News 24 Extra|MYTV live|BTV LIVE|Zee News|BanglaVision|Sony Sports|Star Sports|T Sports/) {
-                skip=1
-              }
+              if ($0 ~ /MZEE News|ABP NEWS|ABP Ananda|Nat Geo WILD|RTV Music|CNA|DW News|WINO|Reuters|Al Jazeera English|Maasranga News|News 24 Extra|MYTV live|BTV LIVE|Zee News|BanglaVision/) skip=1
               if (!skip) {
                 gsub(/group-title="[^"]*"/, "group-title=\"Bangladeshi TV Auto Update\"")
                 print
@@ -42,18 +40,16 @@ jobs:
             {
               if (!skip) print
             }
-          ' functionerror.m3u8 >> combined.m3u8
+          ' functionerror.m3u >> combined.m3u8
 
           echo "" >> combined.m3u8
 
-          # CricHD থেকে Sports চ্যানেল ফিল্টার ও সংযোজন
+          # Add CricHD channels (Sports group)
           awk '
-            BEGIN { IGNORECASE=1; skip=0 }
+            BEGIN { skip=0 }
             /^#EXTINF/ {
               skip=0
-              if ($0 ~ /MZEE News|ABP NEWS|ABP Ananda|Nat Geo WILD|RTV Music|CNA|DW News|WINO|Reuters|Al Jazeera English|Maasranga News|News 24 Extra|MYTV live|BTV LIVE|Zee News|BanglaVision|Sony Sports|Star Sports|T Sports/) {
-                skip=1
-              }
+              if ($0 ~ /MZEE News|ABP NEWS|ABP Ananda|Nat Geo WILD|RTV Music|CNA|DW News|WINO|Reuters|Al Jazeera English|Maasranga News|News 24 Extra|MYTV live|BTV LIVE|Zee News|BanglaVision/) skip=1
               if (!skip) {
                 gsub(/group-title="[^"]*"/, "group-title=\"Sports Auto Update\"")
                 print
@@ -65,12 +61,13 @@ jobs:
             }
           ' crichd.m3u >> combined.m3u8
 
+          # Replace the main playlist file
           mv combined.m3u8 Github.m3u8
 
-      - name: পরিবর্তন হলে কমিট এবং পুশ
+      - name: Commit and Push if Changed
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add Github.m3u8
-          git diff --cached --quiet || git commit -m "Auto updated playlist with proper group-title format and filters"
+          git diff --cached --quiet || git commit -m "🔁 Auto updated playlist with Bangladeshi and Sports groups"
           git push
