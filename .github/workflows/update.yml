@@ -2,7 +2,7 @@ name: Auto Merge CricHD with My Playlist
 
 on:
   schedule:
-    - cron: '0 * * * *'  # 1 hour update frequency
+    - cron: '*/30 * * * *'  # 30 minute update frequency
   workflow_dispatch:
 
 jobs:
@@ -15,7 +15,7 @@ jobs:
 
       - name: Download CricHD Playlist
         run: |
-          curl -L https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u -o crichd.m3u
+          curl -L https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u -o crichd.m3
 
       - name: Combine Playlists with Correct Group Title Format
         run: |
@@ -38,7 +38,7 @@ jobs:
             {
               if (!skip) print
             }
-          ' crichd.m3u >> combined.m3u8
+          ' crichd.m3 >> combined.m3u8
           mv combined.m3u8 Github.m3u8
 
       - name: Commit and Push if Changed
