@@ -2,7 +2,7 @@ name: Auto Merge CricHD and YouTube with My Playlist
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 * * * *'  # প্রতি ১ ঘণ্টায় চলবে
   workflow_dispatch:
 
 jobs:
@@ -24,7 +24,7 @@ jobs:
           awk 'BEGIN { skip=0 } 
             /^#EXTINF/ {
               skip=0
-              if ($0 ~ /ZEE News|ABP NEWS|ABP Ananda|Nat Geo WILD|RTV Music|CNA|DW News|WINO|Reuters|Al Jazeera English|Maasranga News|News 24 Extra|MYTV live|BTV LIVE/) skip=1
+              if ($0 ~ /MZEE News|ABP NEWS|ABP Ananda|Nat Geo WILD|RTV Music|CNA|DW News|WINO|Reuters|Al Jazeera English|Maasranga News|News 24 Extra|MYTV live|BTV LIVE|Zee News|Banglavision/) skip=1
               if (!skip) {
                 gsub(/group-title="[^"]*"/, "group-title=\"Bangladeshi TV Auto Update\"")
                 print
@@ -52,18 +52,14 @@ jobs:
             { print }
           ' crichd.m3u >> crichd_formatted.m3u
 
-      - name: Merge Playlists in the Middle
+      - name: Merge Playlists at the End
         run: |
           head -n 1 Github.m3u8 > new_playlist.m3u8
-          awk 'NR>1 {print}' Github.m3u8 | sed '/^$/d' > temp.m3u8
-          split_line=$(( $(wc -l < temp.m3u8) / 2 ))
-          head -n $split_line temp.m3u8 >> new_playlist.m3u8
+          awk 'NR>1 {print}' Github.m3u8 | sed '/^$/d' >> new_playlist.m3u8
           echo "" >> new_playlist.m3u8
           tail -n +2 crichd_formatted.m3u >> new_playlist.m3u8
           echo "" >> new_playlist.m3u8
           tail -n +2 youtube_filtered.m3u >> new_playlist.m3u8
-          echo "" >> new_playlist.m3u8
-          tail -n +$((split_line + 1)) temp.m3u8 >> new_playlist.m3u8
           mv new_playlist.m3u8 Github.m3u8
 
       - name: Commit and Push if Changed
@@ -71,5 +67,5 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add Github.m3u8
-          git diff --cached --quiet || git commit -m "Auto updated playlist with CricHD and YouTube (BD) merged"
+          git diff --cached --quiet || git commit -m "Auto updated playlist with CricHD and YouTube (BD) at the end"
           git push
