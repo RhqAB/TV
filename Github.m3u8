@@ -869,6 +869,8 @@ https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=starhindi
 http://starshare.org:8080/live/134134/134134/98866.ts
 https://line.now-ott.xyz/live/451AAD/3f41a2/63560.ts
 http://xtv.ooo:8080/live/danyear12/am809100/167573.ts
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/SS1Hindi-removebg-preview.png",Star Sports 1 Hindi Backup
+http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/STAR_Sports_2_logo.png/revision/latest/scale-to-width-down/200?cb=20150719162835",Star Sports 2 HD
 http://xtv.ooo:8080/danyear12/am809100/167576.ts
 https://line.now-ott.xyz/live/451AAD/3f41a2/63540.ts
@@ -1282,7 +1284,10 @@ http://atg100.xyz:80/live/443432469215731/4362020837/311557.ts
 
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://od.lk/s/NDZfNzgxNjAyMjlf/arena4.png",Arena Sports 4
 
-
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgeokB_OfolYxQcliQKXWRlypLRRkB6xNjWQ&s",Sport italia
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork_negative/ae70b6f8-8adb-4146-becd-4e069f5277c0-sport-italia-1643297885-width308-quality90.png",Sport Italia Plus
+https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",SSC 1
 https://stream.sainaertebat.com/hls2/ssc1.m3u8
 http://nks24.com:8080/play/live.php?mac=00:1A:79:62:95:55&stream=266420&extension=ts
@@ -1343,6 +1348,8 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/dubaisportshd/chunklist.m3u8
 
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://i.imgur.com/Kgfo9ty.jpg",Dubai Sports 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/dubaisportshd5/chunklist.m3u8
+
+
 
 
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3f/Ariana_television_logo.png/revision/latest/scale-to-width-down/220?cb=20200803220039",ATN Afghanistan
@@ -1773,6 +1780,7 @@ https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD4700007IQ_20240912T093650SQUARE.png",Q Toonz
 
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBD47000042I_20240912T093648SQUARE.png", The Q Kahaniyan
+
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://a.jsrdn.com/hls/23131/toonzkids/logo_20231219_223312_67.png",ToonzKids
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN2500003JW_20240912T093645SQUARE.png", Powerkids Kartoon Channel
