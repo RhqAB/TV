@@ -2,7 +2,7 @@ name: Auto Merge CricHD with My Playlist and Bangladeshi Auto Update
 
 on:
   schedule:
-    - cron: 'H/50 * * * *'  # প্রতি ৫০ মিনিটে চালাবে
+      - cron: '*/10 * * * *'  # প্রতি ১০ মিনিটে চালাবে
   workflow_dispatch:
 
 jobs:
