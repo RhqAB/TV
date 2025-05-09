@@ -52,7 +52,7 @@ jobs:
             /^#EXTINF/ {
               skip=0
               # Skipping the channels that need to be excluded from CricHD Playlist
-              if ($0 ~ /MZEE News|ABP NEWS|ABP Ananda|Nat Geo WILD|RTV Music|CNA|DW News|WINO|Reuters|Al Jazeera English|Maasranga News|News 24 Extra|MYTV live|BTV LIVE|Zee News|BanglaVision/) skip=1
+              if ($0 ~ /MZEE News|ABP NEWS|ABP Ananda|Nat Geo WILD|RTV Music|CNA|DW News|WINO|Reuters|Al Jazeera English|Maasranga News|News 24 Extra|MYTV live|BTV LIVE|Zee News|BanglaVision|Sky Sports 1|Sky Sports 2|Sky Sports 3|Sky Sports 4|Sky Sports 5|Sky Sports 6|Sky Sports 7|Sky Sports 8|Sky Sports 9/) skip=1
               if (!skip) {
                 # Adding group-title to the remaining channels
                 gsub(/group-title="[^"]*"/, "group-title=\"Bangladeshi TV Auto Update\"")
