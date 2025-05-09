@@ -1,8 +1,8 @@
-name: Auto Merge CricHD with My Playlist
+name: Auto Merge CricHD and FunctionError Playlists
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # 30 minute update frequency
+    - cron: '*/10 * * * *'  # প্রতি 10 মিনিটে চলবে
   workflow_dispatch:
 
 jobs:
@@ -10,32 +10,30 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: রেপোজিটরি চেকআউট
         uses: actions/checkout@v3
 
-      - name: Download CricHD Playlist
+      - name: FunctionError Playlist ডাউনলোড
         run: |
-          curl -L https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u -o crichd.m3u
+          curl -L https://raw.githubusercontent.com/yourusername/FunctionError-Playlist/main/Github.m3u8 -o functionerror.m3u8
 
-      - name: Download Function Error Playlist
+      - name: CricHD Playlist ডাউনলোড
         run: |
-          curl -L https://raw.githubusercontent.com/FunctionError/YouTube_to_m3u/refs/heads/main/youtube.m3u -o functionerror.m3u
+          curl -L https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/main/ALL.m3u -o crichd.m3u
 
-      - name: Combine Playlists with Correct Group Title Format
+      - name: প্লেলিস্ট সংযুক্তকরণ এবং ফিল্টারিং
         run: |
           echo "#EXTM3U" > combined.m3u8
-          grep -v "^#EXTM3U" Github.m3u8 >> combined.m3u8
-          echo "" >> combined.m3u8
-          
-          # Function Error Playlist - Exclude specified channels and add to the 'Bangladeshi TV Auto Update' group
+
+          # FunctionError থেকে Bangladeshi চ্যানেল ফিল্টার ও সংযোজন
           awk '
             BEGIN { IGNORECASE=1; skip=0 }
             /^#EXTINF/ {
               skip=0
-              # Skipping the channels that need to be excluded from Function Error Playlist
-              if ($0 ~ /MZEE News|ABP NEWS|ABP Ananda|Nat Geo WILD|RTV Music|CNA|DW News|WINO|Reuters|Al Jazeera English|Maasranga News|News 24 Extra|MYTV live|BTV LIVE|Zee News|BanglaVision/) skip=1
+              if ($0 ~ /MZEE News|ABP NEWS|ABP Ananda|Nat Geo WILD|RTV Music|CNA|DW News|WINO|Reuters|Al Jazeera English|Maasranga News|News 24 Extra|MYTV live|BTV LIVE|Zee News|BanglaVision|Sony Sports|Star Sports|T Sports/) {
+                skip=1
+              }
               if (!skip) {
-                # Adding group-title to the remaining channels
                 gsub(/group-title="[^"]*"/, "group-title=\"Bangladeshi TV Auto Update\"")
                 print
               }
@@ -44,18 +42,20 @@ jobs:
             {
               if (!skip) print
             }
-          ' functionerror.m3u >> combined.m3u8
+          ' functionerror.m3u8 >> combined.m3u8
 
-          # CricHD Playlist - Add to the 'Bangladeshi TV Auto Update' group
+          echo "" >> combined.m3u8
+
+          # CricHD থেকে Sports চ্যানেল ফিল্টার ও সংযোজন
           awk '
             BEGIN { IGNORECASE=1; skip=0 }
             /^#EXTINF/ {
               skip=0
-              # Skipping the channels that need to be excluded from CricHD Playlist
-              if ($0 ~ /MZEE News|ABP NEWS|ABP Ananda|Nat Geo WILD|RTV Music|CNA|DW News|WINO|Reuters|Al Jazeera English|Maasranga News|News 24 Extra|MYTV live|BTV LIVE|Zee News|BanglaVision|Sky Sports 1|Sky Sports 2|Sky Sports 3|Sky Sports 4|Sky Sports 5|Sky Sports 6|Sky Sports 7|Sky Sports 8|Sky Sports 9/) skip=1
+              if ($0 ~ /MZEE News|ABP NEWS|ABP Ananda|Nat Geo WILD|RTV Music|CNA|DW News|WINO|Reuters|Al Jazeera English|Maasranga News|News 24 Extra|MYTV live|BTV LIVE|Zee News|BanglaVision|Sony Sports|Star Sports|T Sports/) {
+                skip=1
+              }
               if (!skip) {
-                # Adding group-title to the remaining channels
-                gsub(/group-title="[^"]*"/, "group-title=\"Bangladeshi TV Auto Update\"")
+                gsub(/group-title="[^"]*"/, "group-title=\"Sports Auto Update\"")
                 print
               }
               next
@@ -64,13 +64,13 @@ jobs:
               if (!skip) print
             }
           ' crichd.m3u >> combined.m3u8
-          
+
           mv combined.m3u8 Github.m3u8
 
-      - name: Commit and Push if Changed
+      - name: পরিবর্তন হলে কমিট এবং পুশ
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add Github.m3u8
-          git diff --cached --quiet || git commit -m "Auto updated playlist with proper group-title format"
+          git diff --cached --quiet || git commit -m "Auto updated playlist with proper group-title format and filters"
           git push
