@@ -1269,6 +1269,12 @@ https://www.tbn24.com/api/video/5011_0.m3u8
 https://api-ott.skwadplay.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=261346
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://a.jsrdn.com/hls/22904/dot-esports/logo_20231219_193130_43.png",Dot Esports (Gaming)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dot-esports/master.m3u8
+
+
+
+
+
+
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://freelogopng.com/images/all_img/1684117450discovery-logo-png.png",Discovery HD
 http://opplex.ch:8080/live/mother/mother/206287.ts
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
@@ -1276,6 +1282,8 @@ https://kusnadipepenk.github.io/ntn/disc.m3u8
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 http://xtv.ooo:8080/live/Jawad1994/03112371534/245966.ts
 http://opplex.ch:8080/live/mother/mother/206287.ts
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://freelogopng.com/images/all_img/1684117450discovery-logo-png.png",Discovery HD Backup
+http://103.112.62.87/Candy_Live/vstream.m3u8?id=a1c4e01414e7&e=.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://freelogopng.com/images/all_img/1684117450discovery-logo-png.png",Discovery HD BDIX
 http://172.20.3.1:81/DiscoveryHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png",National Geographic
@@ -1286,12 +1294,13 @@ http://opplex.ch:8080/live/mother/mother/109977.ts
 http://xtv.ooo:8080/live/Jawad1994/03112371534/109977.ts
 http://xtv.ooo:8080/live/Jawad1994/03112371534/245967.ts
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png",Investigation Discovery
-http://opplex.ch:8080/live/mother/mother/206291.ts
+http://103.112.62.87/Candy_Live/vstream.m3u8?id=6789650f5629&e=.m3u8
 https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/Investigation_Discovery.m3u8
 http://atg100.xyz:80/live/443432469215731/4362020837/510207.ts
 http://starshare.org:8080/live/134134/134134/23790.ts
 https://line.now-ott.xyz/live/451AAD/3f41a2/100789.ts
 http://opplex.ch:8080/live/mother/mother/206291.ts
+http://103.112.62.87/Candy_Live/vstream.m3u8?id=6789650f5629&e=.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Discovery-asia.png",Discovery Asia
 http://ottplan.xyz/live/FSCJREGCPC6X2EK/F9SDAW/882541.ts
 https://line.now-ott.xyz/live/451AAD/3f41a2/656957.ts
@@ -1311,6 +1320,7 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Science.
 http://tv.cloudcdn.me:80/live.ts?channelId=166&uid=16068&deviceMac=00:1A:79:ED:10:29
 http://starshare.org:8080/live/134134/134134/4745.ts
 https://line.now-ott.xyz/live/451AAD/3f41a2/112568.ts
+
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png",Discovery Turbo
 https://line.now-ott.xyz/live/451AAD/3f41a2/112566.ts
 https://kusnadipepenk.github.io/ntn/disturbo.m3u8
