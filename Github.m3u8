@@ -462,11 +462,11 @@ http://tv.dugdugilive.com:8080/0ne$ky23/JamunaTV/tracks-v1a1/mono.m3u8
 http://172.19.178.39:18190/JS-TV-03/tracks-v1a1/mono.m3u8
 http://172.19.178.39:18190/JS-TV-03/tracks-v1a1/mono.m3u8
 http://172.20.3.1:81/JamunaTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangladeshi News 🇧🇩" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png",4
+#EXTINF:-1 group-title="Bangladeshi News 🇧🇩" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png",News 24
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/tracks-v1a1/mono.ts.m3u8|referer=https://statiics.ncare.live
-#EXTINF:-1 group-title="Bangladeshi News 🇧🇩" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png",4 Backup
+#EXTINF:-1 group-title="Bangladeshi News 🇧🇩" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png",News 24 Backup
 http://103.163.247.39/local_out/news24bd/video.m3u8?token=At5F1MFZYnciB3
-#EXTINF:-1 group-title="Bangladeshi News 🇧🇩" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png",4 BDIX
+#EXTINF:-1 group-title="Bangladeshi News 🇧🇩" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png",News 24 BDIX
 http://tv.dugdugilive.com:8080/0ne$ky23/News24/tracks-v1a1/mono.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/News24/tracks-v1a1/mono.m3u8
 http://172.20.3.1:81/News24HD/tracks-v1a1/mono.m3u8
@@ -488,11 +488,11 @@ https://ythls-v3.onrender.com/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
 http://172.19.178.59:18190/sn-dbc/tracks-v1a1/mono.m3u8
 http://103.163.247.39/local_out/dbcnews/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 group-title="Bangladeshi News 🇧🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png",Ekhon Tv
-https://www.tbn24.com/api/video/4043_0.m3u8
+
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.ts.m3u8|referer=https://static.jagobd.com.bd
-https://www.tbn24.com/api/video/4043_0.m3u8
+
 #EXTINF:-1 group-title="Bangladeshi News 🇧🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png",Ekhon Tv Backup
-http://103.163.247.39/local_out/ekhontv/video.m3u8?token=At5F1MFZYnciB3
+
 #EXTINF:-1 group-title="Bangladeshi News 🇧🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png",Ekhon Tv BDIX
 http://172.20.3.1:81/EkhonTV/tracks-v1a1/mono.m3u8
 https://ythls-v3.onrender.com/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
