@@ -1697,11 +1697,15 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=10931
 https://5aafcc5de91f1.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 #EXTINF:-1 group-title="Kids🍭🎯🎉" tvg-logo="https://static.wikia.nocookie.net/telelibrary/images/9/92/SAT-7_Kids_-_logo.png/revision/latest?cb=20231020095612",Sat 7 Kids
 https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
+
+
+
+
+
 #EXTINF:-1 group-title="Pakistani News 🇵🇰📡🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/PTV_World_logo_2023.png",Ptv World
 http://opplex.ch:8080/live/mother/mother/167657.ts
 #EXTINF:-1 group-title="Pakistani News 🇵🇰📡🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/GEO_News_logo_in_Urdu.png",Geo News
 http://opplex.ch:8080/live/mother/mother/25976.ts
-https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/newgeonews/20242/chunks.m3u8
 #EXTINF:-1 group-title="Pakistani News 🇵🇰📡🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/GEO_News_logo_in_Urdu.png",Geotez TV
 #EXTINF:-1 group-title="Pakistani News 🇵🇰📡🌐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl7ydXmES0sHJ-ItmBfC242ssmIbjO1iDlMQwPmHppmpy0STsX0G-gUvU&s=10",Ary News
 http://ottplan.xyz/live/FSCJREGCPC6X2EK/F9SDAW/117307.ts
@@ -1709,8 +1713,7 @@ http://ottplan.xyz/live/FSCJREGCPC6X2EK/F9SDAW/117307.ts
 http://ottplan.xyz/live/FSCJREGCPC6X2EK/F9SDAW/117369.ts
 #EXTINF:-1 group-title="Pakistani News 🇵🇰📡🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/Aaj_News_%28television_channel%29_logo.png",Aaj News
 http://ottplan.xyz/live/FSCJREGCPC6X2EK/F9SDAW/117323.ts
-#EXTINF:-1 group-title="Pakistani News 🇵🇰📡🌐" tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/c2ec970d-d7c7-447c-a435-901032224141/588311112/ktn-news-logo
-",KTN News
+#EXTINF:-1 group-title="Pakistani News 🇵🇰📡🌐" tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/c2ec970d-d7c7-447c-a435-901032224141/588311112/ktn-news-logo",KTN News
 http://opplex.ch:8080/live/mother/mother/103695.ts
 #EXTINF:-1 group-title="Pakistani News 🇵🇰📡🌐" tvg-logo="https://pashto.khybernews.tv/wp-content/uploads/2023/09/Khyber-News2.png",Khyber News
 http://ottplan.xyz/live/FSCJREGCPC6X2EK/F9SDAW/117363.ts
