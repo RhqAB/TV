@@ -1855,7 +1855,7 @@ https://amg01448-samsungin-abpnews-samsungin-ad-ie.amagi.tv/playlist/amg01448-sa
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 https://amg01448-samsungin-abpnews-samsungin-ad-ie.amagi.tv/playlist/amg01448-samsungin-abpnews-samsungin/playlist.m3u8
 https://cc-3qmlo9hjzylii.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3qmlo9hjzylii/hls/live/2014415/aajtakhd/aajtakhdlive/samsung_athd.m3u8
-https://feeds.intoday.in/aajtak/api/master.m3u8
+
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Zee_News_2023.png/revision/latest/scale-to-width-down/220?cb=20230706224129",Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 http://172.105.123.238:18002/play/a01i
@@ -1949,11 +1949,13 @@ https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-sam
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN.svg",CNN Backup
 https://rakuten-cnninternational-1-gb.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/08/Fox-News-Channel-Emblem-1024x576.png",Fox News
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 http://nks24.com:8080/play/live.php?mac=00:1A:79:62:95:55&stream=246650&extension=ts
 https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/08/Fox-News-Channel-Emblem-1024x576.png",Fox News Now
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-foxnewsnow-vizio/playlist.m3u8
 https://jmp2.uk/sam-USBA300024TN.m3u8
