@@ -4,19 +4,20 @@
 
 #EXTINF:-1 group-title="Hajj 2025 🕌" tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/small_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png", AL QURAN Al KAREEM
 https://ap02.iqplay.tv:8082/iqb8002/mec31mhtvtv/playlist.m3u8
-#EXTINF:-1 group-title="Hajj 2025 🕌" tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/small_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png", AL QURAN AL KARERM Backup
+#EXTINF:-1 group-title="Hajj 2025 🕌"  tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/small_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png",AL QURAN AL KARERM Backup
+https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
+#EXTINF:-1 group-title="Hajj 2025 🕌" tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/small_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png", AL QURAN AL KARERM Backup 2
 http://mytv-extra.com:88/live/974653543656/MeaX2XAEDMTiPrD/15280.m3u8
-
-#EXTINF:-1 group-title="Hajj 2025 🕌" tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/small_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png", AL QURAN AL KAREEM BACKUP2
+#EXTINF:-1 group-title="Hajj 2025 🕌" tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/small_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png", AL QURAN AL KAREEM BACKUP 3
 http://xtv.ooo:8080/live/Amjadsc/nwl1234/4.ts
 
 #EXTINF:-1 group-title="Hajj 2025 🕌" tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png",AL SUNNAH SAUDI
 https://ap02.iqplay.tv:8082/iqb8002/med9n1mhtvtv/playlist.m3u8
 #EXTINF:-1 group-title="Hajj 2025 🕌" tvg-logo="https://aloula.faulio.com/storage/mediagallery/33/92/fullhd_879e557011826f507a045b4e0b4c3b57ba93edae.png",AL SUNNAH SAUDI Backup
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
-#EXTINF:-1 group-title="Hajj 2025 🕌"  tvg-logo="https://aloula.faulio.com/storage/mediagallery/d3/41/small_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png",Makkah TV LIVE
-https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 
+#EXTINF:-1 group-title="Hajj 2025 🕌"tvg-logo="https://portal.simplestreamcdn.com/172/642f780c-islamtv.png",Islam Channel
+https://live.islamchannel.tv/live11/islamtv_english/bitrate1.isml/bitrate1-audio_0=128000-video=2406976.m3u8
 
 #EXTINF:-1 group-title="IPL & PSL 2025" tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ",IPL BDIX T SPORTS
 https://tv.mymoviebazar.net/stream/stream56.m3u8|referer=https://tv.mymoviebazar.net
