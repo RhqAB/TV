@@ -1994,6 +1994,18 @@ https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://sansadtv.nic.in/wp-content/uploads/2022/07/logo-sansad.png",Sansad TV
 https://hls.media.nic.in/live/lstv-360p/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/BBC_News_Logo.svg/revision/latest/scale-to-width-down/200?cb=20210530190407",BBC World News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 http://xtv.ooo:8080/live/Uzair101/Uzair101@/346360.ts
@@ -2001,18 +2013,16 @@ http://tv.cloudcdn.me:80/live.ts?channelId=132073&uid=16068&deviceMac=00:1A:79:0
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://www.logoeps.net/wp-content/uploads/2016/12/al-jazeera-logo.png",AL Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
-#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://www.logoeps.net/wp-content/uploads/2016/12/al-jazeera-logo.png",AL Jazeera Backup
 #https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-jazeera-english/playlist.m3u8
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN.svg",CNN
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586497/cnngo/cnni/VIDEO_0_3564000.m3u8
 https://rakuten-cnninternational-1-gb.lg.wurl.tv/playlist.m3u8
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
-#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN.svg",CNN Backup
 #https://rakuten-cnninternational-1-gb.lg.wurl.tv/playlist.m3u8
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz6p6U930-0sy8Njx0rHX1JxAQurVGGkZXKg&s", Press TV Iran
 https://live.presstv.ir/hls/presstv_5_482/index.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://www.hatchwise.com/wp-content/uploads/2023/08/Fox-News-Channel-Emblem-1024x576.png",Fox News
