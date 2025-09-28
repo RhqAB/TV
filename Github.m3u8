@@ -539,15 +539,14 @@ https://5dd3981940faa.streamlock.net/mercytv/mercytv/chunklist_w1371015493.m3u8
 
 
 
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg.png",LIVE SPORTS BDIX
-http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports 
+http://116.204.149.16/t_sports/index.m3u8
 http://xtv.ooo:8080/live/03353290992/03353290992/167590.ts
 http://bapatv.live:8080/tsports3/tracks-v1a1/mono.m3u8
 http://xtv.ooo:8080/live/03353290992/03353290992/245901.ts
 http://xtv.ooo:8080/live/03353290992/03353290992/167590.ts
 http://xtv.ooo:8080/live/03353290992/03353290992/167590.ts
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports Backup
+EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports Backup
 https://tv.mymoviebazar.net/stream/stream56.m3u8|referer=https://tv.mymoviebazar.net
 http://tv.cloudcdn.me/live.ts?channelId=98&uid=8164&deviceMac=00:1A:79:17:D4:A1
 http://103.190.85.38/hls/tsports.m3u8
@@ -557,7 +556,7 @@ http://tv.cloudcdn.me/live.ts?channelId=48010&uid=16068&deviceMac=00:1A:79:0A:3B
 http://starshare.org:8080/live/134134/134134/52500.ts
 https://line.now-ott.xyz/live/451AAD/3f41a2/756462.ts
 https://tv.mymoviebazar.net/stream/stream56.m3u8|referer=https://tv.mymoviebazar.net
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports Live 2
+EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports Live 2
 http://kst.moonplex.net:8080/CH2/index.m3u8
 http://103.205.133.71/LiveEvent1/tracks-v1a1/mono.m3u8
 https://mhdtv.co.in/daddy/stream.m3u8?id=270|Referer=https://mhdtv.co.in/
@@ -573,22 +572,22 @@ http://tv.indigotv.me:80/live.ts?channelId=98&uid=7245&deviceMac=00:1A:79:4A:02:
 https://iptvcable.netlify.app/Altogether-007/GaziTv.m3u8
 http://kst.moonplex.net:8080/CH2/index.m3u8
 
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpp69gsQwJYuDspe-650YnMewqMxf1vff7OtChwYqXPg&s",Astro Cricket
+EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpp69gsQwJYuDspe-650YnMewqMxf1vff7OtChwYqXPg&s",Astro Cricket
 http://xtv.ooo:8080/live/03353290992/03353290992/371469.ts
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png",ports 1 HD
-#http://xtv.ooo:8080/live/03353290992/03353290992/167581.ts
-#https://line.now-ott.xyz/live/451AAD/3f41a2/656962.ts
-#http://starshare.org:8080/live/134134/134134/2494.ts
-#http://atg100.xyz:80/live/443432469215731/4362020837/446226.ts
-#http://starshare.org:8080/live/134134/134134/2494.ts
-#http://xtv.ooo:8080/live/03353290992/03353290992/167581.ts
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpp69gsQwJYuDspe-650YnMewqMxf1vff7OtChwYqXPg&s",Astro Cricket Backup
-#https://line.now-ott.xyz/live/451AAD/3f41a2/656962.ts
-#https://nowsports.co.in/cric/stream.m3u8?id=482bc495407808d7a4b20a11d2eecb10|referer=https://nowsports.co.in//
-#http://starshare.org:8080/live/134134/134134/2494.ts
-#https://line.now-ott.xyz/live/451AAD/3f41a2/656962.ts
-#http://atg100.xyz:80/live/443432469215731/4362020837/446226.ts
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/logo_transparent_cb_(1)_prev_ui.png",Willow Cricket HD 
+EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png",ports 1 HD
+http://xtv.ooo:8080/live/03353290992/03353290992/167581.ts
+https://line.now-ott.xyz/live/451AAD/3f41a2/656962.ts
+http://starshare.org:8080/live/134134/134134/2494.ts
+http://atg100.xyz:80/live/443432469215731/4362020837/446226.ts
+http://starshare.org:8080/live/134134/134134/2494.ts
+http://xtv.ooo:8080/live/03353290992/03353290992/167581.ts
+EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpp69gsQwJYuDspe-650YnMewqMxf1vff7OtChwYqXPg&s",Astro Cricket Backup
+https://line.now-ott.xyz/live/451AAD/3f41a2/656962.ts
+https://nowsports.co.in/cric/stream.m3u8?id=482bc495407808d7a4b20a11d2eecb10|referer=https://nowsports.co.in//
+http://starshare.org:8080/live/134134/134134/2494.ts
+https://line.now-ott.xyz/live/451AAD/3f41a2/656962.ts
+http://atg100.xyz:80/live/443432469215731/4362020837/446226.ts
+EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/logo_transparent_cb_(1)_prev_ui.png",Willow Cricket HD 
 http://xtv.ooo:8080/live/03353290992/03353290992/167583.ts
 http://filex.tv:8080/live/Multicity/1234/52109.ts
 http://fortv.cc:8080/live/Gizvid153@giz.com/1234@4321/58847.ts
@@ -597,6 +596,7 @@ http://tv.cloudcdn.me/live.ts?channelId=302&uid=16068&deviceMac=00:1A:79:0A:3B:2
 http://xtv.ooo:8080/live/03353290992/03353290992/167583.m3u8
 http://xtv.ooo:8080/live/03353290992/03353290992/347332.m3u8
 http://xtv.ooo:8080/live/03353290992/03353290992/167583.ts
+http://116.204.149.16/t_sports/index.m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/logo_transparent_cb_(1)_prev_ui.png",Willow Cricket HD Backup
 http://filex.tv:8080/live/Multicity/1234/52109.ts
 http://xtv.ooo:8080/live/03353290992/03353290992/167583.ts
@@ -610,19 +610,19 @@ https://webuit.mizhls.ru/lb/premium598/index.m3u8?|referer=https://olalivehdplay
 https://crichd.filofilmes.art/sexy.php/willowextra.m3u8
 http://home-playtv.com:8080/Granav30/ZPETU@@2/218774
 http://xtv.ooo:8080/live/03353290992/03353290992/347334.ts
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://i.postimg.cc/xqDrwkj0/Background-Eraser-20240628-145812760.png",Sky Sports Cricket
+EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://i.postimg.cc/xqDrwkj0/Background-Eraser-20240628-145812760.png",Sky Sports Cricket
 http://xtv.ooo:8080/live/03353290992/03353290992/346379.ts
-#https://line.now-ott.xyz/live/451AAD/3f41a2/101025.ts
-#http://tv.cloudcdn.me:80/live.ts?channelId=281&uid=7133&deviceMac=00:1A:79:4A:02:91
-#http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/12.ts
-#http://b1g.uk:80/live/1897/1897/261002.ts
-#http://hdviptv.net:8080/ismailcanakci/pbmw40QRtn/1017
-#https://fr.globalplay.live/Sports-1/index.fmp4.m3u8
-#https://nowsports.co.in/cric/stream.m3u8?id=24b2884a7a74d9e2beb23fcad8a99f56|Referer=https://nowsports.co.in//
-3http://atg100.xyz:80/live/443432469215731/4362020837/348308.ts
-#http://starshare.org:8080/live/134134/134134/186605.ts
-#https://line.now-ott.xyz/live/451AAD/3f41a2/101025.ts
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://i.imgur.com/0c5Ox0o.png",SuperSport Cricket
+https://line.now-ott.xyz/live/451AAD/3f41a2/101025.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=281&uid=7133&deviceMac=00:1A:79:4A:02:91
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/12.ts
+http://b1g.uk:80/live/1897/1897/261002.ts
+http://hdviptv.net:8080/ismailcanakci/pbmw40QRtn/1017
+https://fr.globalplay.live/Sports-1/index.fmp4.m3u8
+https://nowsports.co.in/cric/stream.m3u8?id=24b2884a7a74d9e2beb23fcad8a99f56|Referer=https://nowsports.co.in//
+http://atg100.xyz:80/live/443432469215731/4362020837/348308.ts
+http://starshare.org:8080/live/134134/134134/186605.ts
+https://line.now-ott.xyz/live/451AAD/3f41a2/101025.ts
+EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://i.imgur.com/0c5Ox0o.png",SuperSport Cricket
 http://xtv.ooo:8080/live/03353290992/03353290992/167592.ts
 https://nowsports.co.in/cric/stream.m3u8?id=07fc63aad877b90f0f84148038f036cc|Referer=https://nowsports.co.in//
 https://ddy1.mizhls.ru:443/ddy1/premium368/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
@@ -630,8 +630,8 @@ http://atg100.xyz:80/live/443432469215731/4362020837/348289.ts
 http://starshare.org:8080/live/134134/134134/158442.m3u8
 http://starshare.org:8080/live/134134/134134/516.ts
 http://xtv.ooo:8080/live/03353290992/03353290992/167592.ts
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://i.imgur.com/0c5Ox0o.png",SuperSport Cricket Backup
-#https://line.now-ott.xyz/live/451AAD/3f41a2/102647.ts
+EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://i.imgur.com/0c5Ox0o.png",SuperSport Cricket Backup
+https://line.now-ott.xyz/live/451AAD/3f41a2/102647.ts
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://i.imgur.com/0c5Ox0o.png",SuperSport Cricket BDIX
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1k_gAKFpRKgkOIIHQ-efNw/ts
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://blastily.co/wp-content/uploads/2024/02/IMG_6622.png",SuperSport Grandstand
