@@ -687,15 +687,11 @@ http://175.107.244.52:4457/play/a08g/index.m3u8
 http://opplex.tv:8080/live/global/global/167567.ts
 http://xtv.ooo:8080/live/03353290992/03353290992/167567.ts
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTV SPORTS HD Backup
-http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://e7.pngegg.com/pngimages/13/246/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png",PTV SPORTS HD BDIX
 
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",Ary Sports
-http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
-http://multinet-tv.serveftp.com:45793/BRN/ArySports.stream/media_w1869662368_31721.m3u8
-http://176.119.29.52/live.ts?channelId=132249&uid=15834&deviceMac=00:1A:79:40:26:09
-http://tv.cloudcdn.me:80/live.ts?channelId=132249&uid=16068&deviceMac=00:1A:79:0A:3B:2B
-http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",Ary Sports BDIX
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1T9yO-JBU_w4AaSxGEvWi4/ts
 EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png",Ten Cricket
