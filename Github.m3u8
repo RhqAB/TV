@@ -10,7 +10,7 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA_EZvRERoc3gLd1P3fd64kk/ts
 http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/tracks-v1a1/mono.m3u8
 https://tvs2.aynaott.com/tsportshd/index.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/LiveSP/tracks-v1a1/mono.m3u8
-
+http://172.19.178.180/servers-stailer/29srv.php?stream=CLOUD-TV-03&format=m3u8
 
 
 
@@ -48,10 +48,12 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-vid
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png",Channel I Backup
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png",Channel I Backup 2
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png",Channel I BDIX
+http://172.19.178.180/servers-stailer/39srv.php?stream=channeli&format=m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/Channel-I/tracks-v1a1/mono.m3u8
 http://172.19.178.49:18190/sn-channeli/tracks-v1a1/mono.m3u8
 http://172.20.3.1:81/ChannelIHD/tracks-v1a1/mono.m3u8
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA9wNRL3H3YXOqIWwmA39Dug/ts
+http://172.19.178.180/servers-stailer/39srv.php?stream=channeli&format=m3u8
 
 
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://i.postimg.cc/C15wr1RW/Ekushey-Television-Logo-svg.png",Ekushey TV 
@@ -830,7 +832,7 @@ http://xtv.ooo:8080/live/03353290992/03353290992/167569.ts
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA6hYMAvYELfySLVDWBMxvqc/m3u8
 
 
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/ss_football_225-removebg-preview.png",SuperSport Football
+EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/ss_football_225-removebg-preview.png",SuperSport Football
 http://xtv.ooo:8080/live/03353290992/03353290992/238480
 http://opplex.tv:8080/live/15155419/16175512/238480.m3u8
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:C5:93&stream=396882&extension=ts
@@ -839,14 +841,16 @@ http://xtv.ooo:8080/live/03353290992/03353290992/353950.ts
 http://xtv.ooo:8080/live/03353290992/03353290992/238480
 EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/ss_football_225-removebg-preview.png",SuperSport Football Backup
 http://atg100.xyz:80/live/Richardneu/951425AF6681/348285.ts
-EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://www.dstv.com/media/fsmkqhfo/ss_laliga.png?width=330",SuperSport La Liga
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA6hYMAvYELfySLVDWBMxvqc/m3u8
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://www.dstv.com/media/fsmkqhfo/ss_laliga.png?width=330", La Liga TV
 http://xtv.ooo:8080/live/03353290992/03353290992/238479
 http://opplex.tv:8080/live/15155419/16175512/238479.ts
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:B5:C5:93&stream=396880&extension=ts
 http://xtv.ooo:8080/live/03353290992/03353290992/238479.ts
 http://xtv.ooo:8080/live/03353290992/03353290992/238479
-EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://www.dstv.com/media/fsmkqhfo/ss_laliga.png?width=330",SuperSport La Liga Backup
 http://atg100.xyz:80/live/443432469215731/4362020837/348283.ts
+http://172.19.178.180/servers-stailer/148srv.php?stream=LaLiga0&format=m3u8
+
 EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://devcdn.24.co.za/files/supersport/203.svg",SuperSport Premier League
 http://atg100.xyz:80/live/443432469215731/4362020837/348284.ts
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/518.ts
@@ -873,7 +877,7 @@ EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://images-wixmp-ed30a8
 http://atg100.xyz:80/live/443432469215731/4362020837/348316.ts
 https://kusnadipepenk.github.io/ntn/skyfut.m3u8
 http://atg100.xyz:80/live/443432469215731/4362020837/348316.ts
-
+http://172.19.178.180/servers-stailer/148srv.php?stream=LaLiga0&format=m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/TV8.5_Logosu.png/revision/latest?cb=20170827103605",Persiana Sports Backup 
 https://spstr.abntv.live/hls/psstream.m3u8
 EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/1200px-DAZN_1_Logo.svg.png",DAZN 1
@@ -1614,7 +1618,7 @@ https://highmedia.livebox.co.in/HIGHNEWShls/LIVE.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/CNN_News_18.svg/revision/latest/scale-to-width-down/284?cb=20210207181916",CNN News 18
 https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Republic_Bharat_logo.svg/2560px-Republic_Bharat_logo.svg.png", Republic English
-/sam-INBA4900020A5.m3u8
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://akm-img-a-in.tosshub.com/indiatoday/images/misc/icon-512x512.png",India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/live_720p/chunks.m3u8
 https://feeds.intoday.in/hltapps/api/master.m3u8
@@ -1646,9 +1650,8 @@ http://starshare.org:8080/live/134134/134134/4045.ts
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png", Aaj Tak
 https://feeds.intoday.in/aajtak/api/master.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/ABP_News_logo.svg", ABP News
-https://amg01448-samsungin-abpnews-samsungin-ad-ie.amagi.tv/playlist/amg01448-samsungin-abpnews-samsungin/playlist.m3u8
-https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
-https://amg01448-samsungin-abpnews-samsungin-ad-ie.amagi.tv/playlist/amg01448-samsungin-abpnews-samsungin/playlist.m3u8
+https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master_720.m3u8
+
 https://cc-3qmlo9hjzylii.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3qmlo9hjzylii/hls/live/2014415/aajtakhd/aajtakhdlive/samsung_athd.m3u8
 
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Zee_News_2023.png/revision/latest/scale-to-width-down/220?cb=20230706224129",Zee News
@@ -1684,12 +1687,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01106-associatedbroad-tv9bharatvars
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/times-now-navbharat/master.m3u8
 https://amg01448-samsungin-tinnavbharat-samsungin-ad-m8.amagi.tv/playlist/amg01448-samsungin-tinnavbharat-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/News_Nation.jpg/revision/latest?cb=20240314173310",News Nation
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-nation/nnnational.m3u8
-https://line.now-ott.xyz/live/451AAD/3f41a2/63418.ts
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Newsnation/default/newsnation-audio_208482_und=208000-video=2137600.m3u8
-https://ythls.armelin.one/channel/UCsNdeLwEZf86swPD3qJJ7Dw.m3u8
-http://172.105.123.238:18002/play/a07f
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-nation/nnnational.m3u8
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://firstindianews.com/images/logo.png",1st India News
 https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/gnttv-logo.png",Good News Today
@@ -1716,8 +1714,7 @@ https://prudentmcdn.rixcast.com/prudentm.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://www.sadhna.com/Channel/SADHNA-PLUS-NEWS.png",Sadhana Plus News
 https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/chunks.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Ibc24-tag.png/revision/latest?cb=20230126173955",IBC24 NEWS
-https://ott-prasar.ibc24.in/master_1_TS-49410_3.m3u8
-https://livetv.ibc24.in/livestream.m3u8
+https://cdn-3.pishow.tv/live/220/master.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Zee_Business.jpg/revision/latest?cb=20200803071301",ZEE BUSINESS
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/ET_Now_Swadesh.jpg/revision/latest?cb=20211004022605",ET NOW SWADESH
