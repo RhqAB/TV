@@ -521,8 +521,8 @@ https://cdn149.anystream.uk:8082/app/qtvglmb/playlist.m3u8
 https://aryqtv.aryzap.com/e35359cdc7c02e75eb589a08484f8d40/68d7b079/v1/0183ea2a0eec0b8ed5941a38bc76/0183ea2a4e470b8ed5aa4d793457/ARYQTVH264_480p.m3u8
 #EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://cdn6.aptoide.com/imgs/1/d/f/1df4b5dd73a37ffd3fdbf33bd3c61fb3_icon.png",Mercy TV
 https://5dd3981940faa.streamlock.net/mercytv/mercytv/chunklist_w1371015493.m3u8
-
-
+#EXTINF:-1 group-title="Islamic 🕌" tvg-logo="https://cdn6.aptoide.com/imgs/1/d1fb3_icon.png",Muslim TV Thailand
+https://vdo.plathong.net/tvmuslim/tvmuslim/chunklist_w736643326.m3u8
 
 
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/800px-T_Sports_logo.svg.png",T Sports 
@@ -1075,7 +1075,7 @@ http://extraott-iptv.com:88/live/0229477349/8104258135/17308.ts
 
 http://live.matribhumitv.com/matribhumi-sports/index.m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Abu%20Dhabi%20Sports%201.png", Solh TV
-
+https://wo.cma.footballii.ir/hls2/solh.m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Abu%20Dhabi%20Sports%201.png", Abu Dhabi Sports TV 1
 
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://vo-static.cdb.cdn.orange.com/adm-uae/Images/attachments/White%20-%20Abu%20Dhabi%20Sports%202.png", Abu Dhabi Sports TV  2
@@ -1503,7 +1503,12 @@ https://video.primexsports.com/suchnews/live/chunklist_w109396193.m3u8
 http://opplex.ch:8080/live/03353290992/03353290992/26034.ts
 https://video.primexsports.com/suchnews/live/chunklist_w109396193.m3u8
 #EXTINF:-1 group-title="Pakistani News 🇵🇰📡🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/PTV_World_logo_2023.png",Ptv World
-
+#EXTINF:-1 group-title="Pakistani News 🇵🇰📡🌐" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/pngegg.png",Dunya News
+https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
+http://xtv.ooo:8080/live/03353290992/03353290992/221346.m3u8
+http://ottplan.xyz/live/FSCJREGCPC6X2EK/F9SDAW/117385.ts
+https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
+https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/chunklist_w1792980131_b496072.m3u8
 #EXTINF:-1 group-title="Pakistani News 🇵🇰📡🌐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl7ydXmES0sHJ-ItmBfC242ssmIbjO1iDlMQwPmHppmpy0STsX0G-gUvU&s=10",Ary News
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAyjz2G05Pkodb5NboTOyQTs/m3u8
 http://xtv.ooo:8080/live/03353290992/03353290992/221344.ts
@@ -1527,11 +1532,7 @@ EXTINF:-1 group-title="Pakistani News 🇵🇰📡🌐" tvg-logo="https://static
 http://opplex.ch:8080/live/03353290992/03353290992/26036.ts
 EXTINF:-1 group-title="Pakistani News 🇵🇰📡🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Express_News_logo.png",Express News
 http://opplex.ch:8080/live/03353290992/03353290992/26011.ts
-EXTINF:-1 group-title="Pakistani News 🇵🇰📡🌐" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/pngegg.png",Dunya News
-https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
-http://xtv.ooo:8080/live/03353290992/03353290992/221346.m3u8
-http://ottplan.xyz/live/FSCJREGCPC6X2EK/F9SDAW/117385.ts
-https://intl.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
+
 EXTINF:-1 group-title="Pakistani News 🇵🇰📡🌐" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/11271017.5481275fe1d26.png",Abb Takk News
 http://opplex.ch:8080/live/03353290992/03353290992/25997.ts
 EXTINF:-1 group-title="Pakistani News 🇵🇰📡🌐" tvg-logo="https://i.imgur.com/BMmlLwS.png",Dawn News
@@ -1859,12 +1860,20 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png",RT Arabic
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
-#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://i.postimg.cc/dQys3kHB/Background-Eraser-20240628-151629577.png",Asharq News KSA
+#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/RTA_Afghanistan_Logo_%282021%E2%80%93%29_blue.svg/1200px-RTA_Afghanistan_Logo_%282021%E2%80%93%29_blue.svg.png",RTA News
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA2)/02.m3u8
 
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Bahrain-tv-channel-55.gif/revision/latest?cb=20190820225500",BahrainTV
 
 #EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://parentinglife.com.tw/wp-content/uploads/2023/03/taiwan-plus-logo.png",TAIWAN+.
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+
+#EXTINF:-1 group-title="International News🌍⏳📊" tvg-logo="https://pare",Top News Thailand
+https://live.topnews.co.th/hls/topnews_a_720.m3u8
+
+
+
+
 
 
 
