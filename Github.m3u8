@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTM3U
 
 
 
@@ -144,7 +143,6 @@ http://172.19.178.180/servers-stailer/39srv.php?stream=mohonatv&format=m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://i.postimg.cc/Gp704rZk/Background-Eraser-20240628-105643059.png",Maasranga
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://i.postimg.cc/Gp704rZk/Background-Eraser-20240628-105643059.png",Maasranga BDIX
-#EXTINF:-1 tvg-id="12263631c5" tvg-name="Maasranga" tvg-genre="Bangladeshi" tvg-language="Bengali" tvg-country="IN" tvg-logo="http://172.19.178.178/tv/img/maasranga.png" tvg-chno="" group-title="Bangladeshi",Maasranga
 http://172.19.178.180/servers-stailer/39srv.php?stream=maasranga&format=m3u8
 
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png",Channel 9
@@ -1132,11 +1130,16 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",One Golf
 
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",Horse & Country
-https://hncfree-samsungau.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",ESPN NEWS
 
-#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://a.jsrdn.com/hls/22882/sqad/logo_20231219_221849_48.png" group-title="DistroTV🇺🇸: Sports",SKWAD (Gaming)
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://a.jsrdn.com/hls/23099/mtrspt1/poster_20250122_232633.jpg",MTRSPT1
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://a.jsrdn.com/hls/23180/cowboy-channel/poster_20250512_172554.jpg",Cowboy Channel
+https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://i.postimg.cc/nr9H8z0m/Tennis-Channel.jpg",Horse & Country
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://a.jsrdn.com/hls/22882/sqad/logo_20231219_221849_48.png",SKWAD (Gaming)
 https://api-ott.skwadplay.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=261346
 #EXTINF:-1 group-title="Sports ⚽🏏🏆" tvg-logo="https://a.jsrdn.com/hls/22904/dot-esports/logo_20231219_193130_43.png",Dot Esports (Gaming)
 
@@ -1165,6 +1168,8 @@ http://opplex.ch:8080/live/03353290992/03353290992/109977.ts
 http://xtv.ooo:8080/live/03353290992/03353290992/109977.ts
 http://xtv.ooo:8080/live/03353290992/03353290992/245967.ts
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA8Wb1ckUItbyhIPhcQE63Qo/m3u8
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/1024px-National-Geographic-Logo.svg.png",National Geographic BDIX
+http://172.19.178.180/servers-stailer/142srv.php?stream=natgeowild&format=m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1200px-InvestigationDiscoveryLogo2020.svg.png",Investigation Discovery
 http://172.19.178.180/servers-stailer/142srv.php?stream=investigationdiscovery&format=m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Discovery-asia.png",Discovery Asia
@@ -1192,21 +1197,6 @@ http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAz5RczB08W7KYwaAYnlLfss/m3u8
 http://opplex.ch:8080/live/03353290992/03353290992/206587.ts
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAz5RczB08W7KYwaAYnlLfss/m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",Animal Planet BDIX
-http://172.20.3.1:81/AnimalPlanetHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://i.imgur.com/5lZ8dnC.png",Wild Earth
-https://wildearth-plex.amagi.tv/master.m3u8
-http://opplex.ch:8080/live/03353290992/03353290992/238545.ts
-https://wildearth-plex.amagi.tv/master.m3u8
-#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://mma.prnewswire.com/media/1174493/Wild_Planet_Foods_Logo.jpg?p=facebook",Wild Planet
-https://d3c7duantorcb1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/amgwildplanetuk/playlist.m3u8
-#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f5340b9d-394b-4503-a723-8fde0687cafd/Hero_Real_Wild_-_Simon_Tuquabo.jpg",Real Wild
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-lgdk/playlist.m3u8
-#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw0_sh0_sx0_sy0_sr16x9_nu2/picture/original/2023/08/pluto-tv-animals-379470.png",Pluto TV Animals
-https://jmp2.uk/sam-CHAK3504500A.m3u8
-#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100009GT_20240520T214854SQUARE.png", The Jack Hanna Channel
-https://jmp2.uk/sam-USBC2100009GT.m3u8
-#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300042XG_20241023T143608SQUARE.png&h=250",Wilder Planet
-https://amg00477-samsunguk-wilderplanet-samsunguk-samsunguk-yt0go.amagi.tv/playlist/amg00477-samsunguk-wilderplanet-samsunguk-samsunguk/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_AI_SD.png", Sony BBC Earth HD
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1bQlrlGtXGqLaMfpykD0FQ/m3u8
 http://atg100.xyz:80/live/443432469215731/4362020837/72149.ts
@@ -1214,76 +1204,54 @@ http://starshare.org:8080/live/134134/134134/174.ts
 https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA1bQlrlGtXGqLaMfpykD0FQ/m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_AI_SD.png", Sony BBC Earth HD BDIX
-http://172.20.3.1:81/BBCEaarthHD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/BBC_Earth_2023.svg", BBC Earth US
 https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://i.imgur.com/5lZ8dnC.png",Wild Earth
+https://wildearth-plex.amagi.tv/master.m3u8
+http://opplex.ch:8080/live/03353290992/03353290992/238545.ts
+https://wildearth-plex.amagi.tv/master.m3u8
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://mma.prnewswire.com/media/1174493/Wild_Planet_Foods_Logo.jpg?p=facebook",Wild Planet
+
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f5340b9d-394b-4503-a723-8fde0687cafd/Hero_Real_Wild_-_Simon_Tuquabo.jpg",Real Wild
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-lgdk/playlist.m3u8
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw0_sh0_sx0_sy0_sr16x9_nu2/picture/original/2023/08/pluto-tv-animals-379470.png",Pluto TV Animals
+
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100009GT_20240520T214854SQUARE.png", The Jack Hanna Channel
+
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://tvpdotcomdynamiclogopeu.samsungcloud.tv/resize?url=https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/DEBA3300042XG_20241023T143608SQUARE.png&h=250",Wilder Planet
+https://amg00477-samsunguk-wilderplanet-samsunguk-samsunguk-yt0go.amagi.tv/playlist/amg00477-samsunguk-wilderplanet-samsunguk-samsunguk/playlist.m3u8
+
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_204.png", Love Nature
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-http://atg100.xyz:80/live/443432469215731/4362020837/977934.ts
-http://starshare.org:8080/live/134134/134134/459779.ts
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://lovepetstv.com/wp-content/uploads/2022/12/cropped-LovePets_Logo_SecondaryColor.png", Love Pets 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-lovepetsemea-lggb/playlist.m3u8
-#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://a.jsrdn.com/hls/23176/dronetv/logo_20240521_191242_68.png",DroneTV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/440.m3u8
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://thepetcollective.com/cdn/shop/files/tpc-footer-logo.png?v=1680706852&width=760",The Pet Collective
+https://linear-174.frequency.stream/dist/localnow/174/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAJaRGr_soJCWTY_asBlDjWRJXxSb1ALyyQg&s",My Little Pet
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5484
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://encrypted-tbn0.gstatics",Pet Club
+https://petclub-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3400001FX_20241105T024333SQUARE.png" ,Dog Whisperer
+
+
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh0iDLfLwiIe4s_GQa1j070pHWr0FM2BrRkA&s",Relaxing Nature YouTube
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://images.pluto.tv/channels/61eeb4a701020c00075676ef/colorLogoPNG.png",Nature Time
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508705A_20240520T212618SQUARE.png", Stingray Naturescape
-https://jmp2.uk/sam-USAK3508705A.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray/naturescape-a003-montreal/distrotv/master.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500038R6_20240520T212838SQUARE.png",Stingray Holidayscapes
-https://jmp2.uk/sam-USBD3500038R6.m3u8
+
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://a.jsrdn.com/hls/22801/fish-tank/logo_20231219_201710_68.png",Fish Tank
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/fish-tank/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22801&ads.content_duration=18000&ads.episode_id=25073&ads.show_id=654&ads.showCategories=IAB20&ads.episodeCategories=IAB20&ads.genre=Travel%2CLifestyle%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Fish%20Tank&ads.episodetitle=Fish%20Tank&ads.keywords=fish%20tank%2Clounge%20video&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20241020
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://v.fastcdn.co/t/ce0680fc/05c22bcb/1709567857-50673365-959x267x959x540x0x137-WEATHERSPY-LOGO-WHIT.png",Weather Spy
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR7fopbuVemDrgg-mkpUIsDS4GSQDgPhluXw&s", DOCU+
-https://amg02040-lguplus-amg02040c7-tcl-us-5113.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://i.postimg.cc/BQC2LTTG/Background-Eraser-20240628-144507906.png",HGTV
-http://opplex.ch:8080/live/03353290992/03353290992/346292.ts
-https://line.now-ott.xyz/live/451AAD/3f41a2/391890.ts
-https://kusnadipepenk.github.io/ntn/hgtv.m3u8
-https://raw.githubusercontent.com/Maxmentor/Max-LiveTv-Web/main/api-discovery/HGTV.m3u8
-http://starshare.org:8080/live/134134/134134/137524.ts
-http://opplex.ch:8080/live/03353290992/03353290992/346292.ts
-#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://i.ibb.co/R3jczyR/20240827-090734.png", DMAX
-https://dogus-live.daioncdn.net/dmax/dmax.m3u8
-#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png",TLC
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA993B1sDkuala-9B69I6Txc/m3u8
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
-https://od.lk/s/ODRfNzIxOTE5NjVf/TLC.m3u8
-https://varun-iptv.netlify.app/m3u/TLC.m3u8
-http://tv.cloudcdn.me:80/live.ts?channelId=205&uid=15844&deviceMac=00:1A:79:ED:B7:12
-http://starshare.org:8080/live/134134/134134/9388.ts
-https://dogus-live.daioncdn.net/tlc/tlc.m3u8
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA993B1sDkuala-9B69I6Txc/m3u8
-#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://images.toffeelive.com/images/program/18833/logo/240x240/mobile_logo_204706001683804802.png",Star Life HD
 
-#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Zee_Zest.png/revision/latest?cb=20240321084231",Zee Zest HD
 
-#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://www.epicon.in/img/epic-tv.png",EPIC
-http://opplex.ch:8080/live/03353290992/03353290992/206296.ts
-https://epiconvh.s.llnwi.net/epic/master.m3u8
-http://starshare.org:8080/live/134134/134134/207.ts
-https://line.now-ott.xyz/live/451AAD/3f41a2/63587.ts
-http://opplex.ch:8080/live/03353290992/03353290992/206296.ts
-#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg",History
-https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
-#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://a.jsrdn.com/hls/23001/true-history/poster_20211006_223707.jpg",True History
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/true-history/playlist.m3u8
-#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png",History TV18 HD
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA63w0HrH40Zz_eOy4I63lcs/m3u8
-https://line.now-ott.xyz/live/451AAD/3f41a2/63515.ts
-http://14.102.123.50:5001/live/146.m3u8
-http://tv.cloudcdn.me/live.ts?channelId=70099&uid=16068&deviceMac=00:1A:79:ED:10:29
-http://starshare.org:8080/live/134134/134134/20622.ts
-http://tv.cloudcdn.me:80/live.ts?channelId=70099&uid=15844&deviceMac=00:1A:79:ED:B7:12
-http://opplex.ch:8080/live/03353290992/03353290992/206294.ts
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA63w0HrH40Zz_eOy4I63lcs/m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://i.postimg.cc/BnfXNdM9/Travelxp-01.png",TravelXP
-https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
 https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://i.postimg.cc/BnfXNdM9/Travelxp-01.png",TravelXP BDIX
 http://172.19.178.180/servers-stailer/142srv.php?stream=discoveryscience&format=m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://i.postimg.cc/BnfXNdM9/Travelxp-01.png",TravelXP 2
@@ -1299,44 +1267,77 @@ https://travelxp-travelxp-5-es.lg.wurl.tv/playlist.m3u8
 https://autentic-autentictravel-1-au.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://imgur.com/Kh4MWaY",Outdoor Channel 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoorchannel-lgau/playlist.m3u8
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://a.jsrdn.com/hls/22765/outside-tv/poster_20220613_202039.png",Outside
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/outsidetv/playlist.m3u8
+
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://a.jsrdn.com/hls/22944/journy/poster_20220621_221039.jpg",Journy
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/journy/playlist.m3u8
+
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://a.jsrdn.com/hls/23195/the-holiday-tv-channel/poster_20241127_204326.jpg",The Holiday TV Channel
+https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/7E985A2XFE2B3MIY9A9P/hls3/now,-1m/m.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://m.media-amazon.com/images/I/71mVVE91w8L.png",The Boat Show
 https://vitor-theboatshow-1-at.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBC2800020QX_20221116T013715SQUARE.png_20221116013716.png", Heritage
-https://amg02132-sofast-heritage-samsungin-arawj.amagi.tv/playlist/amg02132-sofast-heritage-samsungin/cb573d1e786c64899dd43a62cef24482847b3dcb0e6c886470
-https://jmp2.uk/sam-INBC2800020QX.m3u8
-https://amg02132-sofast-heritage-samsungin-arawj.amagi.tv/playlist/amg02132-sofast-heritage-samsungin/cb573d1e786c64899dd43a62cef24482847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae774cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7abe00947d865a9e0011bc67c14fa83439c8201ea84d65f8310d720a412c9c6a3dd8014858cbd599506e6274759326da68e789ecc2fdab0f07218ac4117683f78c3bec98e245587435012fbf0dbaf648d70a4e875db135ddc019c5cca34836fd861cd8755909e92fb5f1b41cea35a6534eee1ae9e895859d67dcf83dbfa5648b6c620651d8907b6232f2bdefcdb04bbc71a9bb72a8bc6077754dbb075aba296acc291a4648117a0ad94ea5d382e296450e6676ffb07d404d262a1c21f2013180afdda1df38fd75a3f755cc6ae6a94424bf78bd0c3e807359c34401af0368d12454ddc246079d228fbb13578c67359d27b6ead187dab6ac89500b9e7d7ec0d3ef5f9c241f460a6f529dae40da468730851e2bc7c1115022d90dd670b316bca0ab1809daf245f72999da7c9c95d3c082e04125ddb90805eafce91795346bb104c06531f189108d313af23411221c41b93e149438c082522f1b47d3a7e6985c3a58e97dca915e22ecbae1d58e1eecab8db6daf33e4efaa99e1b7250a8adc1728a6/171/1280x720_3209285/index.m3u8
+
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/MuseumTV.svg/revision/latest?cb=20200906175358",Museum TV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
-#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/MuseumTV.svg/revision/latest?cb=202009061758", Discover Pakistan
+
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://static.n/latest?cb=202009061758", Discover Pakistan
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/images-removebg-preview.png", Xplore TV 
-https://xlpore-samsungus.amagi.tv/playlist.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/4ktravel_960X540-removebg-preview.png",4K Travel Tv
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8?v=1%20
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://a.jsrdn.com/hls/23176/dronetv/logo_20240521_191242_68.png",DroneTV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/440.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/featuredImage-removebg-preview.png",Pluto Tv Travel
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/59c01b1953680139c6ae9d4d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b3b69-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=285c5e14-2bb7-45ce-b0e7-4869bb438d35
-#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://a.jsrdn.com/hls/22765/outside-tv/poster_20220613_202039.png",Outside
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/outsidetv/playlist.m3u8
+
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100025YE_20220427T054559SQUARE.png_20220427054600.png", GoUSA TV
+
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://i.postimg.cc/BQC2LTTG/Background-Eraser-20240628-144507906.png",HGTV
+
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://i.ibb.co/R3jczyR/20240827-090734.png", DMAX
+
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/800px-TLC_Logo.svg.png",TLC
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA993B1sDkuala-9B69I6Txc/m3u8
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
+https://od.lk/s/ODRfNzIxOTE5NjVf/TLC.m3u8
+https://varun-iptv.netlify.app/m3u/TLC.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=205&uid=15844&deviceMac=00:1A:79:ED:B7:12
+http://starshare.org:8080/live/134134/134134/9388.ts
+https://dogus-live.daioncdn.net/tlc/tlc.m3u8
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA993B1sDkuala-9B69I6Txc/m3u8
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://images.toffeelive.com/images/program/18833/logo/240x240/mobile_logo_204706001683804802.png",Star Life HD
+
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Zee_Zest.png/revision/latest?cb=20240321084231",Zee Zest HD
+
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://www.epicon.in/img/epic-tv.png",EPIC
+
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg",History
+
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://a.jsrdn.com/hls/23001/true-history/poster_20211006_223707.jpg",True History
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/true-history/playlist.m3u8
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://images.toffeelive.com/images/program/2429/logo/240x240/mobile_logo_009938001674474908.png",History TV18 HD
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA63w0HrH40Zz_eOy4I63lcs/m3u8
+https://line.now-ott.xyz/live/451AAD/3f41a2/63515.ts
+http://14.102.123.50:5001/live/146.m3u8
+http://tv.cloudcdn.me/live.ts?channelId=70099&uid=16068&deviceMac=00:1A:79:ED:10:29
+http://starshare.org:8080/live/134134/134134/20622.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=70099&uid=15844&deviceMac=00:1A:79:ED:B7:12
+http://opplex.ch:8080/live/03353290992/03353290992/206294.ts
+http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA63w0HrH40Zz_eOy4I63lcs/m3u8
+
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://dp6mhagng1yw3.cloudfront.net/entries/16th/1a39833a-dfca-4d64-9a3a-531a265640c8.png",5 Minute Crafts
 https://amg02051-soulpublishing-amg02051c3-lg-cl-584.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftsspanish-lgcl/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://a.jsrdn.com/hls/23108/craftsytv/poster_20230224_000720.jpg" group-title="Featured",CraftsyTV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/craftsytv/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Food_Food.png/revision/latest?cb=20240319101022",Food Food
-http://tv.cloudcdn.me/live.ts?channelId=169&uid=16068&deviceMac=00:1A:79:0A:3B:2B
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/d6673a24-f87e-405e-b558-f7d8d0a196df/1.m3u8
-http://tv.cloudcdn.me:80/live.ts?channelId=169&uid=7133&deviceMac=00:1A:79:4A:02:91
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8
-http://starshare.org:8080/live/134134/134134/250.ts
+
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png",Food Network
-http://opplex.ch:8080/live/03353290992/03353290992/350894.ts
-https://line.now-ott.xyz/live/451AAD/3f41a2/1505809.ts
-https://od.lk/s/ODRfNzIxOTE5NThf/Food_Network.m3u8
-http://tv.cloudcdn.me:80/live.ts?channelId=46812&uid=7133&deviceMac=00:1A:79:4A:02:91
-http://opplex.ch:8080/live/03353290992/03353290992/350894.ts
+
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://png.pngtree.com/png-vector/20230224/ourmid/pngtree-kitchen-logo-png-image_6615814.png",Cook & Bake
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://img.freepik.com/premium-vector/culinary-channel-food-tv-logo_18099-1622.jpgg",Food TV
-https://food-eu.xiaomi.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5994cba6-c820-449c-8ae2-bf62ec8531da/dff6d3w-bef5a1be-2041-4ac1-9130-f3042ed6ef90.png/v1/fill/w_1280,h_320/tastemade_logo_logotype_by_tgerbs85_dff6d3w-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzIwIiwicGF0aCI6IlwvZlwvNTk5NGNiYTYtYzgyMC00NDljLThhZTItYmY2MmVjODUzMWRhXC9kZmY2ZDN3LWJlZjVhMWJlLTIwNDEtNGFjMS05MTMwLWYzMDQyZWQ2ZWY5MC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.JGMQCPpfyzldohNEHmkawrAOT-exdKYc3X_LBTpESto",Tastemade 
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintleng-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700017WC_20240910T003703SQUARE.png", Tastemade Travel
@@ -1347,12 +1348,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintleng-xiaomi/pl
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/gusto-tv/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bon_App%C3%A9tit_logo.svg/320px-Bon_App%C3%A9tit_logo.svg.png",Bon Appétit
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://thepetcollective.com/cdn/shop/files/tpc-footer-logo.png?v=1680706852&width=760",The Pet Collective
-https://linear-174.frequency.stream/dist/localnow/174/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAJaRGr_soJCWTY_asBlDjWRJXxSb1ALyyQg&s",My Little Pet
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5484
-#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US3400001FX_20241105T024333SQUARE.png" ,Dog Whisperer
-https://jmp2.uk/sam-US3400001FX.m3u8
+
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Fish_TV_logo_2022.svg",Fish TV
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://www.failarmy.com/cdn/shop/t/25/assets/logo-image-file.png?v=88203441892567631601703008237",Fail Army
 https://6e7da950326e49ec84ab577249b1fc21.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-ch_FailArmy/playlist.m3u8
@@ -1369,11 +1365,14 @@ https://english-livebkali.cgtn.com/live/doccgtn_1.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/RT%D0%94.svg/revision/latest?cb=20200104222246", RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F69038be4-30d8-4540-8ca8-44af31f4f559%2FMilitary_Heroes_1920x1080_channel_image.jpg",Military Heroes
-https://d26glm3kerrgpl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jrl29n7npf07l-ssai-prd/playlist.m3u8
+
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR7fopbuVemDrgg-mkpUIsDS4GSQDgPhluXw&s", DOCU+
+https://amg02040-lguplus-amg02040c7-tcl-us-5113.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://a.jsrdn.com/hls/22943/documentary/poster_20210316_230444.jpg",Documentary+
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/documentary/master.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://logowik.com/content/uploads/images/investigation3804.logowik.com.webp",Investigation
 https://amg00346-vizioono-investigation-xumo-us.amagi.tv/playlist.m3u8
 https://amg00346-vizioono-amg00346c2-distrotv-us-1396.playouts.now.amagi.tv/playlist/amg00346-vizioincfast-investigation-distrotvus/playlist.m3u8
-
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://a.jsrdn.com/hls/22884/law-crime/poster_20240131_212531.jpg",Law & Crime
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/law-crime/playlist_scte.m3u8
 #EXTINF:-1 group-title="Infotainment & Lifestyle🐅🏝️🍽️🛠️" tvg-logo="https://www.totalcrimetv.com/wp-content/uploads/2022/12/TotalCrime_Logo_Black.png",Total Crime
@@ -2123,66 +2122,65 @@ https://audio.streamcast.xyz/radio/8000/radio.mp3
 
 
 
-
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/16-by-xfireflix.png", Star Sports 1
-https://d7.merichunidya.com:1686/hls/star1in.m3u8?md5=WVJekREL_OJk7DSBiokuVw&expires=1759568008
+https://d8.merichunidya.com:1686/hls/star1in.m3u8?md5=16Z0hvlyYt86FpTJMEJ48Q&expires=1759564404
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1-by-xfireflix.png", Star Sports 1 Hindi
-https://d7.merichunidya.com:1686/hls/starhindi.m3u8?md5=AMNk8adrAvOyf2E_Trs3DQ&expires=1759568008
+https://d2.merichunidya.com:1686/hls/starhindi.m3u8?md5=XmFbhZcKK_K4dXDLe8Xi3w&expires=1759564404
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/20-by-xfireflix.png", PTV Sports
-https://d3.merichunidya.com:1686/hls/ptvpk.m3u8?md5=niu_KMBaiXu0NxccCTcyUA&expires=1759568009
+https://d4.merichunidya.com:1686/hls/ptvpk.m3u8?md5=LSZKu0p1HRzmjkExZXe-dg&expires=1759564404
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/38-by-xfireflix.png", Willow HD
-https://d4.merichunidya.com:1686/hls/willowusa.m3u8?md5=i75seso2cGcOkmqT-hvSig&expires=1759568009
+https://d1.merichunidya.com:1686/hls/willowusa.m3u8?md5=uEmku2aEORX2wXfMpkGmAQ&expires=1759564405
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/8-by-xfireflix.png", Willow HD 2
-https://d7.merichunidya.com:1686/hls/willowextra.m3u8?md5=QppCfKfdJt1qV8lRXE0v7g&expires=1759568009
+https://d6.merichunidya.com:1686/hls/willowextra.m3u8?md5=ax7z6D_fCXl-6r18VjgsWg&expires=1759564405
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/10-by-xfireflix.png", Ten Sports
-https://d8.merichunidya.com:1686/hls/tenspk.m3u8?md5=HFBxFbaLaKBs1AEZClIlPw&expires=1759568009
+https://d5.merichunidya.com:1686/hls/tenspk.m3u8?md5=uSoapLEDhweqUICJqkr0qg&expires=1759564405
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/12-by-xfireflix.png", A Sports HD
-https://d6.merichunidya.com:1686/hls/asportshd.m3u8?md5=NUSNKXrYkbuS4LURXQhwCQ&expires=1759568009
+https://d8.merichunidya.com:1686/hls/asportshd.m3u8?md5=SP2-FdZDZ2zw8Wb6bFqeQw&expires=1759564405
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/9-by-xfireflix.png", Sky Sports Cricket
-https://d8.merichunidya.com:1686/hls/skyscric.m3u8?md5=5ccusJKlXrOzH5StNxdCRw&expires=1759568010
+https://d1.merichunidya.com:1686/hls/skyscric.m3u8?md5=E3_e1yoOeBw_wrp5XP70Tg&expires=1759564405
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/18-by-xfireflix.png", Sky Sports Main Event
-https://d1.merichunidya.com:1686/hls/skysme.m3u8?md5=o3NNW5RKAjRf-iG4j06MaQ&expires=1759568010
+https://d3.merichunidya.com:1686/hls/skysme.m3u8?md5=YWC4YnfhRPrqMLRwVa3XZw&expires=1759564405
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png", TNT 1
-https://d2.merichunidya.com:1686/hls/bbtsp1.m3u8?md5=il6PhyAfU_LWwHw2Vy9m3A&expires=1759568010
+https://d6.merichunidya.com:1686/hls/bbtsp1.m3u8?md5=Qek5gT9uM7h2tVrIbKdQdQ&expires=1759564406
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png", TNT 2
-https://d7.merichunidya.com:1686/hls/bbtsp2.m3u8?md5=6CSGq-Alyz0u6RDhV52j7w&expires=1759568010
+https://d10.merichunidya.com:1686/hls/bbtsp2.m3u8?md5=cHH9s530Sw_qoAeeB-wDJw&expires=1759564406
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png", TNT 3
-https://d5.merichunidya.com:1686/hls/bbtsp3.m3u8?md5=64uVKhOHB-IVrb_dA_1vaw&expires=1759568010
+https://d10.merichunidya.com:1686/hls/bbtsp3.m3u8?md5=1DJ32ZgsZ_myo7Bs6hMu-w&expires=1759564406
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png", TNT 4
-https://d2.merichunidya.com:1686/hls/bbtespn.m3u8?md5=9IZeRP-e5N44uDBOE_r-LQ&expires=1759568011
+https://d2.merichunidya.com:1686/hls/bbtespn.m3u8?md5=YonQILhpS79P9Aze4J_Xbw&expires=1759564406
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/skycinema.png", Sky Cinema
-https://d7.merichunidya.com:1686/hls/skysme.m3u8?md5=vcvsUTEWr5DgC5eXkqeegw&expires=1759568012
+https://d5.merichunidya.com:1686/hls/skysme.m3u8?md5=yIKODLfkPujZ0ipjH3CTbw&expires=1759564408
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745007829332.png", Sky Sports Action
-https://d6.merichunidya.com:1686/hls/skysact.m3u8?md5=iyikOSxSYn6VtzB3NPh1jw&expires=1759568013
+https://d10.merichunidya.com:1686/hls/skysact.m3u8?md5=as6IBp4oKGg9kWIVqcVEkA&expires=1759564408
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008055327.png", Sky Sports Golf
-https://d8.merichunidya.com:1686/hls/skysgol.m3u8?md5=OFPXeRZ8-mbnivVzB-w18w&expires=1759568013
+https://d2.merichunidya.com:1686/hls/skysgol.m3u8?md5=8rFgNYGT7YBOAV11ya16vQ&expires=1759564408
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/43-by-xfireflix.png", Sky Sports Premier League
-https://d8.merichunidya.com:1686/hls/skysprem.m3u8?md5=niDmjD7bp0y05yBfFHLjRg&expires=1759568013
+https://d8.merichunidya.com:1686/hls/skysprem.m3u8?md5=4JsfB9WZeBrOrFBmpxD59g&expires=1759564408
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/44-by-xfireflix.png", Sky Sports Football
-https://d2.merichunidya.com:1686/hls/skysfott.m3u8?md5=6aV_v8BWTTuLxsxtSumMQA&expires=1759568013
+https://d5.merichunidya.com:1686/hls/skysfott.m3u8?md5=mypqkzzUKFYb5o0hZfwHWw&expires=1759564409
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008468637.png", Sky Sports F1
-https://d6.merichunidya.com:1686/hls/skysfor1.m3u8?md5=3ubAnb9uyO1JdiadV0PFFg&expires=1759568013
+https://d6.merichunidya.com:1686/hls/skysfor1.m3u8?md5=NyhAAffBNQwlj9wnnGE_LQ&expires=1759564409
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/19-by-xfireflix.png", LaLiGA
-https://d3.merichunidya.com:1686/hls/laligauk.m3u8?md5=TGzxkL4CuzMkaIRMIP3owQ&expires=1759568014
+https://d10.merichunidya.com:1686/hls/laligauk.m3u8?md5=_6JsCAOBsaUO29PIDNobmQ&expires=1759564409
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/31-by-xfireflix.png", Premier Sports 1
-https://d7.merichunidya.com:1686/hls/premieruk.m3u8?md5=7hjY-p8o-uz6WpDLEe1Wvg&expires=1759568014
+https://d10.merichunidya.com:1686/hls/premieruk.m3u8?md5=OJprB36_eenIXKtxeYksAA&expires=1759564409
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/31-by-xfireflix.png", Premier Sports 2
-https://d7.merichunidya.com:1686/hls/hdchnl2.m3u8?md5=kcAer-Rxl7lDPWiJZ9XTEQ&expires=1759568014
+https://d8.merichunidya.com:1686/hls/hdchnl2.m3u8?md5=WmHcwu9qCkhVOnj7mMGVnw&expires=1759564409
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/34-by-xfireflix.png", Super Football
-https://d7.merichunidya.com:1686/hls/superfotball.m3u8?md5=WdbOzGozQcSGAge5atQucQ&expires=1759568014
+https://d8.merichunidya.com:1686/hls/superfotball.m3u8?md5=U1WI8QzdFTvFVjNxKWzYcg&expires=1759564409
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008781606.png", Super Premier League
-https://d6.merichunidya.com:1686/hls/superpremier.m3u8?md5=8R_kG_TBSNdEyKErul7Sxg&expires=1759568014
+https://d9.merichunidya.com:1686/hls/superpremier.m3u8?md5=-dAY0eeZKv9llgmTocbuAw&expires=1759564410
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008895589.png", Astro Cricket
-https://d7.merichunidya.com:1686/hls/fox501.m3u8?md5=jb86zvINLsQxOzXpwWmGgg&expires=1759568014
+https://d2.merichunidya.com:1686/hls/fox501.m3u8?md5=sO1BhQxH3rAH74e0_87zNw&expires=1759564410
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/17-by-xfireflix.png", ESPN 1
-https://d8.merichunidya.com:1686/hls/espnusa.m3u8?md5=al61O3JemgYpgX-Qxd7j-g&expires=1759568015
+https://d2.merichunidya.com:1686/hls/espnusa.m3u8?md5=HNHI2x8MOpR8hAwRfgvB_Q&expires=1759564410
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/17-by-xfireflix.png", ESPN 2
-https://d6.merichunidya.com:1686/hls/espn2.m3u8?md5=sz7y4pKyxKM_o9_Sg9BtRQ&expires=1759568015
+https://d9.merichunidya.com:1686/hls/espn2.m3u8?md5=sbSFEHwqiyMdgys6RaZOSw&expires=1759564410
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/13-by-xfireflix.png", Sky Sports Mix
-https://d5.merichunidya.com:1686/hls/skysmixx.m3u8?md5=Pk3olG2GRQppWUgY_zlPKQ&expires=1759568015
+https://d4.merichunidya.com:1686/hls/skysmixx.m3u8?md5=T9AD23KwnAsp2DR9Jfz8gQ&expires=1759564410
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745009085794.png", Sky Sports Tennis
-https://d9.merichunidya.com:1686/hls/skystennis.m3u8?md5=O2-nLDWN2EQoO3illHx4_Q&expires=1759568015
+https://d3.merichunidya.com:1686/hls/skystennis.m3u8?md5=aMnEdE4_aN14G29zVrZ12A&expires=1759564411
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/6-by-xfireflix.png", Fox Cricket 501 HD
-https://d10.merichunidya.com:1686/hls/fox501.m3u8?md5=gyIQplTK1eNfJ6C4ckGeNg&expires=1759568015
+https://d1.merichunidya.com:1686/hls/fox501.m3u8?md5=K9swaYemnNTbVy_4hvtr-g&expires=1759564411
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1000173192-modified.png", Sony Sports3
-https://d1.merichunidya.com:1686/hls/ten1hd.m3u8?md5=Qm7sA7grvTNAmSZ5sovhAg&expires=1759568016
+https://d1.merichunidya.com:1686/hls/ten1hd.m3u8?md5=nTMrS3pr32n09-xj53SSJw&expires=1759564411
