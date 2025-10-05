@@ -1572,6 +1572,8 @@ https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
 
 
 
+
+
 #EXTINF:-1 group-title="Pakistani News 🇵🇰📡🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/GEO_News_logo_in_Urdu.png",Geo News
 http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsAxp1mLgFdzrXj-H1SqgcIpY/m3u8
 http://opplex.ch:8080/live/03353290992/03353290992/25976.ts
@@ -1729,12 +1731,12 @@ http://172.105.123.238:18002/play/a002
 http://172.105.123.238:18002/play/a05r
 http://starshare.org:8080/live/134134/134134/4045.ts
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png", Aaj Tak
+https://cc-3qmlo9hjzylii.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3qmlo9hjzylii/hls/live/2014415/aajtakhd/aajtakhdlive/samsung_athd.m3u8
 https://feeds.intoday.in/aajtak/api/master.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/ABP_News_logo.svg", ABP News
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master_720.m3u8
 
-https://cc-3qmlo9hjzylii.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3qmlo9hjzylii/hls/live/2014415/aajtakhd/aajtakhdlive/samsung_athd.m3u8
-
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-news/master.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b7/Zee_News_2023.png/revision/latest/scale-to-width-down/220?cb=20230706224129",Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 http://172.105.123.238:18002/play/a01i
@@ -1755,13 +1757,10 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u
 
 
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/DD_News_New_Logo.png",DD NEWS
-http://opplex.ch:8080/live/03353290992/03353290992/244799.ts
-https://line.now-ott.xyz/live/451AAD/3f41a2/66104.ts
-http://opplex.ch:8080/live/03353290992/03353290992/244799.ts
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://hindi.news24online.com/wp-content/uploads/2022/07/logo.png" ,News 24
 https://amg13643-amg13643c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13643-amg13643c1-amgplt0016/playlist.m3u8
 https://amg13643-amg13643c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13643-amg13643c1-amgplt0016/playlist.m3u8
-https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live_720p/chunks.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CNBC_Awaaz_logo.png",CNBC Awaaz
 https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/CNBC_Awaaz_NW18_MOB-audio_98834_hin=98800-video=1272000.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://play-lh.googleusercontent.com/zWyOgbYz5bijD1KbpqpkjzudPU42sTPH2mioC7q8WXeUIeMqYmSBRhbGFRmWVYY7ckZ3",TV9 Bharatvarsh
@@ -1777,16 +1776,25 @@ https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/gnttv-logo.png",Good News Today
 https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://indianews.in/wp-content/uploads/2021/08/LOGO.png",India News
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/india-news/index.m3u8
+#EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://a.jsrdn.com/hls/23215/news-india-24x7/poster_20250611_205741.jpg" group-title="Desi News",News India 24X7
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-india-24x7/index.m3u8
+#EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://a.jsrdn.com/hls/23196/living-india-news/poster_20250317_183547.jpg",Living India News
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/living-india-news/index.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ec/Bharat_Express_Logo.png",Swadesh News
-https://cdn-2.pishow.tv/live/465/465_0.m3u8
+#EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="hhttps://a.jsrdn.com/hls/23215/bharat-24/poster_20250611_203136.jpg" ,Bharat 24
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bharat-24/index.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRio7Ldnsbo_MCDsbAoDmk47Jd3yO_HNQSFDPWtvFh4mvzcZjFB_mICzwQf&s=10",Hindustan times
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/300/-/2025-04-30/2504302773000.jpg",Aaj Ki KHabar
 https://server.livelegitpro.in/aajkikhabar/aajkikhabar/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/K_News.jpeg",K News India
 https://knews.livebox.co.in/youtubehls/live.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://sudarshannews.in/images/logo.jpg",Sudarshan News
-https://ott.livelegitpro.in/pusa/sudarshantv/tracks-v1a1/mono.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sudarshan-news/index.m3u8
+
+#EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://a.jsrdn.com/hls/23215/vande-bharat-news/poster_20250429_224257.png" ,Vande Bharat News
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/vande-bharat-news/index.m3u8
+#EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://a.jsrdn.com/hls/23215/news-flash/poster_20250429_232713.jpg" ,News Flash
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/news-flash/index.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/300/-/2025-04-30/2504303110000.jpg", SB NEWS 24x7
 https://sbnews.livebox.co.in/sbnewshls/live.m3u8
 #EXTINF:-1 group-title="Indian News 🇮🇳📡🌐" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtX058wHWZnH7S-_YTABMjy_JRAZKDfSCkvQ&s",JK NEWS 24x7
