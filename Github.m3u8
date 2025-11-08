@@ -816,6 +816,7 @@
 #EXTM3U
 #EXTM3U
 #EXTM3U
+#EXTM3U
 
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ",LIVE SPORTS BDIX 1
@@ -3815,4 +3816,13 @@ https://audio.streamcast.xyz/radio/8000/radio.mp3
 
 
 
+
+
+# By Abu SAEEID X Noob
+# Github @abusaeeidx
+# Update on 2025-11-09 03:03:08 (BD Time)
+# Note: I do not host any content, everything is publicly available.
+
+#EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg",Fallback Channel
+https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 
