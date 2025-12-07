@@ -308,6 +308,7 @@
 #EXTM3U
 #EXTM3U
 #EXTM3U
+#EXTM3U
 
 
 
@@ -4149,4 +4150,13 @@ https://audio.streamcast.xyz/radio/8000/radio.mp3
 # Note: I do not host any content, everything is publicly available.
 
 
+
+
+# By Abu SAEEID X Noob
+# Github @abusaeeidx
+# Update on 2025-12-07 10:50:59 (BD Time)
+# Note: I do not host any content, everything is publicly available.
+
+#EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Support/images/offline.jpg",Fallback Channel
+https://raw.githubusercontent.com/HelloPeopleTv4you/IPTV-Playlist/refs/heads/main/offline/index.m3u8
 
