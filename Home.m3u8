@@ -24,7 +24,7 @@ http://198.195.239.50:8095/bdixbd.net_channelihd/video.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://i.postimg.cc/C15wr1RW/Ekushey-Television-Logo-svg.png",Ekushey TV 
-http://172.19.178.39:18190/etv/index.fmp4.m3u8?token=9f669188fb9354abbafe44de1806045e36e90e2e-0abb1ca42c4818a731d4bfc51fb796dd-1770810868-1770800068
+
 
 
 
@@ -50,6 +50,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png",My Tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8
+http://172.19.178.39:18190/my_tv/index.fmp4.m3u8?token=0d40f42ec45cb03696d8f7e0af3277ace78125fc-77344f15b2e3e839b0dec90074b61815-1770892223-1770881423
 
 
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png",Mohona Tv
@@ -60,8 +61,9 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/Channel9_bd.svg.webp",Channel 9 BDIX
-http://172.19.178.39:18190/channel9/index.fmp4.m3u8?token=3833d9d3065b7a334c466e994ee030bebede9569-30ca7942c1f06234b5d3e0f753762d1f-1770809908-1770799108
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/Channel9_bd.svg.webp",Channel 9
+http://172.19.178.39:18190/channel9/index.fmp4.m3u8?token=9a89c5f43ef0c7e47b9f15de2c5dabff86481b57-eb13e3fc7a3039d5c65be0a0da322693-1770892120-1770881320
+
 
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://i.postimg.cc/fW2TnfV2/Background-Eraser-20240628-104749965.png",Gazi TV 
 https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
@@ -69,26 +71,13 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 http://xtv.ooo:8080/live/03353290992/03353290992/245901.ts
 http://isp.top10bhaluka.com/tv/stream.m3u8?id=GTV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png",GTV BDIX
-http://172.19.178.180/servers-stailer/39srv.php?stream=gtv&format=m3u8
-http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1a1/mono.m3
-http://172.19.178.49:18190/sn-gtv/tracks-v1a1/mono.m3u8
-http://172.19.178.39:18190/JS-TV-01/tracks-v1a1/mono.m3u8
-http://172.20.3.1:81/GaziTVHD/tracks-v1a1/mono.m3u8
-http://172.16.29.34:80/play/JmU-3pCgErAiWP5dU8MsA2fDdQrxKt12EKK2jKiKrEE/ts
-http://172.19.178.180/servers-stailer/39srv.php?stream=gtv&format=m3u8
 http://198.195.239.50:8095/bdixbd.net_gazitvhd/video.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://i.postimg.cc/hjtn78RX/Background-Eraser-20240628-100253285.png",Asian TV
 https://mtlivestream.com/asian/ytlive/index.m3u8|Referer=https://mtlivestream.com
 https://mtlivestream.com/hls/asian/ytlive/index.m3u8|Referer=https://mtlivestream.com
 
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png",SA TV
-http://172.19.178.180/servers-stailer/39srv.php?stream=satv&format=m3u8
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/tracks-v1a1/mono.m3u8
-http://tv.cloudcdn.me/live.ts?channelId=114&uid=8069&deviceMac=00:1A:79:0A:3B:2B
-http://xtv.ooo:8080/live/03353290992/03353290992/245945.ts
 
-http://116.204.149.16/satv/index.m3u8
 
 
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://i.postimg.cc/RFWN6GL6/BIJOY-TV-Logo-BD.png",Bijoy Tv
@@ -108,11 +97,11 @@ http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://i.postimg.cc/pT3MHHgC/Background-Eraser-20240628-152508647.png",Anando Tv
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://i.postimg.cc/ncJhpngQ/Nexus-Television-Logo.png",Nexus Tv
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4d/Global_Television_2021.png/revision/latest",Global Tv
@@ -195,36 +184,6 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 
 
 
-
-#EXTINF:-1 group-title="ICC T20 WORLD CUP 2026" tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ",ICC T20 WORLD CUP 2026 BDIX 1
-http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ICC T20 WORLD CUP 2026" tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ",ICC T20 WORLD CUP 2026 BDIX 2
- http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ICC T20 WORLD CUP 2026" tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ",ICC T20 WORLD CUP 2026 BDIX 3
-http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
-http://198.195.239.50:8095/Tsports/index.m3u8
-#EXTINF:-1 group-title="ICC T20 WORLD CUP 2026" tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ",ICC T20 WORLD CUP 2026 BDIX 4
-https://padmaonline.duckdns.org:8088/T-SportHD/tracks-v1a1/mono.m3u8
-http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
-https://padmaonline.duckdns.org:8088/T-SportHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ICC T20 WORLD CUP 2026" tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ",ICC T20 WORLD CUP 2026 BDIX 5
-http://198.195.239.50:8095/bdixbd.net_t.me/tvhoichoi24/video.m3u8
-#EXTINF:-1 group-title="ICC T20 WORLD CUP 2026" tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ",ICC T20 WORLD CUP 2026 BDIX 6
-http://172.27.27.90:8080/tv1/index.m3u8
-http://172.27.27.90:8080/tv2/index.m3u8
-http://103.182.170.32:8888/play/a04e
-#EXTINF:-1 group-title="ICC T20 WORLD CUP 2026" tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ",ICC T20 WORLD CUP 2026 BDIX 7
-http://103.182.170.32:8888/play/a040
-#EXTINF:-1 group-title="ICC T20 WORLD CUP 2026" tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ",ICC T20 WORLD CUP 2026 BDIX 8
-http://103.182.170.32:8888/play/a02m
-#EXTINF:-1 group-title="ICC T20 WORLD CUP 2026" tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ",ICC T20 WORLD CUP 2026 BDIX 9
-http://198.195.239.50:8095/PTV/index.m3u8
-#EXTINF:-1 group-title="ICC T20 WORLD CUP 2026" tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ",ICC T20 WORLD CUP 2026 BDIX 10
-https://tigerhub-bd.vercel.app/Sports-zone/Skysports-Cricket/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="ICC T20 WORLD CUP 2026" tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ",ICC T20 WORLD CUP 2026 BDIX 11
-http://198.195.239.50:8095/WiLLow/index.m3u8
-#EXTINF:-1 group-title="ICC T20 WORLD CUP 2026" tvg-logo="https://lh5.googleusercontent.com/proxy/llgd0Pi2DmMqsfDpq3Ut_LxYQKjPIe4CccguV0GNzC7DjM5oje2Na-r1g6XTy8xpaIoO3xHL8i3_oeZnGejcpOiIGmaAXd_unuiEZHNZ",ICC T20 WORLD CUP 2026 BDIX 12
-https://aynaott.unosottor.workers.dev/bpk-tv/tsportshd.m3u8
 
 
 
