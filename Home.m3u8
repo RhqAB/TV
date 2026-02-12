@@ -138,7 +138,10 @@ http://198.195.239.50:8095/bdixbd.net_somoytv/video.m3u8
 #EXTINF:-1 group-title="Bangladeshi News 🇧🇩" tvg-logo="https://i.postimg.cc/qvpqXpGd/svg.png",Somoy TV 2
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
-#EXTINF:-1 group-title="Bangladeshi News 🇧🇩" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/Independent_Television_Logo.svg.png",Independent
+#EXTINF:-1 group-title="Bangladeshi News 🇧🇩" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/Independent_Television_Logo.svg.png",Independent 
+http://172.19.178.39:18190/independent_tv/index.fmp4.m3u8?token=2ad5227012714735717b51685aae7a09d8fba4e1-a36a932e9db5ac185ad4f2fa50f4afa3-1770894097-1770883297
+
+#EXTINF:-1 group-title="Bangladeshi News 🇧🇩" tvg-logo="https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Hard/Independent_Television_Logo.svg.png",Independent 2
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi News 🇧🇩" tvg-logo="https://i.postimg.cc/XYqhC9LP/Background-Eraser-20240628-103951529.png",Channel 24
@@ -181,6 +184,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 group-title="Bangladeshi News 🇧🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/e/ed/%E0%A6%9C%E0%A6%BE%E0%A6%97%E0%A7%8B_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C.png",Jago News 24
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/playlist.m3u8
+
 
 
 
