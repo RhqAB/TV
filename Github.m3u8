@@ -921,6 +921,7 @@
 #EXTM3U
 #EXTM3U
 #EXTM3U
+#EXTM3U
 
 
 
@@ -7382,171 +7383,172 @@ https://audio.streamcast.xyz/radio/8000/radio.mp3
 
 
 
+
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/16-by-xfireflix.png",Star Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n2.sanwalyaarpya.com:1686/hls/star1in.m3u8?md5=zdcnojcIj_ZxD-gtgzd3aQ&expires=1774701106
+https://n14.sanwalyaarpya.com:1686/hls/star1in.m3u8?md5=cBrd14eM1to2MCgcguErLA&expires=1774705975
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1-by-xfireflix.png",Star Sports 1 Hindi
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n1.sanwalyaarpya.com:1686/hls/starhindi.m3u8?md5=grN-0kFQe87z761U68Szlg&expires=1774701107
+https://n2.sanwalyaarpya.com:1686/hls/starhindi.m3u8?md5=aRmro5vd_o-1WHGK1z7QVQ&expires=1774705975
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/20-by-xfireflix.png",PTV Sports
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n5.sanwalyaarpya.com:1686/hls/ptvpk.m3u8?md5=RaDooSRuD7Bh4u6x18mdzA&expires=1774701107
+https://n9.sanwalyaarpya.com:1686/hls/ptvpk.m3u8?md5=B7itGfGjPJwLOGkjATXIaA&expires=1774705975
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n9.sanwalyaarpya.com:1686/hls/willowusa.m3u8?md5=Ob4QX8UQ3XQXMzOwcH6KtQ&expires=1774701107
+https://n2.sanwalyaarpya.com:1686/hls/willowusa.m3u8?md5=7KEqz8ySq5twoW668PzZmg&expires=1774705975
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png",Willow HD 2
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n3.sanwalyaarpya.com:1686/hls/willowextra.m3u8?md5=unS4D54QDBxXlxzFPHAuYg&expires=1774701108
+https://n9.sanwalyaarpya.com:1686/hls/willowextra.m3u8?md5=5GdKq74F-X9J1czuT2NzPg&expires=1774705976
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/10-by-xfireflix.png",Ten Sports
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n5.sanwalyaarpya.com:1686/hls/tenspk.m3u8?md5=l1QC6Seub7wEfGAh49gYnQ&expires=1774701108
+https://n5.sanwalyaarpya.com:1686/hls/tenspk.m3u8?md5=1IojuX_94OIarCWdJO2ygA&expires=1774705976
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png",A Sports HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n1.sanwalyaarpya.com:1686/hls/asportshd.m3u8?md5=8sD8tH_N0O2m5QimerrSrg&expires=1774701108
+https://n6.sanwalyaarpya.com:1686/hls/asportshd.m3u8?md5=aGi8tFE1xDA5wCd644yEWw&expires=1774705976
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/9-by-xfireflix.png",Sky Sports Cricket
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n5.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=VZAs6d4_yquaax2IpOScCg&expires=1774701109
+https://n2.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=8Lon4xwUEV1QMdnXCcHaDg&expires=1774705977
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/18-by-xfireflix.png",Sky Sports Main Event
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n9.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=kgtraYKPXyNuH2y2hyQDGg&expires=1774701109
+https://n7.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=_Z-rOPd_bnJapLaod5rPGw&expires=1774705977
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png",TNT 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n8.sanwalyaarpya.com:1686/hls/bbtsp1.m3u8?md5=bJB7jRRAUQx3lJKSXV8cfw&expires=1774701109
+https://n8.sanwalyaarpya.com:1686/hls/bbtsp1.m3u8?md5=kwve4JqA7xz1fZh0Wxazag&expires=1774705977
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png",TNT 2
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n14.sanwalyaarpya.com:1686/hls/bbtsp2.m3u8?md5=N4wzKGqQu1OAt5MYCC8Rrg&expires=1774701110
+https://n1.sanwalyaarpya.com:1686/hls/bbtsp2.m3u8?md5=SmNKy4hQAimZMlD5HyemBQ&expires=1774705977
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png",TNT 3
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n8.sanwalyaarpya.com:1686/hls/bbtsp3.m3u8?md5=-4raDn1TBOyi8Em_3y-7_A&expires=1774701110
+https://n5.sanwalyaarpya.com:1686/hls/bbtsp3.m3u8?md5=NDAGV6ONKxQqT7I3XCJ9pw&expires=1774705978
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/tnt.png",TNT 4
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n14.sanwalyaarpya.com:1686/hls/bbtespn.m3u8?md5=eiBY8eoYCFSOv0d0tIP60Q&expires=1774701110
+https://n2.sanwalyaarpya.com:1686/hls/bbtespn.m3u8?md5=56iaoheSupWbHGKsRZZfUQ&expires=1774705978
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",Sky Sport Nz 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n6.sanwalyaarpya.com:1686/hls/sky1nz.m3u8?md5=bXFMB01QgAAkrVT4TVvNUA&expires=1774701110
+https://n3.sanwalyaarpya.com:1686/hls/sky1nz.m3u8?md5=W7J9tVZfEckN_4azRpSzfg&expires=1774705978
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",Sky Sport Nz 2
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n3.sanwalyaarpya.com:1686/hls/sky2nz.m3u8?md5=BJo06RPVAMq6l6uicPr5lg&expires=1774701111
+https://n2.sanwalyaarpya.com:1686/hls/sky2nz.m3u8?md5=Md5IyhXG7BUmVDu43jCI4Q&expires=1774705978
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",Sky Sport Nz 3
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n14.sanwalyaarpya.com:1686/hls/sky3nz.m3u8?md5=oH3AjvNvmm-UmQqt55vSFg&expires=1774701111
+https://n5.sanwalyaarpya.com:1686/hls/sky3nz.m3u8?md5=ZfYSiXTw5A1ST8cze9xBkA&expires=1774705978
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",Sky Sport Nz 4
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n5.sanwalyaarpya.com:1686/hls/sky4nz.m3u8?md5=IfQMZ_jqEXteAaRw2vlCvA&expires=1774701111
+https://n4.sanwalyaarpya.com:1686/hls/sky4nz.m3u8?md5=Pzbc0IVqxGx4Uoqp9_CCDw&expires=1774705978
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",Sky Sport Nz 5
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n7.sanwalyaarpya.com:1686/hls/sky5nz.m3u8?md5=PZfk7zBamQ5hCmKNH82BrA&expires=1774701111
+https://n3.sanwalyaarpya.com:1686/hls/sky5nz.m3u8?md5=x0fAb6p69SipA0lvmUWlUQ&expires=1774705979
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",Sky Sport 6 Nz
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n8.sanwalyaarpya.com:1686/hls/sky6nz.m3u8?md5=QXF8wQETZuwFs4zNoE3JKQ&expires=1774701111
+https://n14.sanwalyaarpya.com:1686/hls/sky6nz.m3u8?md5=-Zyg_hJCXtERRBIHWEszwg&expires=1774705979
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",Sky Sport Nz 7
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n8.sanwalyaarpya.com:1686/hls/sky7nz.m3u8?md5=m9Ehbye-exXVeehXmDAfdw&expires=1774701112
+https://n9.sanwalyaarpya.com:1686/hls/sky7nz.m3u8?md5=NrJNTIrcJjS8Up-d25Xp4g&expires=1774705979
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",Sky Sport Nz 8
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n4.sanwalyaarpya.com:1686/hls/sky8nz.m3u8?md5=P7vNbhxfkEmZifFe27cq9w&expires=1774701112
+https://n3.sanwalyaarpya.com:1686/hls/sky8nz.m3u8?md5=jlPej2cQrruvGcGMSkbB3Q&expires=1774705979
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/56-by-xfireflix.png",Sky Sport Nz 9
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n6.sanwalyaarpya.com:1686/hls/sky9nz.m3u8?md5=NP3D1TogggqwKS7X0l9s0g&expires=1774701112
+https://n4.sanwalyaarpya.com:1686/hls/sky9nz.m3u8?md5=LK1TsNh3DcJa5SnZrXYaCA&expires=1774705979
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/skycinema.png",Sky Cinema
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n6.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=TPJT9Ni-WHJdYAegd_3o2A&expires=1774701112
+https://n9.sanwalyaarpya.com:1686/hls/skysme.m3u8?md5=x0fYpVRO3R8ybf5zPspbDQ&expires=1774705979
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745007829332.png",Sky Sports Action
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n2.sanwalyaarpya.com:1686/hls/skysact.m3u8?md5=TQImI6BZgOeK5Wo4g4ibtA&expires=1774701112
+https://n9.sanwalyaarpya.com:1686/hls/skysact.m3u8?md5=oyp0MN4W8dXBImufQGTOCA&expires=1774705980
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008055327.png",Sky Sports Golf
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n4.sanwalyaarpya.com:1686/hls/skysgol.m3u8?md5=WYYzOh5NYkjm_cNEJV67zA&expires=1774701112
+https://n14.sanwalyaarpya.com:1686/hls/skysgol.m3u8?md5=gqQWbV76AjHRdY7-vKAgtg&expires=1774705980
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/43-by-xfireflix.png",Sky Sports Premier League
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n4.sanwalyaarpya.com:1686/hls/skysprem.m3u8?md5=mK9VhAzbVB6n3OWx-5aSHw&expires=1774701112
+https://n4.sanwalyaarpya.com:1686/hls/skysprem.m3u8?md5=uWr_RSF225B5QRMakdOCug&expires=1774705980
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/44-by-xfireflix.png",Sky Sports Football
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n8.sanwalyaarpya.com:1686/hls/skysfott.m3u8?md5=8OlTLT7m9A9C9Dbx6GjDPg&expires=1774701113
+https://n4.sanwalyaarpya.com:1686/hls/skysfott.m3u8?md5=bmxJ2jbKt3EJa0jqDx6_yA&expires=1774705980
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008347584.png",Sky Sports Plus
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n8.sanwalyaarpya.com:1686/hls/skysare.m3u8?md5=4GEhs5iWXWbg7oOAZ7bzeQ&expires=1774701113
+https://n2.sanwalyaarpya.com:1686/hls/skysare.m3u8?md5=G1VpWnTfEZcQfpV_shfd1A&expires=1774705981
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008468637.png",Sky Sports F1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n8.sanwalyaarpya.com:1686/hls/skysfor1.m3u8?md5=kT-hlIECDUpIHy33USzxiQ&expires=1774701113
+https://n14.sanwalyaarpya.com:1686/hls/skysfor1.m3u8?md5=WIGdryk1kTBTjMHJrz8LkQ&expires=1774705981
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/19-by-xfireflix.png",LaLiGA
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n1.sanwalyaarpya.com:1686/hls/laligauk.m3u8?md5=OM4LifEjXYfKFr8uTSwlGg&expires=1774701113
+https://n14.sanwalyaarpya.com:1686/hls/laligauk.m3u8?md5=aGewAh94h8dQMFbo8-9VKw&expires=1774705981
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/31-by-xfireflix.png",Premier Sports 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n2.sanwalyaarpya.com:1686/hls/premieruk.m3u8?md5=E--GTUuXS72A7n5H8gjozw&expires=1774701113
+https://n3.sanwalyaarpya.com:1686/hls/premieruk.m3u8?md5=4UKieJ-3B6_jbAZ6E0lTMQ&expires=1774705981
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/31-by-xfireflix.png",Premier Sports 2
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n14.sanwalyaarpya.com:1686/hls/hdchnl2.m3u8?md5=FPqdQfZY1AQLPVt3aMkyFg&expires=1774701113
+https://n4.sanwalyaarpya.com:1686/hls/hdchnl2.m3u8?md5=WATHuGsL8343jpy2F9eDUg&expires=1774705981
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/34-by-xfireflix.png",Super Football
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n3.sanwalyaarpya.com:1686/hls/superfotball.m3u8?md5=NILBDCUOgWfpnZku-LakFg&expires=1774701113
+https://n8.sanwalyaarpya.com:1686/hls/superfotball.m3u8?md5=XD2dUPLhpcKo3r94GUIqiw&expires=1774705981
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008781606.png",Super Premier League
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n3.sanwalyaarpya.com:1686/hls/superpremier.m3u8?md5=Jq6TZtevxK-F81dE_DKE0w&expires=1774701114
+https://n3.sanwalyaarpya.com:1686/hls/superpremier.m3u8?md5=AtXHQ-ZVohq1eCZfLiq_FA&expires=1774705982
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745008895589.png",Astro Cricket
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n9.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=GECAvUekixHs95PHVWuuNw&expires=1774701114
+https://n7.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=K91kIaaBccuEO4srGN6PDA&expires=1774705982
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/17-by-xfireflix.png",ESPN 1
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n9.sanwalyaarpya.com:1686/hls/espnusa.m3u8?md5=dAWJvZ0A9PCpZZoMQKOcnw&expires=1774701114
+https://n1.sanwalyaarpya.com:1686/hls/espnusa.m3u8?md5=PeTYBWRFCv-zloNl7XvlDw&expires=1774705982
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/17-by-xfireflix.png",ESPN 2
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n3.sanwalyaarpya.com:1686/hls/espn2.m3u8?md5=XsaC6BnoWGfN-YwH8DbQ7Q&expires=1774701114
+https://n8.sanwalyaarpya.com:1686/hls/espn2.m3u8?md5=d5XP4mN5wOShxjrDEMtLsA&expires=1774705982
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745007829327.png",Sky Sports Arena
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n2.sanwalyaarpya.com:1686/hls/skysare.m3u8?md5=t-rVnFFUTVLfhC-_3WrLNA&expires=1774701114
+https://n7.sanwalyaarpya.com:1686/hls/skysare.m3u8?md5=8X_PfiGYkIuplhHLI3RgEg&expires=1774705982
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/13-by-xfireflix.png",Sky Sports Mix
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n9.sanwalyaarpya.com:1686/hls/skysmixx.m3u8?md5=w1wTK7Lt2ZaU6wAeWhhPWA&expires=1774701114
+https://n2.sanwalyaarpya.com:1686/hls/skysmixx.m3u8?md5=59O5oaKfEMRa4rpvV8tQSw&expires=1774705982
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1745009085794.png",Sky Sports Tennis
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n4.sanwalyaarpya.com:1686/hls/skystennis.m3u8?md5=rkCJY8dlNgKtMfvlVaVSWg&expires=1774701115
+https://n4.sanwalyaarpya.com:1686/hls/skystennis.m3u8?md5=MFAcfe0aWzSADCOMEmekCw&expires=1774705982
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/6-by-xfireflix.png",Fox Cricket 501 HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n14.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=C2wcm28lMyqEpeyQISlBQA&expires=1774701115
+https://n9.sanwalyaarpya.com:1686/hls/fox501.m3u8?md5=K1tYp1XWTb1F52-R6HvI8w&expires=1774705983
 #EXTINF:-1 group-title="Sports Auto Update" tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/1000173192-modified.png",Sony Sports3
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://n5.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=Uw01vCpQ6wrKejoRjU4Hig&expires=1774701115
+https://n4.sanwalyaarpya.com:1686/hls/ten1hd.m3u8?md5=8hju_xRxxXo9uKBD-O4suw&expires=1774705983
